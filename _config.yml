@@ -15,5 +15,7 @@ url: "dcchambers.github.io" # the base hostname & protocol for your site
 twitter_username: dakotachambers
 github_username:  dcchambers
 
+exclude: [README.md]
+
 # Build settings
 markdown: kramdown
