@@ -27,8 +27,21 @@ github_username:  dcchambers
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 #theme: minima
+# Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 #minimal-mistakes specific
 paginate: 5 # amount of posts to show on home page.
@@ -36,9 +49,23 @@ paginate: 5 # amount of posts to show on home page.
 # Site Author
 author:
   name: "Dakota Chambers"
-  avatar: "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/dakota_avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   twitter: dakotachambers
   github: dcchambers
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: # true
+      comments: # true
+      share: # true
+      related: # true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
