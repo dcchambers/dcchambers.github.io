@@ -1,3 +1,5 @@
 main:
   - title: "About"
-    url: /about
+    url: /about.html
+  - title: "Work"
+    url: /work.html
