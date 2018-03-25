@@ -15,9 +15,9 @@ This is a technical blog. Since it's a blog about technology, let's get some
 One of my resolutions for :calendar: 2018 is to improve my writing.[^1][^2] It
 turns out that in order to write *better*, you have to write *more*. I've been
 [Bullet Journaling](http://bulletjournal.com/) for a while now - but that
-doesn't really let me flex my creative writing muscles. I've started writing
-a regular journal as well. I've been wanting to start a technical writing blog
-for a while. There are a number of blogs I read religiously.
+doesn't really let me flex my creative writing muscles. I have already started
+writing a regular journal, but I've been wanting to start a technical blog for a
+while. There are a number of tech/programming/ops blogs I read religiously.
 [Julia Evans](https://jvns.ca/),
 [Rachel by the Bay](http://rachelbythebay.com/w/),
 [Joel on Software](https://www.joelonsoftware.com/), etc. You know the drill.
