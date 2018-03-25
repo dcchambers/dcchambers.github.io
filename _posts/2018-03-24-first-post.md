@@ -2,4 +2,4 @@
 title: First Post!
 ---
 
-First Jekyll post!
+First Jekyll post! :rocket:
