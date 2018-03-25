@@ -17,9 +17,10 @@ locale: "en-US"
 title: "chambers.io"
 email: dakotachambers@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Technical writing.
+  Technical writing and miscellaneous thoughts on web development, Linux system
+  administration, and dev/ops.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "dcchambers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "chambers.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dakotachambers
 github_username:  dcchambers
 
@@ -49,6 +50,7 @@ paginate: 5 # amount of posts to show on home page.
 # Site Author
 author:
   name: "Dakota Chambers"
+  bio: "Doing dev/ops stuff at the UW Department of Radiology."
   avatar: "/assets/images/dakota_avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   twitter: dakotachambers
   github: dcchambers
