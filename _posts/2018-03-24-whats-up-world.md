@@ -40,10 +40,9 @@ clinical applications that are used every day in the UW Hospital. We're teamed
 up with the awesome folks at [UW Health](https://uwhealth.org) to provide
 remarkable healthcare and do amazing research.
 
-Before this I was lucky enough to work as a Linux system administrator at the UW
+Before this I worked as a Linux system administrator at the UW
 [Center for High Throughput Computing](http://chtc.cs.wisc.edu/) and at the
-[Morgridge Institure for Research](https://morgridge.org/) working with the
-CHTC team.
+[Morgridge Institure for Research](https://morgridge.org/).
 
 Outside of work, I like building silly applications and websites that rarely
 ever get finished. I also enjoy dabbling in pixel art and drawing/animating with
@@ -65,3 +64,7 @@ has just ticked past midnight. My first post and I'm already breaking the rules.
 [^1]: I just realized the Calendar emoji :calendar: doesn't show the current date and for some reason that really bothers me.
 [^2]: I also just realized you can create footnotes in Markdown. Awesome.
 [^3]: Maybe I can expand my vocabulary :book: a bit, too? :wink:
+
+---
+Originally posted: 03-24-18  
+Updated: 03-26-18
