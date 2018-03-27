@@ -4,11 +4,13 @@ title: What's Up, World?
 
 Because `Hello, World!` is *sooo* 1976.
 
-This is a technical blog. Since it's a blog about technology, let's get some
-*technical details* out of the way.
-* The content is written in [`markdown`](http://commonmark.org/help/).
+This is a technical blog.  
+Let's get some *technical details* out of the way.
+* The content is written in [`markdown`](http://commonmark.org/help/)
 * The site is built with [Jekyll](https://jekyllrb.com/).
 * It's hosted on [Github Pages](https://pages.github.com).
+* You can view even view the [source code](https://github.com/dcchambers/dcchambers.github.io).
+
 
 ## Why am I writing this?
 
@@ -20,7 +22,8 @@ writing a regular journal, but I've been wanting to start a technical blog for a
 while. There are a number of tech/programming/ops blogs I read religiously.
 [Julia Evans](https://jvns.ca/),
 [Rachel by the Bay](http://rachelbythebay.com/w/),
-[Joel on Software](https://www.joelonsoftware.com/), etc. You know the drill.
+[Joel on Software](https://www.joelonsoftware.com/),
+[Dan Luu](http://danluu.com/), etc. You know the drill.
 Incredibly smart people writing incredibly well about incredibly cool<sup>and
 some incredibly mundane</sup> things.[^3] I don't imagine my technical rants
 will ever be seen in the same light as some of those talented individuals, but
