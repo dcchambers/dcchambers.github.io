@@ -64,7 +64,3 @@ has just ticked past midnight. My first post and I'm already breaking the rules.
 [^1]: I just realized the Calendar emoji :calendar: doesn't show the current date and for some reason that really bothers me.
 [^2]: I also just realized you can create footnotes in Markdown. Awesome.
 [^3]: Maybe I can expand my vocabulary :book: a bit, too? :wink:
-
----
-Originally posted: 03-24-18  
-Updated: 03-26-18
