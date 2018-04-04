@@ -144,7 +144,7 @@ With tools Jekyll I can easily take a paper written in Markdown and convert it
 into a responsive web page, ready for popular consumption by anyone with an
 [internet-connected device](https://en.wikipedia.org/wiki/Global_Internet_usage).
 I can then use a tool like Pandoc to convert my Markdown paper to PDF, print it,
-and distribute it to those of us left in the stone age.
+and distribute it as I wish in hard-copy format.
 
 ## LaTeX without LaTeX.
 
@@ -159,9 +159,9 @@ have in-line LaTeX support. This means you can use LaTeX to add math and other
 complex items to your Markdown document!
 
 For example, I've selected [kramdown](https://kramdown.gettalong.org/index.html)
-as the Markdown "version" in this document. (Kramdown is actually a Markdown
+as the Markdown "version" in this document. (Kramdown isn't actually a Markdown
 "version" but rather a Ruby library for parsing and converting a superset of
-Markdown, but that's pedantic. :wink: Kramdown, along with many other Markdown
+Markdown, but that's pedantic. :wink:) Kramdown, along with many other Markdown
 varients, support LaTeX-like typesetting. Take a look at
 [this excellent post](http://www.gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/)
 for how to use LaTeX within Markdown via the [MathJax](https://www.mathjax.org/)
