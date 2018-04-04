@@ -45,7 +45,7 @@ whitelist:
   - jemoji
 
 #minimal-mistakes specific
-paginate: 5 # amount of posts to show on home page.
+paginate: 99 # amount of posts to show on home page.
 
 # Site Author
 author:
