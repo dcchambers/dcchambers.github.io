@@ -1,5 +1,5 @@
 main:
   - title: "About"
-    url: "../about.html"
+    url: "http://chambers.io/about.html"
   - title: "Work"
-    url: "/work.html"
+    url: "http://chambers.io/work.html"
