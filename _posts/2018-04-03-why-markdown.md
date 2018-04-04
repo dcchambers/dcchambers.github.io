@@ -37,6 +37,8 @@ At least that's how I imagined it happened.
 
 ## So, What is Markdown?
 
+![](/assets/images/markdown_logo.png)
+
 From the creator himself, *"The idea for Markdown is to make it easy to read,
 write, and edit prose. HTML is a publishing format; Markdown is a writing
 format."*[^1]
