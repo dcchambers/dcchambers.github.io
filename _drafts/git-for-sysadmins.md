@@ -5,10 +5,10 @@ title: Git for Sysadmins
 Congratulations! You survived [Git 101](/2018/04/09/git-101.html). :tada:
 
 I'm sure you noticed that it focused on using Git from the perspective of a
-software developer. A common problem with most Git documentation and tutorials
-online is that they tend to be intended only for developers. Most of the
-documentation aimed at System Administrators is focused around administrating
-a Git server, not about really *using Git* for system administration tasks. This
+software developer. A common problem with most Git documentation and online tutorials
+is that they are often written with one audience in mind: developers. Most of the
+documentation aimed at System Administrators is focused around *administrating
+a Git server*, not about actually *using Git* for system administration tasks. This
 post is going to focus on **practical ways you can use Git with System
 Administration tasks.**
 
