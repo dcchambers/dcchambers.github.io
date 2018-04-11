@@ -26,6 +26,6 @@ What system works great with plain-text files? *Git, of course!*
 
 ### Puppet/Salt/Ansible/Chef Configuration
 When I was still working as a Linux System Administrator at the
-[Center for High Throuhput Computing](http://chtc.cs.wisc.edu/) at the
+[Center for High Throughput Computing](http://chtc.cs.wisc.edu/) at the
 University of Wisconsin, we used [Puppet](https://puppet.com/) as our server
 configuration management tool.
