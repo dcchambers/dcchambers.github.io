@@ -25,6 +25,18 @@ What system works great with plain-text files? *Git, of course!*
 ## Practical Sysadmin Uses for Git
 
 ### Puppet/Salt/Ansible/Chef Configuration
+Automation is essential to survival in modern enterprise. There are simply too
+many tasks to be done manually, and too many servers to manage individually.
+Configuration Management tools allow us to stay on top of an ever-growing list
+of responsibilities and manage hundreds or thousands of servers with a
+relatively small technical team. As companies move to *the cloud* and fully
+embrace the *software-defined data center*, configuration management tools
+become even more important. As we start to treat servers like cattle and less
+like pets, we need a way to rapidly provision and configure new servers. It's
+great that we don't have to care about keeping a specific physical server alive
+any more - but all this virtualization and shuffling around data means that we
+need to be able to spin up servers and configure them faster than ever.
+
 When I was still working as a Linux System Administrator at the
 [Center for High Throughput Computing](http://chtc.cs.wisc.edu/) at the
 University of Wisconsin, we used [Puppet](https://puppet.com/) as our server
