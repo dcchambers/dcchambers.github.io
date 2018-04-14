@@ -3,7 +3,9 @@ title: How Git Works
 ---
 
 So far this week we've talked about what Git is and how to use it. If you're
-anything like me, you want to know how things work under the hood.
+anything like me, you want to know how things work under the hood. Git works
+differently than most other version control systems. As a result, it runs
+freakishly fast and has some killer features that elevate it above the competition.
 
 ## Understanding Diff
 
@@ -150,4 +152,34 @@ some more contents of the file to help give context.
 And that's how `diff` works! The first step in understanding Git/version control
 is to know that they operate by tracking changes in files.
 
-## Snapshots, not Differences
+### Snapshots, not Differences
+
+According to [the official documentation](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics),
+Git doesn't actually work by tracking diffs. Instead, Git keeps a *snapshot* of
+the current state of a directory. Haha, you've been fooled! You learned the magic
+of *diff* for nothing! Fret not - it's still important to know what a *diff* is
+to understand why Git is different. Git still uses diffs to know when a file has
+been changed. Some version control systems, like CVS, Subversion, Bazaar, etc
+work by tracking diffs. This is called *delta-based version control*.
+
+Git works a little differently. Every time you make a *commit*, Git takes a
+snapshot of all the files, and then creates a reference to those files in there
+exact form at that moment in time. If you change a file and make another commit,
+Git takes another snapshot and creates another reference. At a glance this seems
+horribly inefficient - you would think that your repo would rapidly increase in
+size with every commit you make if it keeps a copy of every file in every commit,
+right? Luckily, Git is smart about taking snapshots! If a file hasn't changed
+from a previous version when you make a commit, it doesn't actually save another
+copy of that file. Instead, it just saves a link to the previous (identical)
+version of that file. You can imagine it similar to how a *symlink* works in a
+Unix-like operating system.
+
+This distinction actually allows Git to do a lot of the cool things that other
+version control systems cannot. For example, Git has an incredibly powerful
+branching model due to the nature of how it works that many other VCS can not
+compete with.
+
+## Three States
+
+Files in a Git repository have three states they can be in: **modified**,
+**staged**, and **commited**.
