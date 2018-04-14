@@ -14,7 +14,7 @@ files. Linux actually has a *diff* utility that can tell you the difference
 between two files. It works by examining each *line* individually. Here's a
 quick example.
 
-Let's assume file1 contains:
+Let's assume that file1 contains:
 ```
 This is a file!
 Hello world!
