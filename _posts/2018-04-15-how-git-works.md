@@ -401,4 +401,6 @@ And that's the basics of how Git works!
 
 Thanks for reading! This post (and [Git 101](/2018/04/09/git-101.html)) ended up
 taking a lot more time writing than I originally anticipated. As a result, I'm
-pushing back the upcoming "Git vs. the Competition" post to next week.
+pushing back the upcoming "Git vs. the Competition" post to early next week to
+wrap up "Git Week 2018." For those of you that are getting tired of Git - new
+content is coming too! Thanks for sticking it out this far. :smile:
