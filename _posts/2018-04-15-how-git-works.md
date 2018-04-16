@@ -197,7 +197,7 @@ All right. Diffs, snapshots...apples, oranges, you get it. Moving on!
 ## Three States
 
 Files in a Git repository have three states they can be in: **modified**,
-**staged**, and **commited**.
+**staged**, and **committed**.
 * When you make a change to a file and save that change, it is marked as
 **modified**. At this stage, Git has **not** recorded the changes. If you were
 to delete the file, you would not be able to recover it with those changes
@@ -206,7 +206,7 @@ present.
 `git add` to stage the file. This marks the file as **staged**. It updates the
 *snapshot* (index) to the contents of the file in the current working directory.
 Staging a file tells Git you are ready to add it to the next commit.
-* Finally, you can use `git commit` to mark a file as **commited**. In this
+* Finally, you can use `git commit` to mark a file as **committed**. In this
 stage, the file is backed up in the Git 'database'. At this point, it's virtually
 impossible to *accidentally* make a file non-recoverable.
 This image from the
@@ -332,7 +332,8 @@ and branches. Git uses Hashes to refer to objects as well. For example, the
 plumbing command `git hash-object` takes some file, stores the data in the
 `.git/objects directory`, and returns the hash value that it stored the data at.
 
-Commits are stored as Objects too!
+Commits are stored as Objects too! Ever wonder why Git is so damned fast? It's
+largely due to the key-value data model it uses.
 
 #### Trees and Blobs
 
@@ -358,7 +359,43 @@ A *tag* is a handy way of referring to a specific commit. It's kind of like a
 branch reference, except it does not 'move' as you make more commits in that
 branch. *Tags* are useful for doing release-management with Git.
 
+#### Remotes
 
+A *remote* is a reference that points to a remote git server. For example, when
+you clone a repo from Github it creates a *remote* named `origin`. Once you've
+added a remote and pushed to it with `git push`, Git stores the value you last
+pushed in the `.git/refs/remotes` directory. You can always reference this
+directory to see what a branch looked like the last time you pushed it to the
+remote server. A remote is different than a branch in that Git considers it
+"read only." This is why your commits don't write directly to the remote repo.
+The HEAD never points to a remote, but to a local branch/commit.
+
+## Putting It All Together
+
+Okay, we've look at some of the things that make Git work behind the scenes.
+Let's take a minute to re-cap and put all the pieces together.
+
+* Typical version control systems work by tracking changes to files. Git, however,
+is not a delta-based VCS. Git takes a *snapshot* of the directory when you make
+a *commit*.
+* Every file in a Git Repository can be in one of three states:
+  * Modified
+  * Staged
+  * committed
+* Every Git repository has a .git directory that contains pretty much everything
+needed for Git to work.
+* Git has two types of commands, *plumbing* and *porcelain*.
+  * Porcelain commands are what a user types into a terminal to perform regular
+  Git operations.
+  * Plumbing commands are low-level commands used by Git and other scripts to
+  actually manipulate data, objects, and references.
+* Objects and References make the world go 'round.
+  * Everything in Git is stored as an *object* in a key-value data store.
+    * Git uses an SHA-1 hashing algorithm to store data as blobs.
+  * References are nice ways to refer to SHA-1 hashes so we don't have to
+  memorize and type 40-digit hexadecimal hash values.
+
+And that's the basics of how Git works!
 
 ---
 
