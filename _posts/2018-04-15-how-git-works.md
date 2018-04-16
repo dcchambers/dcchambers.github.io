@@ -4,11 +4,11 @@ title: How Git Works
 
 So far this week we've talked about what Git is and how to use it. If you're
 anything like me, you want to know how things work under the hood. When you first
-learn Git it can seem like magic...but is also seems like something that can
-easily break or works by pure *byte voodoo*. One of the best things Git does is
-allow you to write code with confidence - fear not about breaking things or
-losing files. They're always recoverable. To feel confident, it helps to know
-how things work.
+learn Git it can seem like magic...but it also seems like something that can
+easily break. Or something that works by pure *demonic byte voodoo*. One of the
+best things Git does is allow you to write code with confidence - fear not about
+breaking things or losing files. They're always recoverable. To feel confident,
+it helps to know how things work.
 
 This [XKCD comic](https://xkcd.com/1597/) perfectly summarizes how most people
 use Git.
