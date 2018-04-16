@@ -153,6 +153,12 @@ knowledge! This is an awesome approach for a lightweight Wiki because it doesn't
 require running a full PHP/SQL setup like Mediawiki, and it doesn't have the
 costs of an enterprise setup like Confluence.
 
+You can also write documentation (or textbooks, guides, etc) with
+[Gitbook](https://www.gitbook.com/)! You can tie Gitbook into a Github account
+and write documentation in Markdown. This is one model that allows a team to
+collaborate and for write simple, elegant documentation, that is also easy to
+share with others.
+
 ### Prototyping and Data Visualizations
 
 As a system administrator you might find yourself tasked with quickly deploying
