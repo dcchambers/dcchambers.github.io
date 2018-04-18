@@ -96,7 +96,7 @@ Do [code reviews](https://github.com/features/code-review),
 [and more, directly in Github.](https://github.com/features) Gitlab, Bitbucket,
 and the other guys all have similar options.
 
-## The competition
+## The Competition
 
 There are many version control systems, but only a few I would consider as a
 realistic alternative to Git.
@@ -191,10 +191,10 @@ teams would be able to switch to Git/Mercurial without issue, though.
 Well, that sums up Git vs. the Competition. Ultimately, there's a ton of choices
 out there. Git is my VCS of choice, but I use Mercurial at work in addition to
 Git (damn you legacy projects!), and it serves us well. If you're trying to
-decide on a tool, just do a little research to see the benefits of each. For the
-most part, I think Git has just about everything most teams need to be successful.
+decide on a tool, do your research to learn the benefits of each. In general, 
+I think Git has just about everything most teams need to be successful.
 
-This wraps up [Git Week](/2018/04/07/git-week.html). I hope you've enjoyed reading
+This wraps up my [miniseries on Git](/2018/04/07/git-week.html). I hope you've enjoyed reading
 about one of the most influential software development tools of the 21st Century!
 If you're getting tired of Git-related posts, thanks for sticking with me. I've
 got some fresh content in the pipeline!
