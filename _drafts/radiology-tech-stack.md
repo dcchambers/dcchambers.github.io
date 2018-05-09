@@ -51,9 +51,11 @@ sure.
   * HTML/CSS, JS (frontend)
   * iOS - Swift
   * Android - Java?
-  * Ruby on Rails
+  * Ruby on Rails --> Philips/AI Bridge Platform
+    * Ruby (jRuby)
+    * Postgresql
+    * Bundler
   * Java (legacy only - no new development)
-  *
 * Dev/Ops
   * Docker
   * Jenkins
@@ -64,4 +66,3 @@ sure.
     * Ubuntu 16.04 LTS
     * RHEL7/CentOS7
   * MySQL
-  
