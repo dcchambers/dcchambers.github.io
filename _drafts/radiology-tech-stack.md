@@ -27,7 +27,7 @@ So what does a development team in a Radiology department do? Radiology is a
 medical specialty that uses medical imaging to diagnose issues within the body.
 Medical imaging covers everything from X-Rays to MRI (Magnetic Resonance
 Imaging) to CT (Computed Tomography) to PET (Positron Emission Tomography)
-scans to Ultrasound. 
+scans to Ultrasound.
 
 
 
@@ -43,3 +43,25 @@ servers.
 Most of our existing legacy applications are regular good 'ol LAMP stack
 applications. The (L)inux (A)pache (M)ysql (P)HP stack is battle-tested for
 sure.
+
+
+## List of everything
+* Programming
+  * PHP (legacy, maintenance, and wordpress site)
+  * HTML/CSS, JS (frontend)
+  * iOS - Swift
+  * Android - Java?
+  * Ruby on Rails
+  * Java (legacy only - no new development)
+  *
+* Dev/Ops
+  * Docker
+  * Jenkins
+  * Nginx (Reverse Proxy)
+  * Apache
+* Misc.
+  * Linux
+    * Ubuntu 16.04 LTS
+    * RHEL7/CentOS7
+  * MySQL
+  
