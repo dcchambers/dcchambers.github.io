@@ -154,7 +154,7 @@ the mix.
 
 Containerize all the things! If you don't know what
 [Docker](https://www.docker.com/) or
-[containers]https://www.redhat.com/en/topics/containers) are - you're really
+[containers](https://www.redhat.com/en/topics/containers) are - you're really
 missing out. We have all of our applications "dockerized." In practice, this
 means we use docker-compose to build and run the application environment.
 
@@ -194,26 +194,13 @@ We use Git for current and future applications, and have a self-hosted
 all of our docker/container configuration in Git. Not using Git?
 [You should be.](http://chambers.io/2018/04/09/git-101.html)
 
+---
 
-##  List of everything
-* Programming
-  * PHP (legacy, maintenance, and wordpress site)
-  * HTML/CSS, JS (frontend)
-  * iOS - Swift
-  * Android - Java?
-  * Ruby on Rails --> Philips/AI Bridge Platform
-    * Ruby (jRuby)
-    * Postgresql
-    * Bundler
-  * Java (legacy only - no new development)
-  * Groovy/Grails (legacy only - no new dev)
-* Dev/Ops
-  * Docker
-  * Jenkins
-  * Nginx (Reverse Proxy)
-  * Apache
-* Misc.
-  * Linux
-    * Ubuntu 16.04 LTS
-    * RHEL7/CentOS7
-  * MySQL
+And that's just about everything. As you can see, we use a ton of different
+technologies and get to work on a wide range of applications. It can get a
+little crazy at times, but it's awesome that we get to learn so many cool
+tools/technologies and see many projects through from start-to-finish. There
+aren't many jobs where you get to meet with primary stakeholders and go through
+the entire development process from start to finish. It's also nice knowing that
+the stuff we work on is being used to directly improve both patient healthcare
+and medical research.
