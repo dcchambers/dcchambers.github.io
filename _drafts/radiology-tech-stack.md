@@ -137,17 +137,62 @@ stakeholders.
 Ahha! Now we get to the fun stuff. :smirk: My job as a dev/ops admin is to help
 the other developers not worry about the infrastructure at all. I have to make
 sure the application runs the same on our server(s) as it does on their local
-development machine. 
+development machine.
+
+The infrastructure team at UW Health provides IaaS (Infrastructure as a Service)
+to various teams within UW Health and the UW School of Medicine. They host all
+of our VMs in highly reliable, distributed data-centers that are designed for
+maximum uptime.
 
 ### Servers
 
+All of our servers run some flavor of Linux. Most of what we've got deployed
+right now is RHEL7/CentOS7, with some CentOS6 and Ubuntu 16.04 Server boxes in
+the mix.
+
 ### Docker
+
+Containerize all the things! If you don't know what
+[Docker](https://www.docker.com/) or
+[containers]https://www.redhat.com/en/topics/containers) are - you're really
+missing out. We have all of our applications "dockerized." In practice, this
+means we use docker-compose to build and run the application environment.
+
+Perhaps the best advantage to working in a Docker
+environment is that everything is highly portable. If it runs docker, it should
+be able to run your application without issue - no matter what kind of
+dependency hell you've created or what strange version of Ruby or MySQL you
+need to get your application working.
+
+### Deployment
+
+We use [Jenkins](https://jenkins.io/) to manage our application building and to
+automate deployment to development, testing, and production environments. I get
+to spend a good chunk of my time working with Docker and Jenkins!
 
 ### Database
 
+Our primary database is MySQL, which works great with the web-focused
+tools and applications we create.
 
-## Development Environments
+The Philips/AI database is PostgreSQL.
 
+### Everything Else
+#### Nginx
+We use Nginx as a [reverse proxy](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/).
+#### Apache
+Many of our legacy applications use the Apache web server.
+#### LDAP
+We support a number of login methods, including non-domain accounts and
+integration with UW Health's Active Directory domain using LDAP.
+#### Version Control
+Our legacy applications are set up in Mercurial Repos using
+[Kiln](http://help.fogcreek.com/kiln).
+
+We use Git for current and future applications, and have a self-hosted
+[Github Enterprise](https://enterprise.github.com/home) account. We also keep
+all of our docker/container configuration in Git. Not using Git?
+[You should be.](http://chambers.io/2018/04/09/git-101.html)
 
 
 ##  List of everything
