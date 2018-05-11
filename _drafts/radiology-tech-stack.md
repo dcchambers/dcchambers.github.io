@@ -33,7 +33,8 @@ Imaging) to CT (Computed Tomography) to PET (Positron Emission Tomography)
 scans to Ultrasound. Radiology is involved in pretty much every aspect of
 healthcare. Break a bone? A radiologist will read the X-ray. Have a traumatic
 brain injury or stroke? A radiologist will read the CT scan or look for an
-aneurysm. Searching for cancer cells? A radiologist will help with that too.
+aneurysm (and even place the stent to fix it!). Searching for cancer cells?
+A radiologist will help with that too.
 
 Radiology has long been a pioneer of technological advances in healthcare, and
 a lot of the focus is on improving these technologies through various means. We
@@ -51,9 +52,45 @@ students, residents, and attending physicians.
 
 ## Legacy applications
 
-Most of our existing legacy applications are regular good 'ol LAMP stack
+### LAMP Stack
+Many of our existing legacy applications are regular good 'ol LAMP stack
 applications. The (L)inux (A)pache (M)ysql (P)HP stack is battle-tested for
-sure.
+sure. Most of the stuff we do is database-driven, and PHP and MySQL pair
+together like a fine red wine and a ribeye steak.
+
+Some of these applications are simple web dashboards written in PHP that
+display relevant data from our MySQL database. For example, we've got one app
+that allows staff to view statistics about our CT scanners and filter results.
+
+Some of our these applications are "CRUD" apps that interact with our database.
+CRUD stands for "Create, Replace, Update, and Delete." For example, physicians
+earn merit and are paid based on different achievements and activities
+throughout the year. We've developed a PHP application that allows the admin
+staff to enter activities throughout the year. These are then added to a
+database and ultimately a score is computed to help evaluate performance and
+compensation.
+
+We've got an application to request time and see availability on a particular
+image scanner.
+
+We've got a small application used for annual staff reviews.
+
+These are just a few examples of our typical in-house PHP applications.
+
+### Mobile Applications
+Currently we only have one mobile application, but there are plans for more down
+the line. It's an
+[iOS app to calculate Gadolinum dosages](https://itunes.apple.com/us/app/gadcalc/id1051070769?mt=8).
+It's written in Swift. It is used daily in the Hospital but we aren't currently
+working on new features, only on maintenance. Porting the application to Android
+is on our Summer road-map.
+
+### Java and Groovy Grails
+Finally, we've got a couple of legacy applications that are built in Java and
+Apache's Groovy/Grails. At this point we have stopped all active development of
+Java and Groovy/Grails applications outside of bug-fixes and regular
+maintenance. The long-term plan is to port (update and re-write) these legacy
+applications in our new unified tech-stack...**Ruby-on-Rails**.
 
 ## New applications
 
@@ -64,7 +101,50 @@ mobile app for calculating gadolinium dosages or an application that allows
 Residents to compare their radiology reading room preliminary examinations to
 an attending physician's final exam.
 
+Going forward, the department has decided to simplify and unify our tech stack.
+*Ruby-on-Rails* is our web framework of choice.
+
+Why Ruby/Rails?
+* Building new applications is wicked fast.
+* It's suited to rapid agile development and other modern development practices.
+* Code is highly readable, which is good when trying to hire and keep talented
+development staff.
+* Rails has a strong developer community.
+* It's open source.
+
+### (Philips)/AI Bridge Platform
+
+[Analytical Informatics](https://www.analytical.info/developers/) (now owned by
+Philips) provides a centralized platform for easily working with delicate
+healthcare data. The [Bridge](https://developer-docs.analytical.info/) platform
+is built on top of the Ruby-on-Rails framework (technically [jRuby](http://jruby.org/),
+but let's not be pedantic).
+
+By teaming up with the Philips/AI team, we can create applications that
+interface with HL7 (Healthcare data standard) and DICOM (imaging standard) data
+faster than ever.
+
+### Wordpress
+
+[Our website](https://radiology.wisc.edu) is a Wordpress website that follows
+the conventions and uses the theming provided by the University of Wisconsin.
+However it is developed and supported by our dev team. Most content updates are
+done by the media/communication team, student employees, or specific
+stakeholders.
+
 ## Infrastructure
+
+Ahha! Now we get to the fun stuff. :smirk: My job as a dev/ops admin is to help
+the other developers not worry about the infrastructure at all. I have to make
+sure the application runs the same on our server(s) as it does on their local
+development machine. 
+
+### Servers
+
+### Docker
+
+### Database
+
 
 ## Development Environments
 
