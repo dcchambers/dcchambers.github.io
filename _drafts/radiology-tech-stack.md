@@ -63,7 +63,7 @@ display relevant data from our MySQL database. For example, we've got one app
 that allows staff to view statistics about our CT scanners and filter results.
 
 Some of our these applications are "CRUD" apps that interact with our database.
-CRUD stands for "Create, Replace, Update, and Delete." For example, physicians
+CRUD stands for "Create, Read, Update, and Delete." For example, physicians
 earn merit and are paid based on different achievements and activities
 throughout the year. We've developed a PHP application that allows the admin
 staff to enter activities throughout the year. These are then added to a
