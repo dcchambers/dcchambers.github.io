@@ -104,6 +104,8 @@ an attending physician's final exam.
 Going forward, the department has decided to simplify and unify our tech stack.
 **Ruby-on-Rails** is our web framework of choice.
 
+![](/assets/images/ruby-rails.png)
+
 Why Ruby/Rails?
 * Building new applications is wicked fast.
 * It's suited to rapid agile development and other modern development practices.
