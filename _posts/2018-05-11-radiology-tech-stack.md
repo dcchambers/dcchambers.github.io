@@ -2,6 +2,8 @@
 title: Radiology Tech Stack
 ---
 
+![](/assets/images/wisc-radiology.png)
+
 In January of 2018 I started a new job with the Department of Radiology in
 the University of Wisconsin's School of Medicine and Public Health. Phew, that
 was a mouthful. From here on out, I'll just refer to it as "Radiology."
