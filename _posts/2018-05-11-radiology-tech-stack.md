@@ -124,6 +124,8 @@ By teaming up with the Philips/AI team, we can create applications that
 interface with HL7 (Healthcare data standard) and DICOM (imaging standard) data
 faster than ever.
 
+![](/assets/images/analytical-info.png) ![](/assets/images/philips.png)
+
 Why is working on the Philips/AI Bridge platform so great? Here's a couple
 reasons.
 * **Real-Time Normalized Database.** We work with a lot of data from a lot of
