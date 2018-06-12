@@ -171,6 +171,8 @@ the mix.
 
 ### Docker
 
+![](/assets/images/docker.jpg)
+
 Containerize all the things! If you don't know what
 [Docker](https://www.docker.com/) or
 [containers](https://www.redhat.com/en/topics/containers) are - you're really
