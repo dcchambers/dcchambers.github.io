@@ -128,7 +128,7 @@ By teaming up with the Philips/AI team, we can create applications that
 interface with HL7 (Healthcare data standard) and DICOM (imaging standard) data
 faster than ever.
 
-![](/assets/images/analytical-info.png) ![](/assets/images/philips.png)
+![](/assets/images/analytical-info.png) ![](/assets/images/philips.png){:width="100px"}
 
 Why is working on the Philips/AI Bridge platform so great? Here's a couple
 reasons.
@@ -179,7 +179,7 @@ the mix.
 
 ### Docker
 
-![](/assets/images/docker.jpg)
+![](/assets/images/docker.png)
 
 Containerize all the things! If you don't know what
 [Docker](https://www.docker.com/) or
