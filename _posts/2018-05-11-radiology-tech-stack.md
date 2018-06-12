@@ -213,6 +213,9 @@ Many of our legacy applications use the Apache web server.
 We support a number of login methods, including non-domain accounts and
 integration with UW Health's Active Directory domain using LDAP.
 #### Version Control
+
+![](/assets/images/github.png)
+
 Our legacy applications are set up in Mercurial Repos using
 [Kiln](http://help.fogcreek.com/kiln).
 
