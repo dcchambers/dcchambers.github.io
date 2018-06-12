@@ -149,6 +149,8 @@ Ruby on Rails! *In 2018?!* Of course :wink: I'm sure I'll write more on this lat
 
 ### Wordpress
 
+![](/assets/images/wordpress.png)
+
 [Our website](https://radiology.wisc.edu) is a Wordpress website that follows
 the conventions and uses the theming provided by the University of Wisconsin.
 However it is developed and supported by our dev team. Most content updates are
