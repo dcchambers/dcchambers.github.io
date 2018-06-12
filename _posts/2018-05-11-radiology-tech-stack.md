@@ -124,6 +124,25 @@ By teaming up with the Philips/AI team, we can create applications that
 interface with HL7 (Healthcare data standard) and DICOM (imaging standard) data
 faster than ever.
 
+Why is working on the Philips/AI Bridge platform so great? Here's a couple
+reasons.
+* **Real-Time Normalized Database.** We work with a lot of data from a lot of
+different sources. They aggregate that data, validate it, and let us access it
+with stupid simple queries.
+* **HIPAA Audit Logging.** HIPAA isn't anything to mess with. A single failure can
+cost your company/hospital/university millions. Writing code to log everything
+for future potential audits isn't so fun either.
+* **Authentication.** They tap into our Active Directory for Single Sign On and
+also allow integration with PACS and other clinical applications.
+* **Share with others.** We can tap into applications that other groups have
+built on the Bridge platform and use/extend them as we need. We can also share
+what we have done with others! Sharing is caring! :wave:
+
+*TL;DR - they take care of the boring stuff and let us ship apps in record time!*
+
+Ruby on Rails! *In 2018?!* Of course :wink: I'm sure I'll write more on this later.
+
+
 ### Wordpress
 
 [Our website](https://radiology.wisc.edu) is a Wordpress website that follows
