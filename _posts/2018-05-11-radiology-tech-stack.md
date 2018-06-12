@@ -185,6 +185,8 @@ need to get your application working.
 
 ### Deployment
 
+![](/assets/images/jenkins.png)
+
 We use [Jenkins](https://jenkins.io/) to manage our application building and to
 automate deployment to development, testing, and production environments. I get
 to spend a good chunk of my time working with Docker and Jenkins!
