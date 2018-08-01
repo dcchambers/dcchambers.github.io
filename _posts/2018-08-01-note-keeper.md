@@ -62,8 +62,12 @@ copy/paste clipboard.
 * It will open the note up for editing in Vim.
 * Simply install the script and type `note` on your command line.
 * Probably[^1] compatible with Mac OS and most Linux distributions.
+* As of [`v0.1.1`](https://github.com/dcchambers/note-keeper/releases/tag/v0.1.1)
+*Note Keeper* now opens vim in `insert` mode and puts the cursor at the end of
+the file for even more rapid note taking.
+  * Simply type `note` and start writing!
 
 Check out the source code on :octocat: [Github.](https://github.com/dcchambers/note-keeper)  
-Currently v0.1 :tada: :wink:
+Currently v0.1.1 :tada: :wink:
 
 [^1]: Tested on Mac OS High Sierra and Ubuntu 16.04 LTS.
