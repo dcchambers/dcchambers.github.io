@@ -46,10 +46,10 @@ You can:
 * Create notes
 * Edit notes
 * Print a note
+* Print information about a note
 
 Planned additions:
 * Destroy a note
-* Print information about a note
 * Encrypt a secret note
 * Directly/immediately append a string to the end of a note
 
@@ -68,6 +68,6 @@ the file for even more rapid note taking.
   * Simply type `note` and start writing!
 
 Check out the source code on :octocat: [Github.](https://github.com/dcchambers/note-keeper)  
-Currently v0.1.1 :tada: :wink:
+Currently [`v0.2.1`](https://github.com/dcchambers/note-keeper/releases/tag/v0.2.1) :tada: :wink:
 
 [^1]: Tested on Mac OS High Sierra and Ubuntu 16.04 LTS.
