@@ -14,21 +14,19 @@ better) than their GUI counterparts.
 
 # Contents
 
-[Test](#test)
-[Tmux Test](#tmux)
-
 ## Productivity
-[Tmux](#Tmux)
-* [Ranger (File Browser)](#Ranger)
+* [Tmux](#tmux)
+* [Ranger (File Browser)](#ranger)
 
 ## Entertainment/Procrastination
-* [RTV (Reddit Terminal Viewer)](#RTV)
-* [Rainbowstream (Twitter Client)](#Rainbowstream)
+* [RTV (Reddit Terminal Viewer)](#rtv)
+* [Rainbowstream (Twitter Client)](#rainbowstream)
 
 ## More Fun Stuff
-* [Asciinema (Terminal recordings)](#Asciinema)
+* [Asciinema (Terminal recordings)](#asciinema)
 
 ---
+
 # Tmux
 
 # Ranger
