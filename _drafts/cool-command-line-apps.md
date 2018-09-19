@@ -20,7 +20,7 @@ better) than their GUI counterparts.
 
 ## Entertainment/Procrastination
 * [RTV (Reddit Terminal Viewer)](#rtv)
-* [Rainbowstream (Twitter Client)](##rainbowstream)
+* [Rainbowstream (Twitter Client)](#rainbowstream)
 
 ## More Fun Stuff
 * [Asciinema (Terminal recordings)](#asciinema)
@@ -35,4 +35,4 @@ better) than their GUI counterparts.
 
 ## Rainbowstream
 
-## Asciinema
+### Asciinema
