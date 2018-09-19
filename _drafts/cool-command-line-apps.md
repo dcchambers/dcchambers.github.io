@@ -12,19 +12,30 @@ that treat your terminal window and command line as a first class citizen.
 Here are some command line applications that I think are every bit as good (or
 better) than their GUI counterparts.
 
-[Test](#test)
-
-## Entertainment/Time Wasting
-* RTV (Reddit Terminal Viewer)
-* Rainbowstream (Twitter Client)
+# Contents
 
 ## Productivity
-* Ranger (File Browser)
-* TMUX
+[Tmux](#Tmux)
+[Ranger (File Browser)](#Ranger)
 
+## Entertainment/Procrastination
+[RTV (Reddit Terminal Viewer)](#RTV)
+[Rainbowstream (Twitter Client)](#Rainbowstream)
 
 ## More Fun Stuff
-* Asciinema (Terminal recordings)
+[Asciinema (Terminal recordings)](#Asciinema)
+
+---
+
+## Tmux
+
+## Ranger
+
+## RTV
+
+## Rainbowstream
+
+## Asciinema
 
 
-# test
+
