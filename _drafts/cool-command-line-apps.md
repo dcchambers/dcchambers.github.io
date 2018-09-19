@@ -14,8 +14,8 @@ better) than their GUI counterparts.
 
 # Contents
 
-[Test](#Test)
-[Tmux Test](#Tmux)
+[Test](#test)
+[Tmux Test](#tmux)
 
 ## Productivity
 [Tmux](#Tmux)
