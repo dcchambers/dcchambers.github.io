@@ -15,15 +15,15 @@ better) than their GUI counterparts.
 # Contents
 
 ## Productivity
-[Tmux](#Tmux)
-[Ranger (File Browser)](#Ranger)
+* [Tmux](##Tmux)
+* [Ranger (File Browser)](#Ranger)
 
 ## Entertainment/Procrastination
-[RTV (Reddit Terminal Viewer)](#RTV)
-[Rainbowstream (Twitter Client)](#Rainbowstream)
+* [RTV (Reddit Terminal Viewer)](#RTV)
+* [Rainbowstream (Twitter Client)](#Rainbowstream)
 
 ## More Fun Stuff
-[Asciinema (Terminal recordings)](#Asciinema)
+* [Asciinema (Terminal recordings)](#Asciinema)
 
 ---
 
