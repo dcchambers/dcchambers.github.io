@@ -16,7 +16,7 @@ better) than their GUI counterparts.
 
 
 ## Productivity
-* [Tmux](#Tmux)
+[Tmux](#Tmux)
 * [Ranger (File Browser)](#Ranger)
 
 ## Entertainment/Procrastination
