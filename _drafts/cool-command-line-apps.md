@@ -27,13 +27,13 @@ better) than their GUI counterparts.
 
 ---
 
-## Tmux
+##Tmux
 
-## Ranger
+##Ranger
 
-## RTV
+#RTV
 
-## Rainbowstream
+# Rainbowstream
 
 ## Asciinema
 
