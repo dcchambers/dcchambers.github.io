@@ -14,8 +14,8 @@ better) than their GUI counterparts.
 
 # Contents
 
-[Test](#test)
-[Tmux Test](#tmux)
+[Test](#Test)
+[Tmux Test](#Tmux)
 
 ## Productivity
 [Tmux](#Tmux)
@@ -29,6 +29,7 @@ better) than their GUI counterparts.
 * [Asciinema (Terminal recordings)](#Asciinema)
 
 ---
+# Tmux
 
 # Ranger
 
@@ -38,6 +39,4 @@ better) than their GUI counterparts.
 
 # Asciinema
 
-# test
-
-# tmux
+# Test
