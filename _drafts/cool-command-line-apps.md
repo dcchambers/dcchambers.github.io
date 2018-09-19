@@ -14,7 +14,6 @@ better) than their GUI counterparts.
 
 # Contents
 
-[test](#test)
 
 ## Productivity
 * [Tmux](#Tmux)
@@ -29,15 +28,13 @@ better) than their GUI counterparts.
 
 ---
 
-##Tmux
+# Tmux
 
-##Ranger
+# Ranger
 
-#RTV
+# RTV
 
 # Rainbowstream
 
-#Asciinema
+# Asciinema
 
-
-# test
