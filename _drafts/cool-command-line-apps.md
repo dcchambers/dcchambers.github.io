@@ -22,17 +22,25 @@ better) than their GUI counterparts.
 * [RTV (Reddit Terminal Viewer)](#rtv)
 * [Rainbowstream (Twitter Client)](#rainbowstream)
 
-## More Fun Stuff
+## Utilities and More Fun Stuff
 * [Asciinema (Terminal recordings)](#asciinema)
-
+* [Youtube-DL]($youtube-dl)
 ---
 
-# Tmux
+# Productivity
 
-# Ranger
+## Tmux
 
-# RTV
+## Ranger
+
+# Entertainment
+
+## RTV
 
 ## Rainbowstream
 
-### Asciinema
+# Utilities and More
+
+## Asciinema
+
+## Youtube-DL
