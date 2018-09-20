@@ -9,6 +9,9 @@ This is not a list of useful command line tools (like `cal`, `curl`, etc), tips,
 or tricks, but rather a list that focuses on more robust, full-featured applications
 that treat your terminal window and command line as a first class citizen.
 
+Moreso, this is a list of applications that I use **every day**, with a few words on
+how I use those applications.
+
 Here are some command line applications that I think are every bit as good (or
 better) than their GUI counterparts.
 
