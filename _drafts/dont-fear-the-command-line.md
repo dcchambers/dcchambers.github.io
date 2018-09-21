@@ -2,6 +2,8 @@
 title: Don't Fear the Command Line
 ---
 
+![](/assets/gif/terminal_gif.gif)
+
 I overheard a funny conversation at work yesterday. Before I begin, here's
 a little background.
 
