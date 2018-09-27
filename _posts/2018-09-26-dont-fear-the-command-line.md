@@ -73,5 +73,6 @@ Don't fear the command line - use it.
 
 ---
 
-This silly post previews my next big upcoming blog post - *Cool Terminal
-Applications I Use Every Day*. Check back soon to read that!
+This silly post previews my next upcoming series of blog posts all about the
+command line, including *Cool Terminal Applications I Use Every Day* and
+*What the Hell is a Shell?* Check back soon to read more!
