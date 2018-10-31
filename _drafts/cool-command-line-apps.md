@@ -21,7 +21,7 @@ better) than their GUI counterparts.
 * [Tmux](#tmux)
 * [Ranger (File Browser)](#ranger)
 
-## Entertainment/Procrastination
+## ~~Procrastination~~ ~~Entertainment~~ Cultural Research
 * [RTV (Reddit Terminal Viewer)](#rtv)
 * [Rainbowstream (Twitter Client)](#rainbowstream)
 
