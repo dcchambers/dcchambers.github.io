@@ -19,7 +19,7 @@ Feeling lonely today? Can't wait to get home to a loved one? Add a [heart](https
 Your bash prompt is set with the `$PS1` variable in your `.bashrc` file.
 
 1. Open up `~/.bashrc` with your favorite editor.
-2. Comment out the existing `$PS1=...` line
+2. Comment out the existing `PS1=...` line
 3. Add the following: `PS1='\[\e[35m\]❤\[\e[m\]  \w $ '`
   - The `\[\e[35m\] ... \[\e[m\]` text sets the color to magenta/pink.
 4. Reload your bash profile with the command: `$ source ~/.bashrc`
