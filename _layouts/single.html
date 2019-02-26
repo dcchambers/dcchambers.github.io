@@ -57,6 +57,10 @@ layout: default
           <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Originally Posted:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
       </footer>
+
+      Like what you're reading?<br>
+      Subscribe for email updates! No more than once a week - and probably much less often than that!<br>
+      No spam - I promise!<br>
       {% include subscription-form.html %}
 
       {% if page.share %}{% include social-share.html %}{% endif %}
