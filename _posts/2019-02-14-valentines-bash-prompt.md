@@ -25,3 +25,5 @@ Your bash prompt is set with the `$PS1` variable in your `.bashrc` file.
 4. Reload your bash profile with the command: `$ source ~/.bashrc`
 5. Your prompt should now have a colorful heart! Hurray!
 ![](/assets/images/bash-heart.png)
+
+{% include subscription-form.html%}
