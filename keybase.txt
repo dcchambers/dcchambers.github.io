@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/dcchambers
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://chambers.io
+  * I am dcchambers (https://keybase.io/dcchambers) on keybase.
+  * I have a public key with fingerprint AE7A 7B8C 84E6 69E7 4EDE  F950 D8DC F869 6854 9629
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101502d2b6a05e8b14bee9a0a22f57ad1394fa3f6a971afbb65c0df86ce31b832aa0a",
+      "fingerprint": "ae7a7b8c84e669e74edef950d8dcf86968549629",
+      "host": "keybase.io",
+      "key_id": "d8dcf86968549629",
+      "kid": "0101502d2b6a05e8b14bee9a0a22f57ad1394fa3f6a971afbb65c0df86ce31b832aa0a",
+      "uid": "56a90e0eb776fcf9dd3aee4d03c2a219",
+      "username": "dcchambers"
+    },
+    "service": {
+      "hostname": "chambers.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1550869324,
+  "expire_in": 157680000,
+  "prev": "2e5d27f69a7c7eb08a0cdfed458c03f4277223519bfbb562e937f450e4730ca7",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJbSBVRFL1TanZJqo/CgiImKQ2TM2ceZ+amSYGGFRkpfcSt25kze3R8
+zFzvQ1NR0PpLovzyozKoQEoItCwp0LL6qOiBvUTK0KCHP0HQE6szVn99dn4OZ5+1
+1l57sW9mzA0Ehay8d6WHPu+/J9y93pUMhKNse7NoelajGGoWq2H2ghoL4olItWOJ
+IRFJSFIRtrCpUaSCbkqKCWBQRDG2VUItSTYUm8q2Rg0iUds0NZUhy9Y1BrJk6jKm
+HCvmirbjVkAsGnPcBJelQCgxdaYroGkGEAUssA0VWbrFONfQdFUxNGxwYqUX9xnc
+nEnjkOd4vMYfkVl7/8D/Z9/JWTmVwxAgMAnRbGYbliVTAMVCMsMUS37fZBxiLq0F
+3xVjlbTWhFhcbMkVeb3eYeBH68/yB/MX8XugaMxLeMyr4R+ViUQ05PMSjVEf2ABm
+5I9ExHRci+fICfWc6niuGJI4kiUcX1NSVcSzkLGSK8KBqBODiOMjVKLpiB+/DdRz
+SQyqhYmtGZQwAibSKWKWDZai6gzJtoIJwVhWJcPkuagaBkMmtqIiUIiMGCWiP1Sd
+63Ftwn3SCq4ZdypcmkjGQGy5MRxOCQjBQFrqHH/BAsH5i/6uXeuz9EDnh96CnAPX
+hCcDwen2yRFhoK3bPf7qVBHg0cEvpWjplbTbVdHsR3Vv8i8ebRoU3h8rrJvKGqvc
+0P/i/dYNweIV1aXlu/vGFzY9TR3bt6JsV+jNjyMTC96Vb+4znmzq8MpgrdDY3tvT
+0umEzw3p6/DYl5u7z072fGzdvmTfDErmNKz/3tSR+XSkuuhW1beNmYsDUyevnNhZ
+sKx7qOJa4chQdOXElmL37cDD0ZLJaTIykXwwfH/56NX+mcsHd3w9nP/6+MtFF7o7
+t/VX7Vlbu2oo+8zjkraScOzzvMVNKZcyPtSfze26F75zSygQGlc///YpxRvsaEg/
+faPoPDv1M6t875zxNW2/AMuRRNY=
+=sptm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dcchambers
+
+==================================================================
