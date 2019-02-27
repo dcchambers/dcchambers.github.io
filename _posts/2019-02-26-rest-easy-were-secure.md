@@ -19,4 +19,4 @@ easy to enforce `HTTPS` (redirect regular 'ol `HTTP` requests to `HTTPS`).
 As an added bonus, this change also places my site behind a CDN - so it should load faster
 for folks all over the world! ¡ɐᴉlɐɹʇsn∀ ollǝH
 
-
+Check out the [GitHub Blog](https://github.blog/2018-05-01-github-pages-custom-domains-https/) for more information.
