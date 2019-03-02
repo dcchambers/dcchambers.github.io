@@ -43,4 +43,4 @@ commands to the operating system. Some examples:
 ### Bash
 ### Zsh
 ### Fish Shell
-### 
+### git
