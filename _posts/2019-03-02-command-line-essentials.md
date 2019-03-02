@@ -2,7 +2,7 @@
 title: Linux & Unix Command Line Essentials
 ---
 
-When I got my first "system admin" job (as a Student in the [Center for High Throughput Computing](https://chtc.cs.wisc.edu)
+When I got my first SysAdmin job (as a Student with the [Center for High Throughput Computing](http://chtc.cs.wisc.edu))
 my Linux/Unix knowledge was passable but not great. I started to keep a list of commands I regularly used.
 
 While the list has grown considerably over the years, it is expressive but still succint. It is *not* an exhaustive list of
