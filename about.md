@@ -3,16 +3,16 @@ layout: single
 author_profile: true
 ---
 
-Hey, I'm Dakota.
+Hey, I'm Dakota!
 
-I'm currently doing fun dev/ops stuff with the University of Wisconsin's
-Department of Radiology. I help the dev team build and deploy applications
-using tools like Docker and Jenkins. I design and implement our containerized app infrastructure in Docker, build CI/CD pipelines, and automate configuration with tools like Salt, Python, and Bash.
-We write mostly web-based applications, although we have a handful of [mobile](https://itunes.apple.com/us/app/gadcalc/id1051070769?mt=8) [apps](https://play.google.com/store/apps/details?id=edu.wisc.radiology.gadcalc), and we manage everything from the [Radiology Website](https://radiology.wisc.edu) to clinical applications that are used every day in the UW Hospital.
-We're teamed up with the awesome folks at [UW Health](https://uwhealth.org) to provide remarkable healthcare and do amazing research.
+I'm a software engineer at [Zendesk](https://www.zendesk.com)!
 
-Check out my [GitHub](https://github.com/dcchambers) or read some of my
-[technical writing](http://chambers.io).
+I enjoy hacking on containers with Docker and Kubernetes, building CI/CD pipelines with CircleCI and Travis, automating infrastructure with Salt, Ansible, and Terraform, and building applications with Ruby, Python, Bash, and more. Everything I do is in Linux or Unix (Mac OS)!
+
+My experience ranges from Linux Systems Administration to DevOps Engineer and Software Engineer.
+Feel free to check out my [Resume/CV](https://github.com/dcchambers/resume).
+
+Check out my [GitHub](https://github.com/dcchambers) or read some of my [technical writing](http://chambers.io).
 
 Find me:
 
