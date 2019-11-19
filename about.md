@@ -7,9 +7,9 @@ Hey, I'm Dakota!
 
 I'm a software engineer at [Zendesk](https://www.zendesk.com)!
 
-I enjoy hacking on containers with Docker and Kubernetes, building CI/CD pipelines with CircleCI and Travis, automating infrastructure with Salt, Ansible, and Terraform, and building applications with Ruby, Python, Bash, and more. Everything I do is in Linux or Unix (Mac OS)!
+I enjoy hacking on containers with Docker and Kubernetes, building robust, automated CI/CD pipelines, automating infrastructure and ops, and building applications with Ruby, Go, Python, Bash, and more. Everything I do is in Linux or Unix (Mac OS)!
 
-My experience ranges from Linux Systems Administration to DevOps Engineer and Software Engineer.
+My professional experience ranges from Linux Systems Administration to DevOps Engineer and Software Engineer.
 Feel free to check out my [Resume/CV](https://github.com/dcchambers/resume).
 
 Check out my [GitHub](https://github.com/dcchambers) or read some of my [technical writing](http://chambers.io).
