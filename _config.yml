@@ -50,7 +50,7 @@ paginate: 99 # amount of posts to show on home page.
 # Site Author
 author:
   name: "Dakota Chambers"
-  bio: "I'm a software engineer focused on devOps and automating boring things!"
+  bio: "I'm a software engineer focused on devops and automating boring things!"
   avatar: "/assets/images/dakota_avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   twitter: dakotachambers
   github: dcchambers
