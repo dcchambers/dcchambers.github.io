@@ -26,3 +26,8 @@ Find me:
 - [![](/assets/icons/baseline-code-24px.svg)CodePen](https://codepen.io/dcchambers/)
 - [![](/assets/icons/baseline-code-24px.svg)RubyGems](https://rubygems.org/profiles/dakota)
 - [![](/assets/icons/baseline-person-24px.svg)HackerNews](https://news.ycombinator.com/user?id=dcchambers)
+
+---
+
+[Source code for this
+website](https://github.com/dcchambers/dcchambers.github.io)
