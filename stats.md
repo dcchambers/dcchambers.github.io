@@ -1,9 +1,8 @@
 ---
 layout: single
 author_profile: true
+title: "Statistics and Stuff"
 ---
-
-# Statistics and Stuff
 
 ## 2020
 
