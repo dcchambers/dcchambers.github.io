@@ -33,3 +33,11 @@ title: "Statistics and Stuff"
 
 :video_game: Games I've completed:
 - None yet
+
+---
+
+### Scorecard
+
+| Books Read | Games Beaten | Miles Run | Bones Broken |
+|------------|--------------|-----------|--------------|
+| 3/25       | 0/10         | 18.5/300  | :star: 0/0   |
