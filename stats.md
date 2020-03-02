@@ -30,7 +30,7 @@ title: "Statistics and Stuff"
   ](https://www.goodreads.com/book/show/653135.The_Secret_History)
 - [Seveneves - Neal
   Stephenson](https://www.goodreads.com/book/show/22826126-seveneves)
-  - [Educated - Tara Westover
+- [Educated - Tara Westover
   ](https://www.goodreads.com/book/show/35133922-educated)
 
 :video_game: Games I've completed:
