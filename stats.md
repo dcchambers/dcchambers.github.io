@@ -42,4 +42,4 @@ title: "Statistics and Stuff"
 
 | Books Read | Games Beaten | Miles Run | Bones Broken |
 |------------|--------------|-----------|--------------|
-| 3/25       | 0/10         | 18.5/300  | :star: 0/0   |
+| 4/25       | 0/10         | 18.5/300  | :star: 0/0   |
