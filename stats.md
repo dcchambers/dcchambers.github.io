@@ -7,8 +7,8 @@ title: "Statistics and Stuff"
 ## 2020
 
 :book: Currently reading:
-- [Educated - Tara Westover
-  ](https://www.goodreads.com/book/show/35133922-educated)
+- [2001: A Space Odyssey - Arthur C. Clarke
+  ](https://www.goodreads.com/book/show/70535.2001)
 - [Kubernetes in Action - Marko Luksa
   ](https://www.goodreads.com/book/show/34013922-kubernetes-in-action)
 
@@ -30,6 +30,8 @@ title: "Statistics and Stuff"
   ](https://www.goodreads.com/book/show/653135.The_Secret_History)
 - [Seveneves - Neal
   Stephenson](https://www.goodreads.com/book/show/22826126-seveneves)
+  - [Educated - Tara Westover
+  ](https://www.goodreads.com/book/show/35133922-educated)
 
 :video_game: Games I've completed:
 - None yet
