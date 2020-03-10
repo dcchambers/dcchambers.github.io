@@ -22,16 +22,16 @@ title: "Statistics and Stuff"
 ---
 
 :book: Books I've read:
-- [2001: A Space Odyssey - Arthur C. Clarke
-  ](https://www.goodreads.com/book/show/70535.2001)
-- [Unbroken - Laura Hillenbrand
-  ](https://www.goodreads.com/book/show/8664353-unbroken)
-- [The Secret History - Donna Tartt
-  ](https://www.goodreads.com/book/show/653135.The_Secret_History)
-- [Seveneves - Neal
-  Stephenson](https://www.goodreads.com/book/show/22826126-seveneves)
-- [Educated - Tara Westover
-  ](https://www.goodreads.com/book/show/35133922-educated)
+1. [Unbroken - Laura Hillenbrand
+   ](https://www.goodreads.com/book/show/8664353-unbroken)
+2. [The Secret History - Donna Tartt
+   ](https://www.goodreads.com/book/show/653135.The_Secret_History)
+3. [Seveneves - Neal Stephenson
+   ](https://www.goodreads.com/book/show/22826126-seveneves)
+4. [Educated - Tara Westover
+   ](https://www.goodreads.com/book/show/35133922-educated)
+5. [2001: A Space Odyssey - Arthur C. Clarke
+   ](https://www.goodreads.com/book/show/70535.2001)
 
 :video_game: Games I've completed:
 - None yet
