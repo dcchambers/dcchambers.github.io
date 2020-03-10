@@ -7,8 +7,6 @@ title: "Statistics and Stuff"
 ## 2020
 
 :book: Currently reading:
-- [2001: A Space Odyssey - Arthur C. Clarke
-  ](https://www.goodreads.com/book/show/70535.2001)
 - [Kubernetes in Action - Marko Luksa
   ](https://www.goodreads.com/book/show/34013922-kubernetes-in-action)
 
@@ -24,6 +22,8 @@ title: "Statistics and Stuff"
 ---
 
 :book: Books I've read:
+- [2001: A Space Odyssey - Arthur C. Clarke
+  ](https://www.goodreads.com/book/show/70535.2001)
 - [Unbroken - Laura Hillenbrand
   ](https://www.goodreads.com/book/show/8664353-unbroken)
 - [The Secret History - Donna Tartt
@@ -42,4 +42,6 @@ title: "Statistics and Stuff"
 
 | Books Read | Games Beaten | Miles Run | Bones Broken |
 |------------|--------------|-----------|--------------|
-| 4/25       | 0/10         | 18.5/300  | :star: 0/0   |
+| 5/25       | 0/10         | 18.5/300  | :star: 0/0   |
+
+* Scorecard updated monthly.
