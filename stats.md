@@ -7,6 +7,8 @@ title: "Statistics and Stuff"
 ## 2020
 
 :book: Currently reading:
+- [Murder on the Orient Express - Agatha Christie
+  ](https://www.goodreads.com/book/show/34217486-murder-on-the-orient-express)
 - [Kubernetes in Action - Marko Luksa
   ](https://www.goodreads.com/book/show/34013922-kubernetes-in-action)
 
