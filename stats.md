@@ -38,12 +38,17 @@ title: "Statistics and Stuff"
 :video_game: Games I've completed:
 - None yet
 
+:running: [Run Log](https://www.strava.com/athletes/30402150)
+- January: ??? Miles
+- February: 18.5 Miles
+- March: 21 Miles
+
 ---
 
 ### Scorecard
 
 | Books Read | Games Beaten | Miles Run | Bones Broken |
 |------------|--------------|-----------|--------------|
-| 5/25       | 0/10         | 18.5/300  | :star: 0/0   |
+| 5/25       | 0/10         | 39.5/300  | :star: 0/0   |
 
 * Scorecard updated monthly.
