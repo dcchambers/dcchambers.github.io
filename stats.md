@@ -16,9 +16,9 @@ title: "Statistics and Stuff"
 ](https://www.goodreads.com/review/list/44353038-dakota-chambers?shelf=2020-reading-list)
 
 :video_game: Currently playing:
+- Animal Crossing: New Horizons (Switch)
 - The Witcher Series (1, 2, and 3) (PC & Switch)
 - Luigi's Mansion 3 (Switch)
-- Rune Factory 4 Special (Switch)
 - Stardew Valley (Switch & PC)
 
 ---
