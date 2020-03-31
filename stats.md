@@ -7,8 +7,8 @@ title: "Statistics and Stuff"
 ## 2020
 
 :book: Currently reading:
-- [Murder on the Orient Express - Agatha Christie
-  ](https://www.goodreads.com/book/show/34217486-murder-on-the-orient-express)
+- [A Storm of Swords (A Song of Ice and Fire #3)
+  ](https://www.goodreads.com/book/show/10396652-a-storm-of-swords)
 - [Kubernetes in Action - Marko Luksa
   ](https://www.goodreads.com/book/show/34013922-kubernetes-in-action)
 
@@ -34,6 +34,8 @@ title: "Statistics and Stuff"
    ](https://www.goodreads.com/book/show/35133922-educated)
 5. [2001: A Space Odyssey - Arthur C. Clarke
    ](https://www.goodreads.com/book/show/70535.2001)
+6. [Murder on the Orient Express - Agatha Christie
+   ](https://www.goodreads.com/book/show/34217486-murder-on-the-orient-express)
 
 :video_game: Games I've completed:
 - None yet
