@@ -43,7 +43,7 @@ title: "Statistics and Stuff"
 :running: [Run Log](https://www.strava.com/athletes/30402150)
 - January: ??? Miles
 - February: 18.5 Miles
-- March: 21 Miles
+- March: 24.1 Miles
 
 ---
 
@@ -51,6 +51,6 @@ title: "Statistics and Stuff"
 
 | Books Read | Games Beaten | Miles Run | Bones Broken |
 |------------|--------------|-----------|--------------|
-| 6/25       | 0/10         | 39.5/300  | :star: 0/0   |
+| 6/25       | 0/10         | 42.6/300  | :star: 0/0   |
 
 * Scorecard updated monthly.
