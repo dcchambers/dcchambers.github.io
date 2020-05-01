@@ -44,6 +44,7 @@ title: "Statistics and Stuff"
 - January: ??? Miles
 - February: 18.5 Miles
 - March: 24.1 Miles
+- April: 55.1 Miles
 
 ---
 
@@ -51,6 +52,6 @@ title: "Statistics and Stuff"
 
 | Books Read | Games Beaten | Miles Run | Bones Broken |
 |------------|--------------|-----------|--------------|
-| 6/25       | 0/10         | 42.6/300  | :star: 0/0   |
+| 6/25       | 0/10         | 97.7/300  | :star: 0/0   |
 
 * Scorecard updated monthly.
