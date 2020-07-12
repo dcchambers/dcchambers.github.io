@@ -37,14 +37,16 @@ title: "Statistics and Stuff"
 - February: 18.5 Miles
 - March: 24.1 Miles
 - April: 55.1 Miles
-
+- May: 68.1 Miles
+- June: 64.9
+- July: 22.38...and counting!
 ---
 
 ### Scorecard
 
 | Books Read | Games Beaten | Miles Run | Bones Broken |
 |------------|--------------|-----------|--------------|
-| 7/25       | 0/10         | 97.7/500  | :star: 0/0   |
+| 7/25       | 0/10         | 249/500   | :star: 0/0   |
 
 * Scorecard updated monthly.
 
