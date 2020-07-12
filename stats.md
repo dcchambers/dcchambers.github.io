@@ -24,18 +24,12 @@ title: "Statistics and Stuff"
 ---
 
 :book: Books I've read:
-1. [Unbroken - Laura Hillenbrand
-   ](https://www.goodreads.com/book/show/8664353-unbroken)
-2. [The Secret History - Donna Tartt
-   ](https://www.goodreads.com/book/show/653135.The_Secret_History)
-3. [Seveneves - Neal Stephenson
-   ](https://www.goodreads.com/book/show/22826126-seveneves)
-4. [Educated - Tara Westover
-   ](https://www.goodreads.com/book/show/35133922-educated)
-5. [2001: A Space Odyssey - Arthur C. Clarke
-   ](https://www.goodreads.com/book/show/70535.2001)
-6. [Murder on the Orient Express - Agatha Christie
-   ](https://www.goodreads.com/book/show/34217486-murder-on-the-orient-express)
+1. [Unbroken - Laura Hillenbrand][b1]
+2. [The Secret History - Donna Tartt][b2]
+3. [Seveneves - Neal Stephenson][b3]
+4. [Educated - Tara Westover][b4]
+5. [2001: A Space Odyssey - Arthur C. Clarke][b5]
+6. [Murder on the Orient Express - Agatha Christie][b6]
 7. [Bad Blood: Secrets and Lies in a Silicon Valley Startup][b7]
 
 :video_game: Games I've completed:
@@ -57,5 +51,11 @@ title: "Statistics and Stuff"
 
 * Scorecard updated monthly.
 
-<!-- Links -->
+<!-- References/Links -->
+[b1]: https://www.goodreads.com/book/show/8664353-unbroken
+[b2]: https://www.goodreads.com/book/show/653135.The_Secret_History
+[b3]: https://www.goodreads.com/book/show/22826126-seveneves
+[b4]: https://www.goodreads.com/book/show/35133922-educated
+[b5]: https://www.goodreads.com/book/show/70535.2001
+[b6]: https://www.goodreads.com/book/show/34217486-murder-on-the-orient-express
 [b7]: https://www.goodreads.com/book/show/37976541-bad-blood
