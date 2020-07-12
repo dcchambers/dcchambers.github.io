@@ -7,13 +7,10 @@ title: "Statistics and Stuff"
 ## 2020
 
 :book: Currently reading:
-- [A Storm of Swords (A Song of Ice and Fire #3)
-  ](https://www.goodreads.com/book/show/10396652-a-storm-of-swords)
-- [Kubernetes in Action - Marko Luksa
-  ](https://www.goodreads.com/book/show/34013922-kubernetes-in-action)
+- [A Storm of Swords (A Song of Ice and Fire #3)][b8]
+- [Kubernetes in Action - Marko Luksa][b9]
 
-[See my 2020 reading list.
-](https://www.goodreads.com/review/list/44353038-dakota-chambers?shelf=2020-reading-list)
+[See my 2020 reading list.][b0]
 
 :video_game: Currently playing:
 - Animal Crossing: New Horizons (Switch)
@@ -35,7 +32,7 @@ title: "Statistics and Stuff"
 :video_game: Games I've completed:
 - None yet
 
-:running: [Run Log](https://www.strava.com/athletes/30402150)
+:running: [Run Log][r0]
 - January: ??? Miles
 - February: 18.5 Miles
 - March: 24.1 Miles
@@ -47,11 +44,14 @@ title: "Statistics and Stuff"
 
 | Books Read | Games Beaten | Miles Run | Bones Broken |
 |------------|--------------|-----------|--------------|
-| 6/25       | 0/10         | 97.7/500  | :star: 0/0   |
+| 7/25       | 0/10         | 97.7/500  | :star: 0/0   |
 
 * Scorecard updated monthly.
 
 <!-- References/Links -->
+
+<!-- books -->
+[b0]: https://www.goodreads.com/review/list/44353038-dakota-chambers?shelf=2020-reading-list
 [b1]: https://www.goodreads.com/book/show/8664353-unbroken
 [b2]: https://www.goodreads.com/book/show/653135.The_Secret_History
 [b3]: https://www.goodreads.com/book/show/22826126-seveneves
@@ -59,3 +59,8 @@ title: "Statistics and Stuff"
 [b5]: https://www.goodreads.com/book/show/70535.2001
 [b6]: https://www.goodreads.com/book/show/34217486-murder-on-the-orient-express
 [b7]: https://www.goodreads.com/book/show/37976541-bad-blood
+[b8]: https://www.goodreads.com/book/show/10396652-a-storm-of-swords
+[b9]: https://www.goodreads.com/book/show/34013922-kubernetes-in-action
+
+<!-- running -->
+[r0]: https://www.strava.com/athletes/30402150
