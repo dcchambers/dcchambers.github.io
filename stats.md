@@ -40,6 +40,7 @@ title: "Statistics and Stuff"
 - May: 68.1 Miles
 - June: 64.9
 - July: 22.38...and counting!
+
 ---
 
 ### Scorecard
