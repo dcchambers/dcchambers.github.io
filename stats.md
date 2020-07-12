@@ -36,6 +36,7 @@ title: "Statistics and Stuff"
    ](https://www.goodreads.com/book/show/70535.2001)
 6. [Murder on the Orient Express - Agatha Christie
    ](https://www.goodreads.com/book/show/34217486-murder-on-the-orient-express)
+7. [Bad Blood: Secrets and Lies in a Silicon Valley Startup][b7]
 
 :video_game: Games I've completed:
 - None yet
@@ -55,3 +56,6 @@ title: "Statistics and Stuff"
 | 6/25       | 0/10         | 97.7/500  | :star: 0/0   |
 
 * Scorecard updated monthly.
+
+<!-- Links -->
+[b7]: https://www.goodreads.com/book/show/37976541-bad-blood
