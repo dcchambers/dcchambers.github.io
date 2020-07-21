@@ -1,6 +1,7 @@
 ---
+
 title: Test Page!
-permalink: /cool/
+permalink: /test/
 ---
 
-# Cool Test Page
+# A page for testing stuff in Jekyll
