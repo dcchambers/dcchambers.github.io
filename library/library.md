@@ -1,10 +1,10 @@
 ---
 layout: single
-title: library
+author_profile: true
+title: Library
 permalink: /library/
 ---
 
-# library
 :book: My personal library! :book:
 
 I have not read all of them, and some of them I have read several times. Links
