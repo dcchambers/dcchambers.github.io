@@ -28,6 +28,7 @@ title: "Statistics and Stuff"
 5. [2001: A Space Odyssey - Arthur C. Clarke][b5]
 6. [Murder on the Orient Express - Agatha Christie][b6]
 7. [Bad Blood: Secrets and Lies in a Silicon Valley Startup][b7]
+8. [Casino Royale][b10]
 
 :video_game: Games I've completed:
 - None yet
@@ -54,16 +55,16 @@ title: "Statistics and Stuff"
 <!-- References/Links -->
 
 <!-- books -->
-[b0]: https://www.goodreads.com/review/list/44353038-dakota-chambers?shelf=2020-reading-list
-[b1]: https://www.goodreads.com/book/show/8664353-unbroken
-[b2]: https://www.goodreads.com/book/show/653135.The_Secret_History
-[b3]: https://www.goodreads.com/book/show/22826126-seveneves
-[b4]: https://www.goodreads.com/book/show/35133922-educated
-[b5]: https://www.goodreads.com/book/show/70535.2001
-[b6]: https://www.goodreads.com/book/show/34217486-murder-on-the-orient-express
-[b7]: https://www.goodreads.com/book/show/37976541-bad-blood
-[b8]: https://www.goodreads.com/book/show/10396652-a-storm-of-swords
-[b9]: https://www.goodreads.com/book/show/34013922-kubernetes-in-action
-
+[b0]:  https://www.goodreads.com/review/list/44353038-dakota-chambers?shelf=2020-reading-list
+[b1]:  https://www.goodreads.com/book/show/8664353-unbroken
+[b2]:  https://www.goodreads.com/book/show/653135.The_Secret_History
+[b3]:  https://www.goodreads.com/book/show/22826126-seveneves
+[b4]:  https://www.goodreads.com/book/show/35133922-educated
+[b5]:  https://www.goodreads.com/book/show/70535.2001
+[b6]:  https://www.goodreads.com/book/show/34217486-murder-on-the-orient-express
+[b7]:  https://www.goodreads.com/book/show/37976541-bad-blood
+[b8]:  https://www.goodreads.com/book/show/10396652-a-storm-of-swords
+[b9]:  https://www.goodreads.com/book/show/34013922-kubernetes-in-action
+[b10]: https://www.goodreads.com/book/show/3758.Casino_Royale
 <!-- running -->
-[r0]: https://www.strava.com/athletes/30402150
+[r0]:  https://www.strava.com/athletes/30402150
