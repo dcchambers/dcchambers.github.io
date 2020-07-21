@@ -8,7 +8,7 @@ title: "Statistics, Lists, and Random Stuff"
 
 :book: Currently reading:
 - [Where the Crawdads Sing - Delia Owens][b11]
-- [A Storm of Swords (A Song of Ice and Fire #3)][b8]
+- [A Storm of Swords (A Song of Ice and Fire #3) - George R. R. Martin][b8]
 - [Kubernetes in Action - Marko Luksa][b9]
 
 [See my 2020 reading list.][b0]
@@ -28,8 +28,8 @@ title: "Statistics, Lists, and Random Stuff"
 4. [Educated - Tara Westover][b4]
 5. [2001: A Space Odyssey - Arthur C. Clarke][b5]
 6. [Murder on the Orient Express - Agatha Christie][b6]
-7. [Bad Blood: Secrets and Lies in a Silicon Valley Startup][b7]
-8. [Casino Royale][b10]
+7. [Bad Blood: Secrets and Lies in a Silicon Valley Startup - John Carreuyrou][b7]
+8. [Casino Royale - Ian Fleming][b10]
 
 :video_game: Games I've completed:
 - None yet
