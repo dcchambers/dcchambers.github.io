@@ -3,5 +3,5 @@ main:
     url: "http://chambers.io/about.html"
   - title: "Stats"
     url: "http://chambers.io/stats.html"
-#  - title: "Work"
-#    url: "http://chambers.io/work.html"
+  - title: "Library"
+    url: "http://chambers.io/library"
