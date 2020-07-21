@@ -14,7 +14,11 @@ Feel free to check out my [Resume/CV](https://github.com/dcchambers/resume).
 
 Check out my [GitHub](https://github.com/dcchambers) or read some of my [technical writing](http://chambers.io).
 
-Find me:
+When I'm not on a computer I enjoy reading, running, biking, cooking, watersports, and hanging out with my wife, LeeAnn, and our dog, Atlas.
+
+---
+
+Find me online:
 
 - [![](/assets/icons/baseline-rss_feed-24px.svg)Blog](http://chambers.io)
 - [![](/assets/icons/baseline-code-24px.svg)GitHub](https://github.com/dcchambers)
