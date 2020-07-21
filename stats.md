@@ -7,6 +7,7 @@ title: "Statistics and Stuff"
 ## 2020
 
 :book: Currently reading:
+- [Where the Crawdads Sing - Delia Owens][b11]
 - [A Storm of Swords (A Song of Ice and Fire #3)][b8]
 - [Kubernetes in Action - Marko Luksa][b9]
 
@@ -66,5 +67,6 @@ title: "Statistics and Stuff"
 [b8]:  https://www.goodreads.com/book/show/10396652-a-storm-of-swords
 [b9]:  https://www.goodreads.com/book/show/34013922-kubernetes-in-action
 [b10]: https://www.goodreads.com/book/show/3758.Casino_Royale
+[b11]: https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing
 <!-- running -->
 [r0]:  https://www.strava.com/athletes/30402150
