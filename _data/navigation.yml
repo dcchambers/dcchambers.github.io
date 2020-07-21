@@ -1,7 +1,7 @@
 main:
   - title: "About"
-    url: "http://chambers.io/about.html"
+    url: "/about"
   - title: "Stats"
-    url: "http://chambers.io/stats.html"
+    url: "/stats"
   - title: "Library"
-    url: "http://chambers.io/library"
+    url: "/library"
