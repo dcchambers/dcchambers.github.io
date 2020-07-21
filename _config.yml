@@ -44,16 +44,15 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-#minimal-mistakes specific
-paginate: 99 # amount of posts to show on home page.
-
 # Site Author
 author:
   name: "Dakota Chambers"
   bio: "I'm a software engineer focused on devops and automating boring things!"
   avatar: "/assets/images/dakota_avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  location: "Madison, WI"
   twitter: dakotachambers
   github: dcchambers
+  linkedin: dakota-chambers
 
 # Defaults
 defaults:
@@ -68,6 +67,9 @@ defaults:
       comments: # true
       share: # true
       related: # true
+
+#minimal-mistakes specific
+paginate: 99 # amount of posts to show on home page.
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
