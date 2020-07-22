@@ -1,9 +1,6 @@
 ---
-layout: homepage
+layout: page
+title: chambers.io
 ---
 
-Helloo!!
-
-stuff...
-
-Blog Posts:
+Hello!
