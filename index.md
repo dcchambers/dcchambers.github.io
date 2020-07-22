@@ -1,6 +1,4 @@
 ---
-layout: page
-title: chambers.io
+layout: home
+author_profile: true
 ---
-
-Hello!
