@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<!-- This is a slightly customized version of the Minimal Mistakes single layout -->
-<!-- with 2 custom includes -->
+<!-- this is basically a copy of single.html without the email subscription form -->
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
@@ -57,8 +56,6 @@ layout: default
         {% include customdate.html %}
         <br>
       </footer>
-
-      {% include subscription-form.html %}
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
