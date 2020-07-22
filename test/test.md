@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: home
 author_profile: true
 title: Test Page!
 permalink: /test/
 ---
 
-A page for testing stuff in Jekyll!
+:wave: Hello!
+
+- Check out my [library](/library)
+
+## Blog
