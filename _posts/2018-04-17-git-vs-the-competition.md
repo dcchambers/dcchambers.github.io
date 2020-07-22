@@ -1,6 +1,7 @@
 ---
 title: Git vs. The Competition
 last_modified_at: 2018-04-18
+tags: git
 ---
 
 If you have been following along during [Git Week 2018](/2018/04/07/git-week.html),

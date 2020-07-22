@@ -1,5 +1,6 @@
 ---
 title: Don't Fear the Command Line
+tags: [linux/unix, command line]
 ---
 
 ![](/assets/gif/terminal_gif.gif)

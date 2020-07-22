@@ -1,5 +1,6 @@
 ---
 title: On Keeping Notes
+tags: [linux/unix, command line]
 ---
 
 I made a tiny script for keeping simple text-based notes.

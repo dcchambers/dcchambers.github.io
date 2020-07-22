@@ -1,6 +1,7 @@
 ---
 title: Why You Should Write in Markdown
 last_modified_at: 2018-04-04
+tags: markdown
 ---
 
 >*What is this Markdown nonsense and why should I care? I'll give up .doc when

@@ -1,6 +1,7 @@
 ---
 title: Radiology Tech Stack
 last_modified_at: 2018-06-11
+tags: [work, linux/unix, healthcare]
 ---
 
 ![](/assets/images/wisc-radiology.png)

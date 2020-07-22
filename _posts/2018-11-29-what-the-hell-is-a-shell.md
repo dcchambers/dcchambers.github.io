@@ -1,5 +1,6 @@
 ---
 title: What the Hell is a Shell?
+tags: [command line]
 ---
 
 You see the term 'Shell' tossed around a lot these days. The Bourne Shell (sh),

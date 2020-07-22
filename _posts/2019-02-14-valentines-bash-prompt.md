@@ -1,5 +1,6 @@
 ---
 title: Celebrate Valentine's Day with Bash!
+tags: [linux/unix, command line]
 ---
 
 If you're using a modern terminal emulator with unicode support

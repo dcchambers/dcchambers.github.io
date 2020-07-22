@@ -1,5 +1,6 @@
 ---
 title: Linux & Unix Command Line Essentials
+tags: [linux/unix, command line]
 ---
 
 When I got my first SysAdmin job (as a Student with the [Center for High Throughput Computing](http://chtc.cs.wisc.edu))
