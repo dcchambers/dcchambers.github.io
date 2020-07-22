@@ -1,7 +1,7 @@
 ---
 layout: page
 author_profile: true
-title: My Personal Library
+title: "My Personal Library"
 permalink: /library
 ---
 
