@@ -1,5 +1,6 @@
 ---
 title: How Git Works
+last_modified_at: 2018-04-16
 ---
 
 So far this week we've talked about what Git is and how to use it. If you're

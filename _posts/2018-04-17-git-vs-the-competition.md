@@ -1,5 +1,6 @@
 ---
 title: Git vs. The Competition
+last_modified_at: 2018-04-18
 ---
 
 If you have been following along during [Git Week 2018](/2018/04/07/git-week.html),
@@ -191,7 +192,7 @@ teams would be able to switch to Git/Mercurial without issue, though.
 Well, that sums up Git vs. the Competition. Ultimately, there's a ton of choices
 out there. Git is my VCS of choice, but I use Mercurial at work in addition to
 Git (damn you legacy projects!), and it serves us well. If you're trying to
-decide on a tool, do your research to learn the benefits of each. In general, 
+decide on a tool, do your research to learn the benefits of each. In general,
 I think Git has just about everything most teams need to be successful.
 
 This wraps up my [miniseries on Git](/2018/04/07/git-week.html). I hope you've enjoyed reading

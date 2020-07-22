@@ -1,5 +1,6 @@
 ---
 title: Git for Sysadmins
+last_modified_at: 2018-04-16
 ---
 
 Congratulations! You survived [Git 101](/2018/04/09/git-101.html). :tada: :tada:

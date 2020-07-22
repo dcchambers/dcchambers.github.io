@@ -73,6 +73,7 @@ include:
 
 #minimal-mistakes specific
 paginate: 99 # amount of posts to show on home page.
+paginate_path: index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
