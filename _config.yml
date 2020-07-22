@@ -68,6 +68,9 @@ defaults:
       share: # true
       related: # true
 
+include:
+  - _pages
+
 #minimal-mistakes specific
 paginate: 99 # amount of posts to show on home page.
 

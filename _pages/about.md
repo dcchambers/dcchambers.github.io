@@ -1,6 +1,7 @@
 ---
 layout: page
 author_profile: true
+permalink: /about
 ---
 
 Hey, I'm Dakota!

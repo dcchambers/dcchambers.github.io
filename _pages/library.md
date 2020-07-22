@@ -1,11 +1,11 @@
 ---
 layout: page
 author_profile: true
-title: Library
-permalink: /library/
+title: My Personal Library
+permalink: /library
 ---
 
-:book: My personal library! :book:
+:book: Books I own! :book:
 
 I have not read all of them, and some of them I have read several times. Links
 to reviews are included if I have reviewed them. These are all of the physical
