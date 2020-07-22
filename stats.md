@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 author_profile: true
 title: "Statistics, Lists, and Random Stuff"
 ---
