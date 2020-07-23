@@ -33,7 +33,6 @@ Some day I may attempt to list those too.
 - Do Androids Dream of Electric Sheep (Blade Runner) - Philip K. Dick
 - The Priory of the Orange Tree - Samantha Shannon
 - The Maze Runner - James Dashner
--
 
 ### Myster and Thriller
 
