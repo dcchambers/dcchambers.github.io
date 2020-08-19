@@ -41,8 +41,8 @@ permalink: /stats
 - March: 24.1 Miles
 - April: 55.1 Miles
 - May: 68.1 Miles
-- June: 64.9
-- July: 22.38...and counting!
+- June: 64.9 Miles
+- July: 79.7 Miles 
 
 ---
 
