@@ -15,6 +15,7 @@ permalink: /stats
 [See my 2020 reading list.][b0]
 
 :video_game: Currently playing:
+- Fall Guys (PC)
 - Animal Crossing: New Horizons (Switch)
 - The Witcher Series (1, 2, and 3) (PC & Switch)
 - Luigi's Mansion 3 (Switch)
