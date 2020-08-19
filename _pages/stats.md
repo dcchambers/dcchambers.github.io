@@ -51,7 +51,7 @@ permalink: /stats
 
 | Books Read | Games Beaten | Miles Run | Bones Broken |
 |------------|--------------|-----------|--------------|
-| 8/25       | 0/10         | 249/500   | :star: 0/0   |
+| 8/25       | 0/10         | 365/500   | :star: 0/0   |
 
 * Scorecard updated monthly.
 
