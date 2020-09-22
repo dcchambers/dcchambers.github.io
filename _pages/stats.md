@@ -8,11 +8,10 @@ permalink: /stats
 ## 2020
 
 :book: Currently reading:
-- [Where the Crawdads Sing - Delia Owens][b11]
 - [A Storm of Swords (A Song of Ice and Fire #3) - George R. R. Martin][b8]
 - [Kubernetes in Action - Marko Luksa][b9]
 
-[See my 2020 reading list.][b0]
+[See my 2020 reading list (Goodreads).][b0]
 
 :video_game: Currently playing:
 - Fall Guys (PC)
@@ -32,6 +31,7 @@ permalink: /stats
 6. [Murder on the Orient Express - Agatha Christie][b6]
 7. [Bad Blood: Secrets and Lies in a Silicon Valley Startup - John Carreuyrou][b7]
 8. [Casino Royale - Ian Fleming][b10]
+9. [Where the Crawdads Sing - Delia Owens][b11]
 
 :video_game: Games I've completed:
 - None yet
@@ -52,7 +52,7 @@ permalink: /stats
 
 | Books Read | Games Beaten | Miles Run | Bones Broken |
 |------------|--------------|-----------|--------------|
-| 8/25       | 0/10         | 405/500   | :star: 0/0   |
+| 9/25       | 0/10         | 405/500   | :star: 0/0   |
 
 * Scorecard updated monthly.
 
