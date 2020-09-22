@@ -54,6 +54,7 @@ Some day I may attempt to list those too.
 - World War Z - Max Brooks
 - The Zombie Survival Guide - Max Brooks
 - The Secret History - Donna Tartt
+- Where the Crawdads Sing - Delia Owens
 
 ## Technical
 
