@@ -27,6 +27,13 @@ permalink: /coffee
 
 ### August
 
+#### Wonderstate Driftless
+
+I'll call this a classic diner blend. It's a little bit darker than I would
+like - has an ever-so-slight burn taste.
+
+#### Wonderstate Guatemala Adenisa
+
 -->
 
 [Madcap]: https://madcapcoffee.com/
