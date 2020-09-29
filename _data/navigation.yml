@@ -5,5 +5,7 @@ main:
     url: "/about"
   - title: "Library"
     url: "/library"
+  - title: "Coffee"
+    url: "/coffee"
   - title: "Life Stats"
     url: "/stats"
