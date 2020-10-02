@@ -55,7 +55,7 @@ permalink: /stats
 |------------|--------------|----------------|--------------|
 | 9/25       | 0/10         | :star: 507/500 | :star: 0/0   |
 
-* Scorecard updated monthly.
+Updated monthly.
 
 <!-- References/Links -->
 
