@@ -11,7 +11,7 @@ permalink: /stats
 - [A Storm of Swords (A Song of Ice and Fire #3) - George R. R. Martin][b8]
 - [Kubernetes in Action - Marko Luksa][b9]
 
-[See my 2020 reading list (Goodreads).][b0]
+[See my 2020 reading list (Goodreads)][b0] or check out my personal [library][].
 
 :video_game: Currently playing:
 - Fall Guys (PC)
@@ -58,7 +58,7 @@ permalink: /stats
 Updated monthly.
 
 <!-- References/Links -->
-
+[library]: /library
 <!-- books -->
 [b0]:  https://www.goodreads.com/review/list/44353038-dakota-chambers?shelf=2020-reading-list
 [b1]:  https://www.goodreads.com/book/show/8664353-unbroken
