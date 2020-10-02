@@ -45,14 +45,15 @@ permalink: /stats
 - June: 64.9 Miles
 - July: 79.7 Miles 
 - August: 94.6 Miles
+- September: 101.7 Miles
 
 ---
 
 ### Scorecard
 
-| Books Read | Games Beaten | Miles Run | Bones Broken |
-|------------|--------------|-----------|--------------|
-| 9/25       | 0/10         | 405/500   | :star: 0/0   |
+| Books Read | Games Beaten | Miles Run      | Bones Broken |
+|------------|--------------|----------------|--------------|
+| 9/25       | 0/10         | :star: 507/500 | :star: 0/0   |
 
 * Scorecard updated monthly.
 
