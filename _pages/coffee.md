@@ -17,8 +17,8 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Country  |Consumed  |Roast Date|Rating|
 |-------        |------            |-------  |----------|----------|------|
-|[Just Coffee][]|Wake the Flock Up |Blend    |Oct 2020  |          |      |
-|[Just Coffee][]|Revolution        |Honruas  |Oct 2020  |          |      | 
+|[Just Coffee][]|Wake the Flock Up |Blend    |Oct 2020  |Undated   |      |
+|[Just Coffee][]|Revolution        |Honruas  |Oct 2020  |Undated   |      | 
 |[Madcap][]     |Party             |Ethiopia |Sep 2020  |9/13/2020 |★★★☆☆ |
 |[Madcap][]     |Luis Reinoso      |Colombia |Sep 2020  |9/13/2020 |★★★★★ |
 |[Wonderstate][]|Driftless         |Blend    |Aug 2020  |8/2020    |★★★☆☆ |
