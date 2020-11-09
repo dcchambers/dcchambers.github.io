@@ -17,12 +17,14 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Country  |Consumed  |Roast Date|Rating|
 |-------        |------            |-------  |----------|----------|------|
-|[Just Coffee][]|Wake the Flock Up |Blend    |Oct 2020  |Undated   |      |
-|[Just Coffee][]|Revolution        |Honruas  |Oct 2020  |Undated   |      | 
+|[EVP][]        |Tanzanian Peaberry|Tanzania |Nov 2020  |10/30/2020|★★★★☆ |
+|[Ruby][]       |Gachatha          |Kenya    |Oct/Nov 2020|10/20/2020|★★★★☆|
+|[Just Coffee][]|Wake the Flock Up |Blend    |Oct 2020  |Undated   |★★★☆☆ |
+|[Just Coffee][]|Revolution        |Honduras |Oct 2020  |Undated   |★★☆☆☆ | 
 |[Madcap][]     |Party             |Ethiopia |Sep 2020  |9/13/2020 |★★★☆☆ |
 |[Madcap][]     |Luis Reinoso      |Colombia |Sep 2020  |9/13/2020 |★★★★★ |
 |[Wonderstate][]|Driftless         |Blend    |Aug 2020  |8/2020    |★★★☆☆ |
-|[Wonderstate][]|Guatemala Adenisa |Guatemala|Aug 2020  |8/2020    |★★★★★|
+|[Wonderstate][]|Guatemala Adenisa |Guatemala|Aug 2020  |8/2020    |★★★★★ |
 |[Dark Matter][]||||||
 |[Ruby][]|
 
@@ -30,11 +32,24 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 ## 2020
 
+### November
+
+#### EVP Coffee - Tanzanian Peaberry
+- A personal local favorite that I haven't had for quite a while. Holds up
+  well. Bright and fruity without being acidic - has a nice roasty flavor as
+  well. 
+
+#### Ruby Coffee - Gachatha (Kenya)
+
 ### October
 
 #### Just Coffee Wake the Flock Up
+- A perfectly drinkable blend of coffee and roast types. A little uneven at
+  times.
 
 #### Just Coffee Revolution
+- A bit too dark for me. Tastes over-roasted and kills some of the flavors, but
+  fans of dark roast coffees will like this.
 
 ### September
 
@@ -57,3 +72,4 @@ like - has an ever-so-slight burn taste.
 [Wonderstate]: https://wonderstate.com/
 [Dark Matter]: https://www.darkmattercoffee.com/
 [Ruby]: https://rubycoffeeroasters.com/
+[EVP]: http://www.evpcoffee.com/
