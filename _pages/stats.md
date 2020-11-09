@@ -46,6 +46,7 @@ permalink: /stats
 - July: 79.7 Miles 
 - August: 94.6 Miles
 - September: 101.7 Miles
+- October: 71.8 Miles
 
 ---
 
@@ -53,7 +54,7 @@ permalink: /stats
 
 | Books Read | Games Beaten | Miles Run      | Bones Broken |
 |------------|--------------|----------------|--------------|
-| 9/25       | 0/10         | :star: 507/500 | :star: 0/0   |
+| 9/25       | 0/10         | :star: 579/500 | :star: 0/0   |
 
 Updated monthly.
 
