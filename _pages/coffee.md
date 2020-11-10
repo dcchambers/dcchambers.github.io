@@ -35,6 +35,8 @@ with a french press or pour-over. Sorted with most recent at the top.
 ### November
 
 #### EVP Coffee - Tanzanian Peaberry
+![](/assets/images/coffee/evp_tanzanian_peaberry.jpg)
+
 - A personal local favorite that I haven't had for quite a while. Holds up
   well. Bright and fruity without being acidic - has a nice roasty flavor as
   well. 
