@@ -17,6 +17,7 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Country  |Consumed  |Roast Date|Rating|
 |-------        |------            |-------  |----------|----------|------|
+|[Sip of Hope][]|Conversation Starter|Mexico |Nov 2020  |11/17/2020|★★★★★ |
 |[EVP][]        |Tanzanian Peaberry|Tanzania |Nov 2020  |10/30/2020|★★★★☆ |
 |[Ruby][]       |Gachatha          |Kenya    |Oct/Nov 2020|10/20/2020|★★★★☆|
 |[Just Coffee][]|Wake the Flock Up |Blend    |Oct 2020  |Undated   |★★★☆☆ |
@@ -33,6 +34,14 @@ with a french press or pour-over. Sorted with most recent at the top.
 ## 2020
 
 ### November
+
+#### Sip of Hope - Conversation Starter
+![](/assets/images/coffee/sip_of_hope_conversation_starter.jpg)
+
+- Sip of Hope has started roasting their own coffee! It used to be made by Dark
+  Matter Coffee. Their debut coffee is a medium roast from Mexico. Very good!
+  Earthy and robust flavors, not much sweetness or fruit. Great in a french
+  press.
 
 #### EVP Coffee - Tanzanian Peaberry
 ![](/assets/images/coffee/evp_tanzanian_peaberry.jpg)
@@ -75,3 +84,4 @@ like - has an ever-so-slight burn taste.
 [Dark Matter]: https://www.darkmattercoffee.com/
 [Ruby]: https://rubycoffeeroasters.com/
 [EVP]: http://www.evpcoffee.com/
+[Sip of Hope]: https://sipofhope.com/
