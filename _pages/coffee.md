@@ -17,9 +17,9 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Country  |Consumed  |Roast Date|Rating|
 |-------        |------            |-------  |----------|----------|------|
-|[Sip of Hope][]|Conversation Starter|Mexico |Nov 2020  |11/17/2020|★★★★★ |
-|[EVP][]        |Tanzanian Peaberry|Tanzania |Nov 2020  |10/30/2020|★★★★☆ |
-|[Ruby][]       |Gachatha          |Kenya    |Oct/Nov 2020|10/20/2020|★★★★☆|
+|[Sip of Hope][]|Conversation Starter|Mexico |Nov 2020  |11/17/2020|[★★★★★][r2]|
+|[EVP][]        |Tanzanian Peaberry|Tanzania |Nov 2020  |10/30/2020|[★★★★☆][r1]|
+|[Ruby][]       |Gachatha          |Kenya  |Oct/Nov 2020|10/20/2020|★★★★☆ |
 |[Just Coffee][]|Wake the Flock Up |Blend    |Oct 2020  |Undated   |★★★☆☆ |
 |[Just Coffee][]|Revolution        |Honduras |Oct 2020  |Undated   |★★☆☆☆ | 
 |[Madcap][]     |Party             |Ethiopia |Sep 2020  |9/13/2020 |★★★☆☆ |
@@ -86,3 +86,6 @@ like - has an ever-so-slight burn taste.
 [Ruby]: https://rubycoffeeroasters.com/
 [EVP]: http://www.evpcoffee.com/
 [Sip of Hope]: https://sipofhope.com/
+
+[r1]: #evp-coffee---tanzanian-peaberry
+[r2]: #sip-of-hope---conversation-starter
