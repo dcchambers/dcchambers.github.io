@@ -38,10 +38,11 @@ with a french press or pour-over. Sorted with most recent at the top.
 #### Sip of Hope - Conversation Starter
 ![](/assets/images/coffee/sip_of_hope_conversation_starter.jpg)
 
-- Sip of Hope has started roasting their own coffee! It used to be made by Dark
-  Matter Coffee. Their debut coffee is a medium roast from Mexico. Very good!
-  Earthy and robust flavors, not much sweetness or fruit. Great in a french
-  press.
+- Sip of Hope has started roasting their own coffee! The previous iteration was
+  an awesome blend roasted by Dark Matter Coffee but I was super excited to
+  give this a try. Their debut coffee is a medium roast from Mexico. Very good!
+  Earthy with robust and roasty flavors, not much sweetness or fruit. Great in
+  a french press. No bitterness or acidity. Could drink this all day long.
 
 #### EVP Coffee - Tanzanian Peaberry
 ![](/assets/images/coffee/evp_tanzanian_peaberry.jpg)
