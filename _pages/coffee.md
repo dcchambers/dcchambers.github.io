@@ -17,6 +17,7 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Country  |Consumed  |Roast Date|Rating|
 |-------        |------            |-------  |----------|----------|------|
+|[Ancora][] (via Just Coffee)|Holiday Blend|Blend|Dec 2020|Undated |[★★☆☆☆][r3]|
 |[Sip of Hope][]|Conversation Starter|Mexico |Nov 2020  |11/17/2020|[★★★★★][r2]|
 |[EVP][]        |Tanzanian Peaberry|Tanzania |Nov 2020  |10/30/2020|[★★★★☆][r1]|
 |[Ruby][]       |Gachatha          |Kenya  |Oct/Nov 2020|10/20/2020|★★★★☆ |
@@ -32,6 +33,15 @@ with a french press or pour-over. Sorted with most recent at the top.
 ---
 
 ## 2020
+
+### December
+
+#### Ancora - Holiday Blend
+![](/assets/images/coffee/ancora_holiday_blend.jpg)
+
+- Reminds me of coffee at grandma's house. It's a blend of both medium and
+  darkly roasted beans and unfortunately I'm picking up some mild burnt tastes.
+  The holiday spice is there, but it's a bit too dark for me.
 
 ### November
 
@@ -86,6 +96,8 @@ like - has an ever-so-slight burn taste.
 [Ruby]: https://rubycoffeeroasters.com/
 [EVP]: http://www.evpcoffee.com/
 [Sip of Hope]: https://sipofhope.com/
+[Ancora]: https://ancoracoffee.com/
 
 [r1]: #evp-coffee---tanzanian-peaberry
 [r2]: #sip-of-hope---conversation-starter
+[r3]: #ancora---holiday-blend
