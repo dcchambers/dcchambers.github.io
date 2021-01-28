@@ -10,13 +10,24 @@ Coffee. Nothing exists, so I keep track of the coffees I drink here. These are
 mostly just coffees I buy by-the-bag and have at home. I drink a lot of coffee
 while out but I don't keep track of that.
 
-# Coffee I Drink
-
 Generally purchased whole-bean, ground fresh with a burr grinder, and brewed
 with a french press or pour-over. Sorted with most recent at the top.
 
+# Coffee Log
+
+## 2021
+
+|Roaster        |Coffee            |Country  |Consumed  |Roast Date|Rating|
+|---------------|------------------|---------|----------|----------|------|
+|[Just Coffee][]|Laos Peaberry     |Laos   |Jan/Feb 2021|Undated   |      |
+|[Sip of Hope][]|Conversation Starter|Mexico |Jan 2021  |12/28/2020|★★★★★ |
+|[Sip of Hope][]|Mexico Nayarit    |Mexico   |Jan 2021  |12/28/2020|★★★★☆ |
+
+## 2020
+
 |Roaster        |Coffee            |Country  |Consumed  |Roast Date|Rating|
 |-------        |------            |-------  |----------|----------|------|
+|[EVP][]        |Brazilian         |Brazil   |Dec 2020  |12/18/2020|★★★☆☆ |
 |[Ancora][] (via Just Coffee)|Holiday Blend|Blend|Dec 2020|Undated |[★★☆☆☆][r3]|
 |[Sip of Hope][]|Conversation Starter|Mexico |Nov 2020  |11/17/2020|[★★★★★][r2]|
 |[EVP][]        |Tanzanian Peaberry|Tanzania |Nov 2020  |10/30/2020|[★★★★☆][r1]|
@@ -32,9 +43,39 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 ---
 
+# Coffee Reviews
+
+## 2021
+
+### January
+
+#### Just Coffee - Laos Peaberry
+![](/assets/images/coffee/just_coffee_laos_peaberry.jpg)
+
+- Very interested to see what another Peaberry coffee will taste like. I love
+  the Tanzanian Peaberry from EVP...and it will be interesting to see how the
+  growing region affects the flavor.
+
+#### Sip of Hope - Conversation Starter
+
+- Pretty much the perfect blend. So well balanced, drinkable, and delicious.
+
+#### Sip of Hope - Mexico Nayarit Natural
+
 ## 2020
 
+### 2020 Recap
+
+- I drank a lot of fantastic coffee in 2020. One of the few upsides to forced
+  work-from-home was that I drank a lot more coffee at home than usual. As a
+  result, I was able to order more and try more coffees than usual. Here's a
+  photo of all the coffees I had in 2020.
+
+![](/assets/images/coffee/2020_year_in_coffee.jpg)
+
 ### December
+
+#### EVP Coffee - Brazilian
 
 #### Ancora - Holiday Blend
 ![](/assets/images/coffee/ancora_holiday_blend.jpg)
