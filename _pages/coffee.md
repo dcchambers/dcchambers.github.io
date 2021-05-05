@@ -25,7 +25,7 @@ with a french press or pour-over. Sorted with most recent at the top.
 |[Sip of Hope][]|Let Hope Bloom|Blend - Mexico, Ethiopia|Apr 2021|04/05/2021|★★★★☆|
 |[David Rio Chai Bar][]|Rio Magdalena|Colombia|Apr 2021 |03/18/2021|★★★☆☆ |
 |[Jittery Joes][]|Tanzania Peaberry Burka Estate|Tanzania|Mar 2021|Undated|★★★★☆|
-|[Jittery Joes][]|Whoop Ass        |Blend    |Mar 2021  |Undated   |★★★☆☆ |        
+|[Jittery Joes][]|Whoop Ass        |Blend    |Mar 2021  |Undated   |★★★☆☆ |
 |[Jittery Joes][]|Morning Ride|Blend - Guatemala, Peru|Mar 2021|Undated|★★★★☆|
 |[Sip of Hope][]|Papua New Guinea Peaberry|Papua New Guinea|Feb 2021|2/9/21|★★★★☆|
 |[Colectivo][]  |Blue Heeler|Blend - Sumatra (Indonesia)|Feb 2021|2/1/2021|★★★☆☆|
@@ -43,7 +43,7 @@ with a french press or pour-over. Sorted with most recent at the top.
 |[EVP][]        |Tanzanian Peaberry|Tanzania |Nov 2020  |10/30/2020|[★★★★☆][r1]|
 |[Ruby][]       |Gachatha          |Kenya  |Oct/Nov 2020|10/20/2020|★★★★☆ |
 |[Just Coffee][]|Wake the Flock Up |Blend    |Oct 2020  |Undated   |★★★☆☆ |
-|[Just Coffee][]|Revolution        |Honduras |Oct 2020  |Undated   |★★☆☆☆ | 
+|[Just Coffee][]|Revolution        |Honduras |Oct 2020  |Undated   |★★☆☆☆ |
 |[Madcap][]     |Party             |Ethiopia |Sep 2020  |9/13/2020 |★★★☆☆ |
 |[Madcap][]     |Luis Reinoso      |Colombia |Sep 2020  |9/13/2020 |★★★★★ |
 |[Wonderstate][]|Driftless         |Blend    |Aug 2020  |8/2020    |★★★☆☆ |
@@ -62,14 +62,18 @@ with a french press or pour-over. Sorted with most recent at the top.
 #### Black & White Coffee - Jakub Lazuardi - Anaerobic Natural
 
 #### Black & White Coffee - Gabriel Motta - Pink Bourbon
+![](/assets/images/coffee/black_and_white_coffee.jpg)
 
 ### April
 
 #### Wonderstate - Peru San Fernando
+![](/assets/images/coffee/wonderstate_peru_san_fernando.jpg)
 
 #### Sip of Hope - Let Hope Bloom
+![](/assets/images/coffee/sip_of_hope_let_hope_bloom.jpg)
 
 #### David Rio Chai Bar - Rio Magdalena
+![](/assets/images/coffee/david_rio_chai_bar_coffee.jpg)
 
 ### March
 
@@ -85,6 +89,7 @@ with a french press or pour-over. Sorted with most recent at the top.
 ### February
 
 #### Sip of Hope - Papua New Guinea Peaberry
+![](/assets/images/coffee/sip_of_hope_papua_new_guinea_peaberry.jpg)
 
 #### Colectivo Coffee - Blue Heller
 ![](/assets/images/coffee/colectivo_blue_heeler.jpg)
@@ -144,7 +149,7 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 - A personal local favorite that I haven't had for quite a while. Holds up
   well. Bright and fruity without being acidic - has a nice roasty flavor as
-  well. 
+  well.
 
 #### Ruby Coffee - Gachatha (Kenya)
 
