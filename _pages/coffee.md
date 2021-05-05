@@ -71,8 +71,6 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 #### David Rio Chai Bar - Rio Magdalena
 
-#### 
-
 ### March
 
 #### Jittery Joes - Tanzania Peaberry
