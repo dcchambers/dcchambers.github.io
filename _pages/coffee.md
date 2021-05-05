@@ -19,11 +19,16 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |---------------|------------------|---------|----------|----------|------|
+|[Black & White][]|Jakub Lazuardi - Anaerobic Natural|West Java (Indonesia)|May 2021|04/30/2021| |
+|[Black & White][]|Gabriel Motta - Pink Bourbon|Colombia|May 2021|04/30/2021| |
+|[Wonderstate][]|Peru San Fernando |Peru     |Apr/May 2021|Undated |★★★☆☆ |
+|[Sip of Hope][]|Let Hope Bloom|Blend - Mexico, Ethiopia|Apr 2021|04/05/2021|★★★★☆|
+|[David Rio Chai Bar][]|Rio Magdalena|Colombia|Apr 2021 |03/18/2021|★★★☆☆ |
 |[Jittery Joes][]|Tanzania Peaberry Burka Estate|Tanzania|Mar 2021|Undated|★★★★☆|
 |[Jittery Joes][]|Whoop Ass        |Blend    |Mar 2021  |Undated   |★★★☆☆ |        
 |[Jittery Joes][]|Morning Ride|Blend - Guatemala, Peru|Mar 2021|Undated|★★★★☆|
 |[Sip of Hope][]|Papua New Guinea Peaberry|Papua New Guinea|Feb 2021|2/9/21|★★★★☆|
-|[Colectivo][]  |Blue Heeler       |Blend - Sumatra|Feb 2021  |2/1/2021  |★★★☆☆ |
+|[Colectivo][]  |Blue Heeler|Blend - Sumatra (Indonesia)|Feb 2021|2/1/2021|★★★☆☆|
 |[Just Coffee][]|Laos Peaberry     |Laos   |Jan/Feb 2021|Undated   |      |
 |[Sip of Hope][]|Conversation Starter|Mexico |Jan 2021  |12/28/2020|★★★★★ |
 |[Sip of Hope][]|Mexico Nayarit    |Mexico   |Jan 2021  |12/28/2020|★★★★☆ |
@@ -52,6 +57,22 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 ## 2021
 
+### May
+
+#### Black & White Coffee - Jakub Lazuardi - Anaerobic Natural
+
+#### Black & White Coffee - Gabriel Motta - Pink Bourbon
+
+### April
+
+#### Wonderstate - Peru San Fernando
+
+#### Sip of Hope - Let Hope Bloom
+
+#### David Rio Chai Bar - Rio Magdalena
+
+#### 
+
 ### March
 
 #### Jittery Joes - Tanzania Peaberry
@@ -70,7 +91,7 @@ with a french press or pour-over. Sorted with most recent at the top.
 #### Colectivo Coffee - Blue Heller
 ![](/assets/images/coffee/colectivo_blue_heeler.jpg)
 
-- One of my favorite blends and one of my introductions into high end coffee.
+- One of my favorite blends and one of my early introductions to high end coffee.
 
 ### January
 
@@ -165,6 +186,8 @@ like - has an ever-so-slight burn taste.
 [Ancora]: https://ancoracoffee.com/
 [Colectivo]: https://colectivocoffee.com/
 [Jittery Joes]: https://jitteryjoes.com/
+[David Rio Chai Bar]: https://www.chaibarsf.com/
+[Black & White]: https://www.blackwhiteroasters.com/
 
 [r1]: #evp-coffee---tanzanian-peaberry
 [r2]: #sip-of-hope---conversation-starter
