@@ -66,6 +66,47 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 ## 2021
 
+### September
+
+#### Just Coffee - Just Bikes
+![](/assets/images/coffee/justcoffee_justbikes.jpg)
+
+- Apparently September is [Just Coffee][] month :smile:
+
+#### Just Coffee - Bike Fuel
+![](/assets/images/coffee/justcoffee_bikefuel.jpg)
+
+- This is my go-to for making cold brew coffee.
+  - Costco sells a 2lb bag for $15. Insane value and great coffee.
+
+#### Just Coffee - ¡Arriba!
+
+- Such a great breakfast blend that we bought another bag!
+
+### August
+
+#### Ruby - Tomorrow - Seasonal Project
+![](/assets/images/coffee/ruby_tomorrow.jpg)
+
+#### Pink Elephant - Guatemala Huehuetenango
+![](/assets/images/coffee/pinkelephant.jpg)
+
+#### Just Coffee - ¡Arriba!
+![](/assets/images/coffee/justcoffee_arriba.jpg)
+
+### July
+
+#### Sip of Hope - Self Care Summer
+![](/assets/images/coffee/sipofhope_selfcaresummer.jpg)
+
+### June
+
+#### Bean & Bean - Costa Rica Las Lajas Black Honey
+![](/assets/images/coffee/beanbean_costaricalaslajas.jpg)
+
+#### Bean & Bean - Guatemala Orange Honey
+![](/assets/images/coffee/beanbean_guatemalaorangehoney.jpg)
+
 ### May
 
 #### Black & White Coffee - Jakub Lazuardi - Anaerobic Natural
