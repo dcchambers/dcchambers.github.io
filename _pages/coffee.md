@@ -60,7 +60,6 @@ with a french press or pour-over. Sorted with most recent at the top.
 |[Wonderstate][]|Guatemala Adenisa |Guatemala|Aug 2020  |8/2020    |★★★★★ |
 |[Dark Matter][]||||||
 |[Ruby][]|
-
 </details>
 
 ---
