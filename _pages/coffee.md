@@ -43,6 +43,7 @@ with a french press or pour-over. Sorted with most recent at the top.
 |[Sip of Hope][]|Mexico Nayarit    |Mexico   |Jan 2021  |12/28/2020|★★★★☆ |
 
 ## 2020
+<details><summary>2020 Coffee</summary>
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |-------        |------            |-------  |----------|----------|------|
@@ -59,6 +60,8 @@ with a french press or pour-over. Sorted with most recent at the top.
 |[Wonderstate][]|Guatemala Adenisa |Guatemala|Aug 2020  |8/2020    |★★★★★ |
 |[Dark Matter][]||||||
 |[Ruby][]|
+
+</details>
 
 ---
 
