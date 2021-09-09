@@ -19,8 +19,17 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |---------------|------------------|---------|----------|----------|------|
-|[Black & White][]|Jakub Lazuardi - Anaerobic Natural|West Java (Indonesia)|May 2021|04/30/2021| |
-|[Black & White][]|Gabriel Motta - Pink Bourbon|Colombia|May 2021|04/30/2021| |
+|[Just Coffee][]|Just Bikes|Blend - Nicaragua, Ethiopia, Guatemala||Undated||
+|[Just Coffee][]|Bike Fuel|Blend - Peru, Honduras|Sep/Oct 2021|Undated|★★★★☆|
+|[Just Coffee][]|¡Arriba!|Blend - Colombia, Honduras||Undated||
+|[Ruby][]|Tomorrow - Seasonal Project|San Ignacio, Peru|Aug/Sep 2021|08/17/2021|★★★★★|
+|[Pink Elephant][]| Guatemala Huehuetenango|Guatemala|Aug 2021|07/20/2021|★★★☆☆|
+|[Just Coffee][]|¡Arriba!|Blend - Colombia, Honduras|Aug 2021|Undated|★★★★☆|
+|[Sip of Hope][]|Self Care Summer  |Blend - Brazil, Ethiopia|July 2021|06/28/2021|★★★★☆|
+|[Bean & Bean][]|Costa Rica Las Lajas Black Honey|Costa Rica|June 2021|06/10/2021|★★★★★|
+|[Bean & Bean][]|Guatemala Orange Honey|Guatemala|June 2021|06/08/2021|★★★★☆|
+|[Black & White][]|Jakub Lazuardi - Anaerobic Natural|West Java (Indonesia)|May 2021|04/30/2021|★★★★★|
+|[Black & White][]|Gabriel Motta - Pink Bourbon|Colombia|May 2021|04/30/2021|★★★★★|
 |[Wonderstate][]|Peru San Fernando |Peru     |Apr/May 2021|Undated |★★★☆☆ |
 |[Sip of Hope][]|Let Hope Bloom|Blend - Mexico, Ethiopia|Apr 2021|04/05/2021|★★★★☆|
 |[David Rio Chai Bar][]|Rio Magdalena|Colombia|Apr 2021 |03/18/2021|★★★☆☆ |
@@ -191,6 +200,8 @@ like - has an ever-so-slight burn taste.
 [Jittery Joes]: https://jitteryjoes.com/
 [David Rio Chai Bar]: https://www.chaibarsf.com/
 [Black & White]: https://www.blackwhiteroasters.com/
+[Bean & Bean]: https://beannbeancoffee.com/
+[Pink Elephant]: https://pinkelephantcoffee.com/
 
 [r1]: #evp-coffee---tanzanian-peaberry
 [r2]: #sip-of-hope---conversation-starter
