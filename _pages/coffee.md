@@ -70,6 +70,20 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 ## 2021
 
+### October
+
+#### Marigold - Squirrel Rhapsody
+![](/assets/images/coffee/marigold_squirrel_rhapsody.jpg)
+
+#### Ruby - San Pedro Yosotatu
+![](/assets/images/coffee/ruby_san_pedro_yosotatu.jpg)
+
+#### Black & White - Finca Nuguo - Full Spectrum + (Gesha)
+![](/assets/images/coffee/bw_finca_nuguo.jpg)
+
+#### Black & White - Birthday Blend 2021
+![](/assets/images/coffee/bw_birthday_2021.jpg)
+
 ### September
 
 #### Just Coffee - Just Bikes
