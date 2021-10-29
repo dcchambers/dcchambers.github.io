@@ -19,6 +19,10 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |---------------|------------------|---------|----------|----------|------|
+|[Marigold][]|Squirrel Rhapsody|Blend|Oct/Nov 2021|09/28/2021|★★★★★|
+|[Ruby][]|San Pedro Yosotatu|Mexico|Oct 2021|10/05/2021|★★★★★|
+|[Black & White][]|Finca Nuguo - Full Spectrum+|Panama|Oct/Nov 2021|09/20/2021||
+|[Black & White][]|Birthday Blend 2021|Blend - Ethiopia, Uganda, Kenya|Oct 2021|09/17/2021|★★★★☆|
 |[Just Coffee][]|Just Bikes|Blend - Nicaragua, Ethiopia, Guatemala||Undated||
 |[Just Coffee][]|Bike Fuel|Blend - Peru, Honduras|Sep/Oct 2021|Undated|★★★★☆|
 |[Just Coffee][]|¡Arriba!|Blend - Colombia, Honduras||Undated||
@@ -243,6 +247,7 @@ like - has an ever-so-slight burn taste.
 [Black & White]: https://www.blackwhiteroasters.com/
 [Bean & Bean]: https://beannbeancoffee.com/
 [Pink Elephant]: https://pinkelephantcoffee.com/
+[Marigold]: https://marigoldcoffee.com/
 
 [r1]: #evp-coffee---tanzanian-peaberry
 [r2]: #sip-of-hope---conversation-starter
