@@ -19,6 +19,7 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |---------------|------------------|---------|----------|----------|------|
+|[Ruby][]|Cheers (Holiday Blend)|Blend - Guatemala, Honduras, Ethiopia|Nov 2021|11/02/2021|★★★★★|
 |[Marigold][]|Squirrel Rhapsody|Blend|Oct/Nov 2021|09/28/2021|★★★★★|
 |[Ruby][]|San Pedro Yosotatu|Mexico|Oct 2021|10/05/2021|★★★★★|
 |[Black & White][]|Finca Nuguo - Full Spectrum+|Panama|Oct/Nov 2021|09/20/2021||
@@ -69,6 +70,13 @@ with a french press or pour-over. Sorted with most recent at the top.
 # Coffee Reviews
 
 ## 2021
+
+### November
+
+#### Ruby - Cheers
+![](/assets/images/coffee/ruby_cheers.jpg)
+
+- I got a new mug from PKK Ceramics too!
 
 ### October
 
