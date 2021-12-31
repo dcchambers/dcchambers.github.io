@@ -79,11 +79,15 @@ with a french press or pour-over. Sorted with most recent at the top.
 ### December
 
 #### Stumptown - Ethiopia Single Origin
+![](/assets/images/coffee/stumptown_ethiopia.jpg)
 
 #### Wonderstate - Revelry Holiday Blend
 ![](/assets/images/coffee/wonderstate_revelry.jpg)
 
 #### Angels Share Coffee - Double Bourbon Barrel Stout
+![](/assets/images/coffee/angels_share_double_barrel.jpg)
+
+- Roasted by [Uncommon Grounds][] Roasters in Appleton, but aged in bourbon barrels by Angel's Share Coffee Company. I'm glad I tried this, and I appreciate what they're doing, but I don't think barrel aged coffes are for me. I **should** love them because I love bourbons and barrel-aged stouts, but they just don't seem right to me.
 
 ### November
 
@@ -290,7 +294,8 @@ like - has an ever-so-slight burn taste.
 [Pink Elephant]: https://pinkelephantcoffee.com/
 [Marigold]: https://marigoldcoffee.com/
 [Angels Share Barrel Aged Coffee]: https://angelssharecoffee.com/
-[Stumptown]:https://www.stumptowncoffee.com/
+[Stumptown]: https://www.stumptowncoffee.com/
+[Uncommon Grounds]: https://www.uncommongroundsspecialtyroaster.com/
 
 [r1]: #evp-coffee---tanzanian-peaberry
 [r2]: #sip-of-hope---conversation-starter
