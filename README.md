@@ -1,8 +1,12 @@
-# dcchambers.github.io
+# chambers.io
 
-[chambers.io][]
+[chambers.io][] - my website powered by [Jekyll][] and the [Minimal Mistakes][] theme.
 
-My website powered by [Jekyll][] and the [Minimal Mistakes][] theme.
+## Build/Run Locally
+
+`bundle install`
+
+`bundle exec jekyll serve`
 
 [chambers.io]: https://chambers.io
 [Jekyll]: https://jekyllrb.com/
