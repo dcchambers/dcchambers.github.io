@@ -15,6 +15,21 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 # Coffee Log
 
+## 2022
+
+|Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
+|---------------|------------------|---------|----------|----------|------|
+|[Sip of Hope]|Grounded|Blend|May 2022||★★★★☆|
+|[Luminous Coffee]|Koji "Vergel Estates"|Colombia|Apr 2022|03/13/2022|★★★★★|
+|[Stumptown]|Rwanda Huye Mountain|Rwanda|Mar/Apr 2022||★★★☆☆|
+|[Wonderstate]|Bloom|Blend|Mar/Apr 2022||★★★★☆|
+|[Rusty Dog Coffee]|Costa Rica Las Torres|Costa Rica|Mar 2022||★★★★★|
+|[JBC]|Alaka Ethiopia|Ethiopia|Feb/Mar 2022||★★★★★|
+|[Just Coffee]|Wake the Flock Up|Blend|Feb 2022||★★★☆☆|
+|[Sip of Hope]|Ethiopia Kayon Mountain Farm|Ethiopia|Feb 2022||★★★★☆|
+|[EVP]|Tanzanian Peaberry|Tanzania|Jan 2022||★★★★☆|
+|[JBC]|Alaka Ethiopia|Ethiopia|Jan 2022||★★★★★|
+
 ## 2021
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
@@ -74,6 +89,65 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 # Coffee Reviews
 
+## 2022
+
+In 2022 I switched primarily from using a french press to using a pour-over for my coffee.
+
+### May
+
+#### Sip of Hope - Grounded
+
+![](/assets/images/coffee/sip_of_hope_grounded.jpg)
+
+### April
+
+#### Luminous Coffee - 
+
+![](/assets/images/coffee/luminous_1.jpg)
+![](/assets/images/coffee/luminous_2.jpg)
+
+### March
+
+#### Stumptown - Rwanda Huye Mountain
+
+![](/assets/images/coffee/stumptown_rwanda.jpg)
+
+#### Wonderstate - Bloom
+
+![](/assets/images/coffee/wonderstate_bloom.jpg)
+
+#### Rusty Dog Coffee - Costa Rica Las Torres
+
+![](/assets/images/coffee/rusty_dog_costa_rica_las_torres.jpg)
+
+Wow! Kept getting pour-overs of this at [Broken Board Coffee] and eventually had to get a bag for myself.
+
+### February
+
+#### JBC - Alaka Ethiopia
+
+![](/assets/images/coffee/jbc_alaka_ethiopia_2.jpg)
+
+So good I went and got another bag just a month later.
+
+#### Just Coffee - Wake The Flock Up
+
+![](/assets/images/coffee/just_coffee_wake.jpg)
+
+#### Sip of Hope - Ethiopia Kayon Mountain Farm
+
+![](/assets/images/coffee/sip_of_hope_ethiopia_kayon_mountain_2.jpg)
+
+### January
+
+#### EVP - Tanzanian Peaberry
+
+![](/assets/images/coffee/evp_tanzanian_peaberry_2.jpg)
+
+#### JBC - Alaka Ethiopia
+
+![](/assets/images/coffee/jbc_alaka_ethiopia.jpg)
+
 ## 2021
 
 ### 2021 Recap
@@ -86,6 +160,8 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 #### Stumptown - Ethiopia Single Origin
 ![](/assets/images/coffee/stumptown_ethiopia.jpg)
+
+Shout-out to Jared at [Broken Board Coffee] for giving this bag to me!
 
 #### Wonderstate - Revelry Holiday Blend
 ![](/assets/images/coffee/wonderstate_revelry.jpg)
@@ -302,6 +378,10 @@ like - has an ever-so-slight burn taste.
 [Angels Share Barrel Aged Coffee]: https://angelssharecoffee.com/
 [Stumptown]: https://www.stumptowncoffee.com/
 [Uncommon Grounds]: https://www.uncommongroundsspecialtyroaster.com/
+[Broken Board Coffee]: https://www.brokenboardcoffee.com/
+[JBC]: https://jbccoffeeroasters.com/
+[Luminous Coffee]: https://www.loveluminous.coffee/
+[Rusty Dog Coffee]: https://www.rustydogcoffee.com/
 
 [r1]: #evp-coffee---tanzanian-peaberry
 [r2]: #sip-of-hope---conversation-starter
