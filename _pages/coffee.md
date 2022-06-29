@@ -44,6 +44,7 @@ with a french press or pour-over. Sorted with most recent at the top.
 |[JBC]|Alaka Ethiopia|Ethiopia|Jan 2022|01/2022|★★★★★|
 
 ## 2021
+<details><summary>Open to view list of 2021 coffees</summary>
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |---------------|------------------|---------|----------|----------|------|
@@ -80,7 +81,11 @@ with a french press or pour-over. Sorted with most recent at the top.
 |[Sip of Hope][]|Conversation Starter|Mexico |Jan 2021  |12/28/2020|★★★★★ |
 |[Sip of Hope][]|Mexico Nayarit    |Mexico   |Jan 2021  |12/28/2020|★★★★☆ |
 
+</details>
+
 ## 2020
+
+<details><summary>Open to view list of 2022 coffes</summary>
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |-------        |------            |-------  |----------|----------|------|
@@ -98,9 +103,11 @@ with a french press or pour-over. Sorted with most recent at the top.
 |[Dark Matter][]||||||
 |[Ruby][]|
 
+</details>
+
 ---
 
-# Coffee Reviews
+# Pictures, Notes, Reviews
 
 ## 2022
 
