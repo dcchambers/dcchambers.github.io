@@ -44,7 +44,9 @@ with a french press or pour-over. Sorted with most recent at the top.
 |[JBC]|Alaka Ethiopia|Ethiopia|Jan 2022|01/2022|★★★★★|
 
 ## 2021
-<details><summary>Open to view list of 2021 coffees</summary>
+
+<details>
+<summary>Open to view list of 2021 coffees</summary>
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |---------------|------------------|---------|----------|----------|------|
@@ -85,7 +87,8 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 ## 2020
 
-<details><summary>Open to view list of 2022 coffes</summary>
+<details>
+<summary>Open to view list of 2022 coffees</summary>
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |-------        |------            |-------  |----------|----------|------|
