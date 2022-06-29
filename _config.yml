@@ -24,7 +24,7 @@ twitter_username: dakotachambers
 github_username:  dcchambers
 
 # Build settings
-markdown: kramdown
+markdown: CommonMarkGhPages
 remote_theme: "mmistakes/minimal-mistakes"
 #theme: minima
 # Plugins (previously gems:)
