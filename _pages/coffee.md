@@ -19,16 +19,29 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |---------------|------------------|---------|----------|----------|------|
-|[Sip of Hope]|Grounded|Blend|May 2022||★★★★☆|
+|[Phil & Sebastian]|Margarito Herrera|Honduras|June/Jule 2022|06/20/2022||
+|[Ruby]|Kinyovu|Burundi|July 2022|06/23/2022||
+|[Luminous Coffee]|Kenya "AA" Kanda Estate|Kenya|June/July 2022|06/13/2022|★★★★☆|
+|[Bean & Bean]|Peru Las Damas|Peru|June 2022|05/30/2022|★★★★☆|
+|[Rusty Dog Coffee]|Costa Rica - Las Torres|Costa Rica|June 2022||★★★★★|
+|[Rusty Dog Coffee]|Ethiopia - Keramo|Ethiopia|June 2022||★★★★☆|
+|[Wonderstate]|Burundi Kibingo Anaerobic Washed|Burundi|May 2022|★★★★★|
+|[Wonderstate]|Burundi Kibingo Washed|Burundi|May 2022|05/09/20922|★★★★★|
+|[Wonderstate]|Burundi Kibingo Natural|Burundi|May/June 2022|05/09/2022|★★☆☆☆|
+|[Stumptown]|El Injerto Bourbon|Guatemala|May 2022|04/28/2022||
+|[Sip of Hope]|Grounded|Blend|May 2022|04/20/2022|★★★★☆|
+|[Ledger]|Ethiopia Yirgacheffe|Ethiopia|Apr 2022|04/12/2022|★★★★☆|
 |[Luminous Coffee]|Koji "Vergel Estates"|Colombia|Apr 2022|03/13/2022|★★★★★|
-|[Stumptown]|Rwanda Huye Mountain|Rwanda|Mar/Apr 2022||★★★☆☆|
-|[Wonderstate]|Bloom|Blend|Mar/Apr 2022||★★★★☆|
+|[Stumptown]|Rwanda Huye Mountain|Rwanda|Mar/Apr 2022|03/14/2022|★★★☆☆|
+|[Wonderstate]|Bloom|Blend|Mar/Apr 2022|03/07/2022|★★★★☆|
 |[Rusty Dog Coffee]|Costa Rica Las Torres|Costa Rica|Mar 2022||★★★★★|
-|[JBC]|Alaka Ethiopia|Ethiopia|Feb/Mar 2022||★★★★★|
+|[JBC]|Alaka Ethiopia|Ethiopia|Feb/Mar 2022|02/2022|★★★★★|
 |[Just Coffee]|Wake the Flock Up|Blend|Feb 2022||★★★☆☆|
-|[Sip of Hope]|Ethiopia Kayon Mountain Farm|Ethiopia|Feb 2022||★★★★☆|
-|[EVP]|Tanzanian Peaberry|Tanzania|Jan 2022||★★★★☆|
-|[JBC]|Alaka Ethiopia|Ethiopia|Jan 2022||★★★★★|
+|[Sip of Hope]|Ethiopia Kayon Mountain Farm|Ethiopia|Feb 2022|01/25/2022|★★★★☆|
+|[Black & White]|Bright New Year - 2022|Blend|Feb 2022|01/27/2022|★★★★☆|
+|[Wonderstate]|Peru El Eucalipto|Peru|Jan/Feb 2022|01/10/2022||
+|[EVP]|Tanzanian Peaberry|Tanzania|Jan 2022|12/20/2021|★★★★☆|
+|[JBC]|Alaka Ethiopia|Ethiopia|Jan 2022|01/2022|★★★★★|
 
 ## 2021
 
@@ -93,15 +106,30 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 In 2022 I switched primarily from using a french press to using a pour-over for my coffee.
 
+### July
+
+![](/assets/images/coffee/2022_r_kinyovu.jpg)
+![](/assets/images/coffee/2022_p_honduras.jpg)
+
+### June
+
+![](/assets/images/coffee/2022_l_kenya.jpg)
+![](/assets/images/coffee/2022_l_kenya_2.jpg)
+![](/assets/images/coffee/2022_b_peru.jpg)
+![](/assets/images/coffee/2022_r_costarica.jpg)
+![](/assets/images/coffee/2022_r_ethiopia.jpg)
+
 ### May
 
-#### Sip of Hope - Grounded
-
 ![](/assets/images/coffee/sip_of_hope_grounded.jpg)
+![](/assets/images/coffee/2022_w_burundi.jpg)
+![](/assets/images/coffee/2022_s_guatemala.jpg)
 
 ### April
 
-#### Luminous Coffee - 
+![](/assets/images/coffee/ledger_ethiopia_yirgacheffe.jpg)
+
+#### Luminous Coffee - Koji "Vergel Estates"
 
 ![](/assets/images/coffee/luminous_1.jpg)
 ![](/assets/images/coffee/luminous_2.jpg)
@@ -138,7 +166,15 @@ So good I went and got another bag just a month later.
 
 ![](/assets/images/coffee/sip_of_hope_ethiopia_kayon_mountain_2.jpg)
 
+#### Black & White - Bright New Year 2022
+
+![](/assets/images/coffee/2022_b_bny.jpg)
+
 ### January
+
+#### Wonderstate - Peru El Eucalipto
+
+![](/assets/images/coffee/2022_w_peru.jpg)
 
 #### EVP - Tanzanian Peaberry
 
@@ -382,6 +418,8 @@ like - has an ever-so-slight burn taste.
 [JBC]: https://jbccoffeeroasters.com/
 [Luminous Coffee]: https://www.loveluminous.coffee/
 [Rusty Dog Coffee]: https://www.rustydogcoffee.com/
+[Ledger]: https://www.ledgercoffee.com/
+[Phil & Sebastian]: https://philsebastian.com/
 
 [r1]: #evp-coffee---tanzanian-peaberry
 [r2]: #sip-of-hope---conversation-starter
