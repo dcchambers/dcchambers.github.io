@@ -19,6 +19,8 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |---------------|------------------|---------|----------|----------|------|
+|[Black & White]|Ghalib Al Hammashi - Anaerobic|Yemen|Aug 2022|07/22/2022||
+|[Black & White]|Halo Hartume - EA Decaf|Ethiopia|Aug 2022|07/22/2022||
 |[Phil & Sebastian]|Margarito Herrera|Honduras|June/Jule 2022|06/20/2022||
 |[Ruby]|Kinyovu|Burundi|July 2022|06/23/2022||
 |[Luminous Coffee]|Kenya "AA" Kanda Estate|Kenya|June/July 2022|06/13/2022|★★★★☆|
@@ -115,6 +117,11 @@ with a french press or pour-over. Sorted with most recent at the top.
 ## 2022
 
 In 2022 I switched primarily from using a french press to using a pour-over for my coffee.
+
+### August
+
+![](/assets/images/coffee/2022_b_ethiopia_decaf.jpg)
+![](/assets/images/coffee/2022_b_yemen.jpg)
 
 ### July
 
