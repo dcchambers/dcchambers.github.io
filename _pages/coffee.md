@@ -27,8 +27,8 @@ with a french press or pour-over. Sorted with most recent at the top.
 |[Bean & Bean]|Peru Las Damas|Peru|June 2022|05/30/2022|★★★★☆|
 |[Rusty Dog Coffee]|Costa Rica - Las Torres|Costa Rica|June 2022||★★★★★|
 |[Rusty Dog Coffee]|Ethiopia - Keramo|Ethiopia|June 2022||★★★★☆|
-|[Wonderstate]|Burundi Kibingo Anaerobic Washed|Burundi|May 2022|★★★★★|
-|[Wonderstate]|Burundi Kibingo Washed|Burundi|May 2022|05/09/20922|★★★★★|
+|[Wonderstate]|Burundi Kibingo Anaerobic Washed|Burundi|May 2022|05/09/2022|★★★★★|
+|[Wonderstate]|Burundi Kibingo Washed|Burundi|May 2022|05/09/2022|★★★★★|
 |[Wonderstate]|Burundi Kibingo Natural|Burundi|May/June 2022|05/09/2022|★★☆☆☆|
 |[Stumptown]|El Injerto Bourbon|Guatemala|May 2022|04/28/2022||
 |[Sip of Hope]|Grounded|Blend|May 2022|04/20/2022|★★★★☆|
