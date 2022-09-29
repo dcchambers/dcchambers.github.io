@@ -19,6 +19,9 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |---------------|------------------|---------|----------|----------|------|
+|[Wonderstate]|Mexico Ozolotepec|Mexico|Sep 2022|08/30/2022||
+|[Sweet Bloom]|Karatina|Kenya|Sep 2022|08/16/2022||
+|[Wonderstate]|Flyway|Blend - Guatemala|Aug 2022|07/25/2022||
 |[Black & White]|Ghalib Al Hammashi - Anaerobic|Yemen|Aug 2022|07/22/2022||
 |[Black & White]|Halo Hartume - EA Decaf|Ethiopia|Aug 2022|07/22/2022||
 |[Phil & Sebastian]|Margarito Herrera|Honduras|June/Jule 2022|06/20/2022||
@@ -118,8 +121,14 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 In 2022 I switched primarily from using a french press to using a pour-over for my coffee.
 
+## September
+
+![](/assets/images/coffee/2022_w_mexico_ozolotepec.jpg)
+![](/assets/images/coffee/2022_sb_karatina.jpg)
+
 ### August
 
+![](/assets/images/coffee/2022_w_flyway.jpg)
 ![](/assets/images/coffee/2022_b_ethiopia_decaf.jpg)
 ![](/assets/images/coffee/2022_b_yemen.jpg)
 
@@ -437,6 +446,7 @@ like - has an ever-so-slight burn taste.
 [Rusty Dog Coffee]: https://www.rustydogcoffee.com/
 [Ledger]: https://www.ledgercoffee.com/
 [Phil & Sebastian]: https://philsebastian.com/
+[Sweet Bloom]: https://sweetbloomcoffee.com/
 
 [r1]: #evp-coffee---tanzanian-peaberry
 [r2]: #sip-of-hope---conversation-starter
