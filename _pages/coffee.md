@@ -19,6 +19,7 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |---------------|------------------|---------|----------|----------|------|
+|[Wonderstate]|Ethiopia Chelbessa|Ethiopia|Oct 2022|09/26/2022||
 |[Wonderstate]|Mexico Ozolotepec|Mexico|Sep 2022|08/30/2022||
 |[Sweet Bloom]|Karatina|Kenya|Sep 2022|08/16/2022||
 |[Wonderstate]|Flyway|Blend - Guatemala|Aug 2022|07/25/2022||
@@ -120,6 +121,10 @@ with a french press or pour-over. Sorted with most recent at the top.
 ## 2022
 
 In 2022 I switched primarily from using a french press to using a pour-over for my coffee.
+
+## October
+
+![](/assets/images/coffee/2022_w_ethiopia_chelbessa.jpg)
 
 ## September
 
