@@ -17,84 +17,84 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 ## 2022
 
-|Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
-|---------------|------------------|---------|----------|----------|------|
-|[Misfit]|Las Lajas|Costa Rica|Dec 2022/Jan 2023|12/21/2022||
-|[Wonderstate]|Revelry Holiday Blend|Ethiopia|Dec 2022|12/1/2022||
-|[Black & White]|Ivan Solis - Candy Natural|Costa Rica|Nov/Dec 2022|11/04/2022||
-|[Black & White]|Carlos Cabrera - Intrinsic Gesha|Panama|Nov 2022|11/04/2022||
-|[Sip of Hope]|Veracruz Single Origin|Mexico|Nov 2022|10/26/2022||
-|[Intelligentsia]|Sisters of Mary Immaculate|Kenya|Nov 2022|10/25/2022||
-|[Stone Creek]|Cream City|Colombia|Oct 2022|09/22/2022||
-|[Wonderstate]|Ethiopia Chelbessa|Ethiopia|Oct 2022|09/26/2022||
-|[Wonderstate]|Mexico Ozolotepec|Mexico|Sep 2022|08/30/2022||
-|[Sweet Bloom]|Karatina|Kenya|Sep 2022|08/16/2022||
-|[Wonderstate]|Flyway|Blend - Guatemala|Aug 2022|07/25/2022||
-|[Black & White]|Ghalib Al Hammashi - Anaerobic|Yemen|Aug 2022|07/22/2022||
-|[Black & White]|Halo Hartume - EA Decaf|Ethiopia|Aug 2022|07/22/2022||
-|[Phil & Sebastian]|Margarito Herrera|Honduras|June/Jule 2022|06/20/2022||
-|[Ruby]|Kinyovu|Burundi|July 2022|06/23/2022||
-|[Luminous Coffee]|Kenya "AA" Kanda Estate|Kenya|June/July 2022|06/13/2022|★★★★☆|
-|[Bean & Bean]|Peru Las Damas|Peru|June 2022|05/30/2022|★★★★☆|
-|[Rusty Dog Coffee]|Costa Rica - Las Torres|Costa Rica|June 2022||★★★★★|
-|[Rusty Dog Coffee]|Ethiopia - Keramo|Ethiopia|June 2022||★★★★☆|
-|[Wonderstate]|Burundi Kibingo Anaerobic Washed|Burundi|May 2022|05/09/2022|★★★★★|
-|[Wonderstate]|Burundi Kibingo Washed|Burundi|May 2022|05/09/2022|★★★★★|
-|[Wonderstate]|Burundi Kibingo Natural|Burundi|May/June 2022|05/09/2022|★★☆☆☆|
-|[Stumptown]|El Injerto Bourbon|Guatemala|May 2022|04/28/2022||
-|[Sip of Hope]|Grounded|Blend|May 2022|04/20/2022|★★★★☆|
-|[Ledger]|Ethiopia Yirgacheffe|Ethiopia|Apr 2022|04/12/2022|★★★★☆|
-|[Luminous Coffee]|Koji "Vergel Estates"|Colombia|Apr 2022|03/13/2022|★★★★★|
-|[Stumptown]|Rwanda Huye Mountain|Rwanda|Mar/Apr 2022|03/14/2022|★★★☆☆|
-|[Wonderstate]|Bloom|Blend|Mar/Apr 2022|03/07/2022|★★★★☆|
-|[Rusty Dog Coffee]|Costa Rica Las Torres|Costa Rica|Mar 2022||★★★★★|
-|[JBC]|Alaka Ethiopia|Ethiopia|Feb/Mar 2022|02/2022|★★★★★|
-|[Just Coffee]|Wake the Flock Up|Blend|Feb 2022||★★★☆☆|
-|[Sip of Hope]|Ethiopia Kayon Mountain Farm|Ethiopia|Feb 2022|01/25/2022|★★★★☆|
-|[Black & White]|Bright New Year - 2022|Blend|Feb 2022|01/27/2022|★★★★☆|
-|[Wonderstate]|Peru El Eucalipto|Peru|Jan/Feb 2022|01/10/2022||
-|[EVP]|Tanzanian Peaberry|Tanzania|Jan 2022|12/20/2021|★★★★☆|
-|[JBC]|Alaka Ethiopia|Ethiopia|Jan 2022|01/2022|★★★★★|
+|Roaster        |Coffee            |Origin   |Consumed  |Roast Date|
+|---------------|------------------|---------|----------|----------|
+|[Misfit]|Las Lajas|Costa Rica|Dec 2022/Jan 2023|12/21/2022|
+|[Wonderstate]|Revelry Holiday Blend|Ethiopia|Dec 2022|12/1/2022|
+|[Black & White]|Ivan Solis - Candy Natural|Costa Rica|Nov/Dec 2022|11/04/2022|
+|[Black & White]|Carlos Cabrera - Intrinsic Gesha|Panama|Nov 2022|11/04/2022|
+|[Sip of Hope]|Veracruz Single Origin|Mexico|Nov 2022|10/26/2022|
+|[Intelligentsia]|Sisters of Mary Immaculate|Kenya|Nov 2022|10/25/2022|
+|[Stone Creek]|Cream City|Colombia|Oct 2022|09/22/2022|
+|[Wonderstate]|Ethiopia Chelbessa|Ethiopia|Oct 2022|09/26/2022|
+|[Wonderstate]|Mexico Ozolotepec|Mexico|Sep 2022|08/30/2022|
+|[Sweet Bloom]|Karatina|Kenya|Sep 2022|08/16/2022|
+|[Wonderstate]|Flyway|Blend - Guatemala|Aug 2022|07/25/2022|
+|[Black & White]|Ghalib Al Hammashi - Anaerobic|Yemen|Aug 2022|07/22/2022|
+|[Black & White]|Halo Hartume - EA Decaf|Ethiopia|Aug 2022|07/22/2022|
+|[Phil & Sebastian]|Margarito Herrera|Honduras|June/Jule 2022|06/20/2022|
+|[Ruby]|Kinyovu|Burundi|July 2022|06/23/2022|
+|[Luminous Coffee]|Kenya "AA" Kanda Estate|Kenya|June/July 2022|06/13/2022|
+|[Bean & Bean]|Peru Las Damas|Peru|June 2022|05/30/2022|
+|[Rusty Dog Coffee]|Costa Rica - Las Torres|Costa Rica|June 2022|?|
+|[Rusty Dog Coffee]|Ethiopia - Keramo|Ethiopia|June 2022|?|
+|[Wonderstate]|Burundi Kibingo Anaerobic Washed|Burundi|May 2022|05/09/2022|
+|[Wonderstate]|Burundi Kibingo Washed|Burundi|May 2022|05/09/2022|
+|[Wonderstate]|Burundi Kibingo Natural|Burundi|May/June 2022|05/09/2022|
+|[Stumptown]|El Injerto Bourbon|Guatemala|May 2022|04/28/2022|
+|[Sip of Hope]|Grounded|Blend|May 2022|04/20/2022|
+|[Ledger]|Ethiopia Yirgacheffe|Ethiopia|Apr 2022|04/12/2022|
+|[Luminous Coffee]|Koji "Vergel Estates"|Colombia|Apr 2022|03/13/2022|
+|[Stumptown]|Rwanda Huye Mountain|Rwanda|Mar/Apr 2022|03/14/2022|
+|[Wonderstate]|Bloom|Blend|Mar/Apr 2022|03/07/2022|
+|[Rusty Dog Coffee]|Costa Rica Las Torres|Costa Rica|Mar 2022|?|
+|[JBC]|Alaka Ethiopia|Ethiopia|Feb/Mar 2022|02/2022|
+|[Just Coffee]|Wake the Flock Up|Blend|Feb 2022|?|
+|[Sip of Hope]|Ethiopia Kayon Mountain Farm|Ethiopia|Feb 2022|01/25/2022|
+|[Black & White]|Bright New Year - 2022|Blend|Feb 2022|01/27/2022|
+|[Wonderstate]|Peru El Eucalipto|Peru|Jan/Feb 2022|01/10/2022|
+|[EVP]|Tanzanian Peaberry|Tanzania|Jan 2022|12/20/2021|
+|[JBC]|Alaka Ethiopia|Ethiopia|Jan 2022|01/2022|
 
 ## 2021
 
 <details>
 <summary>Open to view list of 2021 coffees</summary>
 
-|Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
-|---------------|------------------|---------|----------|----------|------|
-|[Stumptown][]|Ethiopia Single Origin|Ethiopia|Dec 2021|11/11/2021|★★★★☆|
-|[Wonderstate][]|Revelry Holiday Blend|Ethiopian Blend|Dec 2021|11/22/2021|★★★★★|
-|[Angels Share Barrel Aged Coffee][]|Double Bourbon Barrel Stout|Colombia|Nov/Dec 2021|Undated||
-|[Ruby][]|Gesha Village Honey Process|Ethiopia|Nov 2021|11/01/2021|★★★★★|
-|[Ruby][]|Gesha Village Washed Process|Ethiopia|Nov 2021|11/03/2021|★★★★★|
-|[Ruby][]|Cheers (Holiday Blend)|Blend - Guatemala, Honduras, Ethiopia|Nov 2021|11/02/2021|★★★★★|
-|[Marigold][]|Squirrel Rhapsody|Blend|Oct/Nov 2021|09/28/2021|★★★★★|
-|[Ruby][]|San Pedro Yosotatu|Mexico|Oct 2021|10/05/2021|★★★★★|
-|[Black & White][]|Finca Nuguo - Full Spectrum+|Panama|Oct/Nov 2021|09/20/2021||
-|[Black & White][]|Birthday Blend 2021|Blend - Ethiopia, Uganda, Kenya|Oct 2021|09/17/2021|★★★★☆|
-|[Just Coffee][]|Just Bikes|Blend - Nicaragua, Ethiopia, Guatemala||Undated|★★★★★|
-|[Just Coffee][]|Bike Fuel|Blend - Peru, Honduras|Sep/Oct 2021|Undated|★★★★☆|
-|[Just Coffee][]|¡Arriba!|Blend - Colombia, Honduras||Undated||
-|[Ruby][]|Tomorrow - Seasonal Project|San Ignacio, Peru|Aug/Sep 2021|08/17/2021|★★★★★|
-|[Pink Elephant][]| Guatemala Huehuetenango|Guatemala|Aug 2021|07/20/2021|★★★☆☆|
-|[Just Coffee][]|¡Arriba!|Blend - Colombia, Honduras|Aug 2021|Undated|★★★★☆|
-|[Sip of Hope][]|Self Care Summer  |Blend - Brazil, Ethiopia|July 2021|06/28/2021|★★★★☆|
-|[Bean & Bean][]|Costa Rica Las Lajas Black Honey|Costa Rica|June 2021|06/10/2021|★★★★★|
-|[Bean & Bean][]|Guatemala Orange Honey|Guatemala|June 2021|06/08/2021|★★★★☆|
-|[Black & White][]|Jakub Lazuardi - Anaerobic Natural|West Java (Indonesia)|May 2021|04/30/2021|★★★★★|
-|[Black & White][]|Gabriel Motta - Pink Bourbon|Colombia|May 2021|04/30/2021|★★★★★|
-|[Wonderstate][]|Peru San Fernando |Peru     |Apr/May 2021|04/07/2021|★★★☆☆ |
-|[Sip of Hope][]|Let Hope Bloom|Blend - Mexico, Ethiopia|Apr 2021|04/05/2021|★★★★☆|
-|[David Rio Chai Bar][]|Rio Magdalena|Colombia|Apr 2021 |03/18/2021|★★★☆☆ |
-|[Jittery Joes][]|Tanzania Peaberry Burka Estate|Tanzania|Mar 2021|Undated|★★★★☆|
-|[Jittery Joes][]|Whoop Ass        |Blend    |Mar 2021  |Undated   |★★★☆☆ |
-|[Jittery Joes][]|Morning Ride|Blend - Guatemala, Peru|Mar 2021|Undated|★★★★☆|
-|[Sip of Hope][]|Papua New Guinea Peaberry|Papua New Guinea|Feb 2021|2/9/21|★★★★☆|
-|[Colectivo][]  |Blue Heeler|Blend - Sumatra (Indonesia)|Feb 2021|2/1/2021|★★★☆☆|
-|[Just Coffee][]|Laos Peaberry     |Laos   |Jan/Feb 2021|Undated   |      |
-|[Sip of Hope][]|Conversation Starter|Mexico |Jan 2021  |12/28/2020|★★★★★ |
-|[Sip of Hope][]|Mexico Nayarit    |Mexico   |Jan 2021  |12/28/2020|★★★★☆ |
+|Roaster        |Coffee            |Origin   |Consumed  |Roast Date|
+|---------------|------------------|---------|----------|----------|
+|[Stumptown][]|Ethiopia Single Origin|Ethiopia|Dec 2021|11/11/2021|
+|[Wonderstate][]|Revelry Holiday Blend|Ethiopian Blend|Dec 2021|11/22/2021|
+|[Angels Share Barrel Aged Coffee][]|Double Bourbon Barrel Stout|Colombia|Nov/Dec 2021|Undated|
+|[Ruby][]|Gesha Village Honey Process|Ethiopia|Nov 2021|11/01/2021|
+|[Ruby][]|Gesha Village Washed Process|Ethiopia|Nov 2021|11/03/2021|
+|[Ruby][]|Cheers (Holiday Blend)|Blend - Guatemala, Honduras, Ethiopia|Nov 2021|11/02/2021|
+|[Marigold][]|Squirrel Rhapsody|Blend|Oct/Nov 2021|09/28/2021|
+|[Ruby][]|San Pedro Yosotatu|Mexico|Oct 2021|10/05/2021|
+|[Black & White][]|Finca Nuguo - Full Spectrum+|Panama|Oct/Nov 2021|09/20/2021|
+|[Black & White][]|Birthday Blend 2021|Blend - Ethiopia, Uganda, Kenya|Oct 2021|09/17/2021|
+|[Just Coffee][]|Just Bikes|Blend - Nicaragua, Ethiopia, Guatemala||Undated|
+|[Just Coffee][]|Bike Fuel|Blend - Peru, Honduras|Sep/Oct 2021|Undated|
+|[Just Coffee][]|¡Arriba!|Blend - Colombia, Honduras||Undated|
+|[Ruby][]|Tomorrow - Seasonal Project|San Ignacio, Peru|Aug/Sep 2021|08/17/2021|
+|[Pink Elephant][]| Guatemala Huehuetenango|Guatemala|Aug 2021|07/20/2021|
+|[Just Coffee][]|¡Arriba!|Blend - Colombia, Honduras|Aug 2021|Undated|
+|[Sip of Hope][]|Self Care Summer  |Blend - Brazil, Ethiopia|July 2021|06/28/2021|
+|[Bean & Bean][]|Costa Rica Las Lajas Black Honey|Costa Rica|June 2021|06/10/2021|
+|[Bean & Bean][]|Guatemala Orange Honey|Guatemala|June 2021|06/08/2021|
+|[Black & White][]|Jakub Lazuardi - Anaerobic Natural|West Java (Indonesia)|May 2021|04/30/2021|
+|[Black & White][]|Gabriel Motta - Pink Bourbon|Colombia|May 2021|04/30/2021|
+|[Wonderstate][]|Peru San Fernando |Peru     |Apr/May 2021|04/07/2021|
+|[Sip of Hope][]|Let Hope Bloom|Blend - Mexico, Ethiopia|Apr 2021|04/05/2021|
+|[David Rio Chai Bar][]|Rio Magdalena|Colombia|Apr 2021 |03/18/2021|
+|[Jittery Joes][]|Tanzania Peaberry Burka Estate|Tanzania|Mar 2021|Undated|
+|[Jittery Joes][]|Whoop Ass        |Blend    |Mar 2021  |Undated|
+|[Jittery Joes][]|Morning Ride|Blend - Guatemala, Peru|Mar 2021|Undated|
+|[Sip of Hope][]|Papua New Guinea Peaberry|Papua New Guinea|Feb 2021|2/9/21|
+|[Colectivo][]  |Blue Heeler|Blend - Sumatra (Indonesia)|Feb 2021|2/1/2021|
+|[Just Coffee][]|Laos Peaberry     |Laos   |Jan/Feb 2021|Undated|
+|[Sip of Hope][]|Conversation Starter|Mexico |Jan 2021  |12/28/2020|
+|[Sip of Hope][]|Mexico Nayarit    |Mexico   |Jan 2021  |12/28/2020|
 
 </details>
 
@@ -103,27 +103,28 @@ with a french press or pour-over. Sorted with most recent at the top.
 <details>
 <summary>Open to view list of 2022 coffees</summary>
 
-|Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
-|-------        |------            |-------  |----------|----------|------|
-|[EVP][]        |Brazilian         |Brazil   |Dec 2020  |12/18/2020|★★★☆☆ |
-|[Ancora][] (via Just Coffee)|Holiday Blend|Blend|Dec 2020|Undated |[★★☆☆☆][r3]|
-|[Sip of Hope][]|Conversation Starter|Mexico |Nov 2020  |11/17/2020|[★★★★★][r2]|
-|[EVP][]        |Tanzanian Peaberry|Tanzania |Nov 2020  |10/30/2020|[★★★★☆][r1]|
-|[Ruby][]       |Gachatha          |Kenya  |Oct/Nov 2020|10/20/2020|★★★★☆ |
-|[Just Coffee][]|Wake the Flock Up |Blend    |Oct 2020  |Undated   |★★★☆☆ |
-|[Just Coffee][]|Revolution        |Honduras |Oct 2020  |Undated   |★★☆☆☆ |
-|[Madcap][]     |Party             |Ethiopia |Sep 2020  |9/13/2020 |★★★☆☆ |
-|[Madcap][]     |Luis Reinoso      |Colombia |Sep 2020  |9/13/2020 |★★★★★ |
-|[Wonderstate][]|Driftless         |Blend    |Aug 2020  |8/2020    |★★★☆☆ |
-|[Wonderstate][]|Guatemala Adenisa |Guatemala|Aug 2020  |8/2020    |★★★★★ |
-|[Dark Matter][]||||||
-|[Ruby][]|
+|Roaster        |Coffee            |Origin   |Consumed  |Roast Date|
+|-------        |------            |-------  |----------|----------|
+|[EVP][]        |Brazilian         |Brazil   |Dec 2020  |12/18/2020|
+|[Ancora][] (via Just Coffee)|Holiday Blend|Blend|Dec 2020|Undated |
+|[Sip of Hope][]|Conversation Starter|Mexico |Nov 2020  |11/17/2020|
+|[EVP][]        |Tanzanian Peaberry|Tanzania |Nov 2020  |10/30/2020|
+|[Ruby][]       |Gachatha          |Kenya  |Oct/Nov 2020|10/20/2020|
+|[Just Coffee][]|Wake the Flock Up |Blend    |Oct 2020  |Undated   |
+|[Just Coffee][]|Revolution        |Honduras |Oct 2020  |Undated   |
+|[Madcap][]     |Party             |Ethiopia |Sep 2020  |9/13/2020 |
+|[Madcap][]     |Luis Reinoso      |Colombia |Sep 2020  |9/13/2020 |
+|[Wonderstate][]|Driftless         |Blend    |Aug 2020  |8/2020    |
+|[Wonderstate][]|Guatemala Adenisa |Guatemala|Aug 2020  |8/2020    |
+|[Dark Matter][]|...|
+|[Ruby][]|...|
+|...|
 
 </details>
 
 ---
 
-# Pictures, Notes, Reviews
+# Pictures and Notes
 
 ## 2022
 
@@ -406,7 +407,3 @@ like - has an ever-so-slight burn taste.
 [Stone Creek]: https://www.stonecreekcoffee.com/
 [Intelligentsia]: https://www.intelligentsia.com/
 [Misfit]: https://www.misfitcoffee.com/
-
-[r1]: #evp-coffee---tanzanian-peaberry
-[r2]: #sip-of-hope---conversation-starter
-[r3]: #ancora---holiday-blend
