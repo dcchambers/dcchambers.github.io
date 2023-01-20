@@ -19,6 +19,13 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 |Roaster        |Coffee            |Origin   |Consumed  |Roast Date|Rating|
 |---------------|------------------|---------|----------|----------|------|
+|[Misfit]|Las Lajas|Costa Rica|Dec 2022/Jan 2023|12/21/2022||
+|[Wonderstate]|Revelry Holiday Blend|Ethiopia|Dec 2022|12/1/2022||
+|[Black & White]|Ivan Solis - Candy Natural|Costa Rica|Nov/Dec 2022|11/04/2022||
+|[Black & White]|Carlos Cabrera - Intrinsic Gesha|Panama|Nov 2022|11/04/2022||
+|[Sip of Hope]|Veracruz Single Origin|Mexico|Nov 2022|10/26/2022||
+|[Intelligentsia]|Sisters of Mary Immaculate|Kenya|Nov 2022|10/25/2022||
+|[Stone Creek]|Cream City|Colombia|Oct 2022|09/22/2022||
 |[Wonderstate]|Ethiopia Chelbessa|Ethiopia|Oct 2022|09/26/2022||
 |[Wonderstate]|Mexico Ozolotepec|Mexico|Sep 2022|08/30/2022||
 |[Sweet Bloom]|Karatina|Kenya|Sep 2022|08/16/2022||
@@ -122,97 +129,41 @@ with a french press or pour-over. Sorted with most recent at the top.
 
 In 2022 I switched primarily from using a french press to using a pour-over for my coffee.
 
-## October
-
+![](/assets/images/coffee/2022_m_las_lajas.jpg)
+![](/assets/images/coffee/2022_w_holiday.jpg)
+![](/assets/images/coffee/2022_bw_candy_natural.jpg)
+![](/assets/images/coffee/2022_bw_intrinsic_gesha.jpg)
+![](/assets/images/coffee/2022_s_mexico.jpg)
+![](/assets/images/coffee/2022_i_sisters.jpg)
+![](/assets/images/coffee/2022_sc_cream_city.jpg)
 ![](/assets/images/coffee/2022_w_ethiopia_chelbessa.jpg)
-
-## September
-
 ![](/assets/images/coffee/2022_w_mexico_ozolotepec.jpg)
 ![](/assets/images/coffee/2022_sb_karatina.jpg)
-
-### August
-
 ![](/assets/images/coffee/2022_w_flyway.jpg)
 ![](/assets/images/coffee/2022_b_ethiopia_decaf.jpg)
 ![](/assets/images/coffee/2022_b_yemen.jpg)
-
-### July
-
 ![](/assets/images/coffee/2022_r_kinyovu.jpg)
 ![](/assets/images/coffee/2022_p_honduras.jpg)
-
-### June
-
 ![](/assets/images/coffee/2022_l_kenya.jpg)
 ![](/assets/images/coffee/2022_l_kenya_2.jpg)
 ![](/assets/images/coffee/2022_b_peru.jpg)
 ![](/assets/images/coffee/2022_r_costarica.jpg)
 ![](/assets/images/coffee/2022_r_ethiopia.jpg)
-
-### May
-
 ![](/assets/images/coffee/sip_of_hope_grounded.jpg)
 ![](/assets/images/coffee/2022_w_burundi.jpg)
 ![](/assets/images/coffee/2022_s_guatemala.jpg)
-
-### April
-
 ![](/assets/images/coffee/ledger_ethiopia_yirgacheffe.jpg)
-
-#### Luminous Coffee - Koji "Vergel Estates"
-
 ![](/assets/images/coffee/luminous_1.jpg)
 ![](/assets/images/coffee/luminous_2.jpg)
-
-### March
-
-#### Stumptown - Rwanda Huye Mountain
-
 ![](/assets/images/coffee/stumptown_rwanda.jpg)
-
-#### Wonderstate - Bloom
-
 ![](/assets/images/coffee/wonderstate_bloom.jpg)
-
-#### Rusty Dog Coffee - Costa Rica Las Torres
-
 ![](/assets/images/coffee/rusty_dog_costa_rica_las_torres.jpg)
-
-Wow! Kept getting pour-overs of this at [Broken Board Coffee] and eventually had to get a bag for myself.
-
-### February
-
-#### JBC - Alaka Ethiopia
-
 ![](/assets/images/coffee/jbc_alaka_ethiopia_2.jpg)
-
-So good I went and got another bag just a month later.
-
-#### Just Coffee - Wake The Flock Up
-
 ![](/assets/images/coffee/just_coffee_wake.jpg)
-
-#### Sip of Hope - Ethiopia Kayon Mountain Farm
-
 ![](/assets/images/coffee/sip_of_hope_ethiopia_kayon_mountain_2.jpg)
-
-#### Black & White - Bright New Year 2022
-
 ![](/assets/images/coffee/2022_b_bny.jpg)
-
-### January
-
-#### Wonderstate - Peru El Eucalipto
-
 ![](/assets/images/coffee/2022_w_peru.jpg)
-
-#### EVP - Tanzanian Peaberry
-
 ![](/assets/images/coffee/evp_tanzanian_peaberry_2.jpg)
-
-#### JBC - Alaka Ethiopia
-
 ![](/assets/images/coffee/jbc_alaka_ethiopia.jpg)
 
 ## 2021
@@ -452,6 +403,9 @@ like - has an ever-so-slight burn taste.
 [Ledger]: https://www.ledgercoffee.com/
 [Phil & Sebastian]: https://philsebastian.com/
 [Sweet Bloom]: https://sweetbloomcoffee.com/
+[Stone Creek]: https://www.stonecreekcoffee.com/
+[Intelligentsia]: https://www.intelligentsia.com/
+[Misfit]: https://www.misfitcoffee.com/
 
 [r1]: #evp-coffee---tanzanian-peaberry
 [r2]: #sip-of-hope---conversation-starter
