@@ -25,6 +25,8 @@ with a french press or pour-over. Sorted with most recent at the top.
 |[Black & White]|Carlos Cabrera - Intrinsic Gesha|Panama|Nov 2022|11/04/2022|
 |[Sip of Hope]|Veracruz Single Origin|Mexico|Nov 2022|10/26/2022|
 |[Intelligentsia]|Sisters of Mary Immaculate|Kenya|Nov 2022|10/25/2022|
+|[Arcane]|Guatemala Antigua|Guatemala|Nov 2022-Jan 2023|10/28/2022|
+|[Arcane]|Ethiopia Shegitu|Ethiopia|Oct/Nov 2022|10/14/2022|
 |[Stone Creek]|Cream City|Colombia|Oct 2022|09/22/2022|
 |[Wonderstate]|Ethiopia Chelbessa|Ethiopia|Oct 2022|09/26/2022|
 |[Wonderstate]|Mexico Ozolotepec|Mexico|Sep 2022|08/30/2022|
@@ -407,3 +409,4 @@ like - has an ever-so-slight burn taste.
 [Stone Creek]: https://www.stonecreekcoffee.com/
 [Intelligentsia]: https://www.intelligentsia.com/
 [Misfit]: https://www.misfitcoffee.com/
+[Arcane]: http://www.arcanecoffeecompany.com/
