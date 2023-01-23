@@ -138,6 +138,8 @@ In 2022 I switched primarily from using a french press to using a pour-over for 
 ![](/assets/images/coffee/2022_bw_intrinsic_gesha.jpg)
 ![](/assets/images/coffee/2022_s_mexico.jpg)
 ![](/assets/images/coffee/2022_i_sisters.jpg)
+![](/assets/images/coffee/2022_a_guatemala.jpg)
+![](/assets/images/coffee/2022_a_ethiopia.jpg)
 ![](/assets/images/coffee/2022_sc_cream_city.jpg)
 ![](/assets/images/coffee/2022_w_ethiopia_chelbessa.jpg)
 ![](/assets/images/coffee/2022_w_mexico_ozolotepec.jpg)
