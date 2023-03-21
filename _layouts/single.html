@@ -70,6 +70,22 @@ layout: default
     {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
+
+    <script src="https://giscus.app/client.js"
+        data-repo="dcchambers/dcchambers.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnk1NjYyMTg3MQ=="
+        data-category="Blog Comments"
+        data-category-id="DIC_kwDOA1_7L84CVBFQ"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+    </script>
   </article>
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
@@ -96,4 +112,6 @@ layout: default
       </div>
     </div>
   {% endif %}
+
+  
 </div>

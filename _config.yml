@@ -67,10 +67,22 @@ defaults:
       layout: single
       author_profile: true
       read_time: # true
-      comments: # true
+      comments: true
       share: # true
       related: # true
       show_date: true
+
+# Giscus Comments
+repository: dcchambers/dcchambers.github.io
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id              : MDEwOlJlcG9zaXRvcnk1NjYyMTg3MQ==
+    category_name        : "Blog Comments"
+    category_id          : DIC_kwDOA1_7L84CVBFQ
+    discussion_term      : pathname
+    reactions_enabled    : 1
+    theme                : "light"
 
 include:
   - _pages
