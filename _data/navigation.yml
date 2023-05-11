@@ -6,6 +6,6 @@ main:
   - title: "Coffee"
     url: "/coffee"
   - title: "Digital Garden"
-    url: "kb.chambers.io"
+    url: "https://kb.chambers.io"
   - title: "Year in Review"
     url: "/year-in-review"
