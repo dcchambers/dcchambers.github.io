@@ -58,11 +58,8 @@ author:
   linkedin: dakota-chambers
   links:
     - label: "omg.lol"
-      icon: "fa-heart"
+      icon: "fas fa-heart"
       url: "https://dakota.omg.lol"
-    - label: "Digital Garden"
-      icon: "fa-flower"
-      url: "https://kb.chambers.io"
 
 # Defaults
 defaults:
