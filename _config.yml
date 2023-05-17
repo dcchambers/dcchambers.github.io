@@ -58,7 +58,7 @@ author:
   linkedin: dakota-chambers
   links:
     - label: "omg.lol"
-      icon: "fas fa-heart"
+      icon: "fas fa-fw fa-heart"
       url: "https://dakota.omg.lol"
 
 # Defaults
