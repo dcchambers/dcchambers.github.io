@@ -56,6 +56,13 @@ author:
   twitter: dakotachambers
   github: dcchambers
   linkedin: dakota-chambers
+  links:
+    - label: "omg.lol"
+    icon: "fa-solid fa-heart"
+    url: "https://dakota.omg.lol"
+    - label: "Digital Garden"
+    icon: "fa-solid fa-flower"
+    url: "https://kb.chambers.io"
 
 # Defaults
 defaults:
