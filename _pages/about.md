@@ -6,16 +6,14 @@ permalink: /about
 
 Hey, I'm Dakota!
 
-I'm a software engineer at [Zendesk](https://www.zendesk.com)!
-
-I enjoy hacking on containers with Docker and Kubernetes, building robust, automated CI/CD pipelines, automating infrastructure and ops, and building applications with Ruby, Go, Python, Bash, and more. Everything I do is in Linux or Unix (Mac OS)!
+I'm a software engineer at [Zendesk](https://www.zendesk.com), currently working on the Engineering Productivity - Deploy team. We build and manage tools for deploying software.
 
 My professional experience ranges from Linux Systems Administration to DevOps Engineer and Software Engineer.
 Feel free to check out my [Resume/CV](https://github.com/dcchambers/resume).
 
-Check out my [GitHub](https://github.com/dcchambers) or read some of my [technical writing](http://chambers.io).
+When I'm not on a computer I enjoy running, biking, reading, baking sourdough bread and pizza, drinking coffee, and spending time with our my wife, our two kids, and our dog.
 
-When I'm not on a computer I enjoy reading, running, biking, cooking, watersports, and hanging out with my wife, LeeAnn, and our dog, Atlas.
+Interested in some of the things I use every day? Check out my [`/uses` page](uses.md).
 
 ---
 
