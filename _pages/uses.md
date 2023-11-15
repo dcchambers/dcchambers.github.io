@@ -40,7 +40,7 @@ TODO... I have a lot. Current daily driver is a GMMK Pro with GMK "Kaiju" keycap
 ### Software
 
 These are things I use pretty much every day:
-- Terminal.app (The standard MacOS terminalk emulator)
+- Terminal.app (The standard MacOS terminal emulator)
 - tmux for window management in my terminal
 - Rectangle.app for window management elsewhere (this is ESSENTIAL for MacOS IMO)
 - vim
