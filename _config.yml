@@ -60,6 +60,9 @@ author:
     - label: "omg.lol"
       icon: "fas fa-fw fa-heart"
       url: "https://dakota.omg.lol"
+    - label: "RSS"
+      icon: "fas fa-fw fa-rss-square"
+      url: "/feed.xml"
 
 # Defaults
 defaults:
