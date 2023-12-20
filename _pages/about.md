@@ -6,31 +6,21 @@ permalink: /about
 
 Hey, I'm Dakota!
 
-I'm a software engineer at [Zendesk](https://www.zendesk.com), currently working on the Engineering Productivity - Deploy team. We build and manage tools for deploying software.
+I'm a software engineer at [Zendesk](https://www.zendesk.com) working on the Engineering Productivity - Deploy team.
+We build tools for configuring and deploying software to millions of customers around the world.
 
-My professional experience ranges from Linux Systems Administration to DevOps Engineer and Software Engineer.
-Feel free to check out my [Resume/CV](https://github.com/dcchambers/resume).
-
-When I'm not on a computer I enjoy running, biking, reading, baking sourdough bread and pizza, drinking coffee, and spending time with our my wife, our two kids, and our dog.
-
-Interested in some of the things I use every day? Check out my [`/uses` page](uses.md).
+When I'm not in front of a computer I enjoy running, biking, reading, baking sourdough bread and pizza, and drinking coffee.
+I live in Madison, WI with my wife, two young kids, and dog.
 
 ---
 
-Find me online:
+- My [omg.lol](https://dakota.omg.lol/) page has a list of places you can find me online.
+- Want to know what I'm doing _right now_? See my [`/now`](https://dakota.omg.lol/now) page.
+- Interested in some of the things I use every day? Check out my [`/uses` page](uses.md).
+- I drink a lot of coffee and try to keep track of it [here](coffee.md).
 
-- [![](/assets/icons/baseline-rss_feed-24px.svg)Blog](http://chambers.io)
-- [![](/assets/icons/baseline-code-24px.svg)GitHub](https://github.com/dcchambers)
-- [![](/assets/icons/baseline-person-24px.svg)Twitter](https://twitter.com/dakotachambers)
-- [![](/assets/icons/baseline-person-24px.svg)LinkedIn](https://www.linkedin.com/in/dakota-chambers-b9a3758b)
-- [![](/assets/icons/baseline-person-24px.svg)Keybase](https://keybase.io/dcchambers)
-- [![](/assets/icons/baseline-code-24px.svg)DockerHub](https://hub.docker.com/u/dcchambers)
-- [![](/assets/icons/baseline-code-24px.svg)PyPi](https://pypi.org/user/dakota/)
-- [![](/assets/icons/baseline-code-24px.svg)CodePen](https://codepen.io/dcchambers/)
-- [![](/assets/icons/baseline-code-24px.svg)RubyGems](https://rubygems.org/profiles/dakota)
-- [![](/assets/icons/baseline-person-24px.svg)HackerNews](https://news.ycombinator.com/user?id=dcchambers)
 
 ---
 
-[Source code for this
-website](https://github.com/dcchambers/dcchambers.github.io)
+[The source code for this
+website is available on GitHub.](https://github.com/dcchambers/dcchambers.github.io)
