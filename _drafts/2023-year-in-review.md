@@ -1,8 +1,6 @@
 ---
-layout: page
-author_profile: true
 title: "2023 Year In Review"
-permalink: /2023
+tags: [year-in-review]
 ---
 
 In Progress...
