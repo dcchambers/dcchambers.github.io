@@ -60,7 +60,7 @@ author:
     - label: "omg.lol"
       icon: "fas fa-fw fa-heart"
       url: "https://dakota.omg.lol"
-    - label: "RSS"
+    - label: "RSS/Atom Feed"
       icon: "fas fa-fw fa-rss-square"
       url: "/feed.xml"
 
@@ -97,6 +97,10 @@ include:
 #minimal-mistakes specific
 paginate: 99 # amount of posts to show on home page.
 paginate_path: index.md
+
+## Jekyll Feed config
+feed:
+  posts_limit: 100
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
