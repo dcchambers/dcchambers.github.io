@@ -54,7 +54,7 @@ These are things I use pretty much every day:
 - Terminal.app (The standard MacOS terminal emulator)
 - `tmux` for window management in my terminal
 - `bash` is my shell of choice
-- Rectangle.app for window management elsewhere (**Essentla** for MacOS in my opinion)
+- [Rectangle.app](https://rectangleapp.com/) for window management elsewhere (**Essentla** for MacOS in my opinion)
 - vim
 - Chrome
 - VSCode (though I am hoping to replace this with [zed](https://zed.dev/)).
