@@ -92,3 +92,10 @@ These are things I use pretty much every day:
   - My go-to these days is my wireless Sony WH1000XM3.
   - Also keep a pair of Sony MDR-V6s floating around as a back-up/sometimes for listening to certain things.
 - reMarkable Tablet (first gen)
+
+### Writing
+
+- Writing Style: [Chicago Manual of Style](https://www.chicagomanualofstyle.org/)
+  - Yes, I have a physical copy (15th Edition)!
+  - Oxford Comma: **always**
+- Dictionary: Merriam-Webster's Collegiate Dictionary (11th Edition)
