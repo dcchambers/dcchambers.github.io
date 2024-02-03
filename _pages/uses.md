@@ -84,6 +84,7 @@ These are things I use pretty much every day:
 ### Other Electronics
 
 - Google Pixel 6 Pro
+- Garmin Forerunner 945
 - Amazon Kindle Paperwhite Signature Ed.
   - In 2022 my third generation Kindle (with a keyboard) from 2010 finally died (well, I cracked the screen). I do miss the physical buttons, but love the better screen, waterproofing, and wireless charging in my new one. Kindles are seriously one of the best investments you can make, even if you still own/read physical books. I **love** physical books and I still regularly read from my Kindle - often I read digital copies of physical books that I own!
 - Nintendo Switch (launch-era model, neon red and blue)
