@@ -11,8 +11,8 @@ Twitter is open.
 You're scrolling. 
 
 You blink, look at the tiny numbers in the corner of your phone screen displaying the time and immediately sit upright, shocked.
-Thirty minutes of your life have evaporated, never to be seen again
- You didn't even read anything worth remembering, and you have nothing to show for it.
+Thirty minutes of your life have evaporated, never to be seen again.
+You didn't even read anything worth remembering, and you have nothing to show for it.
 
 ...
 
