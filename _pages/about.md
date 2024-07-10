@@ -18,7 +18,7 @@ I live in Madison, WI with my wife, two young kids, and dog.
 - Want to know what I'm doing _right now_? See my [`/now`](https://dakota.omg.lol/now) page.
 - Interested in some of the things I use every day? Check out my [`/uses` page](uses.md).
 - I drink a lot of coffee and try to keep track of it [here](coffee.md).
-
+- My personal [guidelines for AI usage](ai.md).
 
 ---
 
