@@ -1,6 +1,7 @@
 ---
 title: "How I Use AI"
 tags: [AI, LLMs]
+last_modified_at: 2024-07-11
 ---
 
 It's the middle of 2024 and unless you live under a rock you've certainly encountered the trend of "AI" infiltrating virtually every piece of software we use. This isn't necessarily a bad thing, but there are some AI features that are far more valuable than others. Here's how I use AI in my day-to-day life.
@@ -31,4 +32,4 @@ I don't currently use any kind of image, video, or audio generative AI. I don't 
 
 ## chambers.io/ai
 
-It's important to set personal limits on how we approach and use AI tools as they becomes more prevalent throughout our society. I have created a new permanent page on my website (https://chambers.io/ai) that I will keep updated (inspired by the legendary [Derek Sivers](https://sive.rs/ai)) with how I personally use AI to *add value to my life* in a sustainable way.
+It's important to set personal limits on how we approach and use AI tools as they becomes more prevalent throughout our society. I have created a new permanent page on my website (https://chambers.io/ai) that I will keep updated (inspired by [Dever Sivers](https://sive.rs/ai) and [Damola Morenikeji](https://www.bydamo.la/p/ai-manifesto)) with how I personally use AI to *add value to my life* in a sustainable way.

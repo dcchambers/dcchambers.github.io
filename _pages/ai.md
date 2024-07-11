@@ -5,7 +5,7 @@ title: "AI Usage"
 permalink: /ai
 ---
 
-It's important to set personal limits on how we approach and use AI tools as they becomes more prevalent throughout our society. I have created this permanent page (https://chambers.io/ai, inspired by the legendary [Dever Sivers](https://sive.rs/ai)) and will keep it updated with how I personally use AI to *add value to my life* in a sustainable way.
+It's important to set personal limits on how we approach and use AI tools as they becomes more prevalent throughout our society. I have created this permanent page (https://chambers.io/ai, inspired by [Dever Sivers](https://sive.rs/ai) and [Damola Morenikeji](https://www.bydamo.la/p/ai-manifesto)) and will keep it updated with how I personally use AI to *add value to my life* in a sustainable way.
 
 ## Writing
 
