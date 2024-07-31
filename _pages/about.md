@@ -4,9 +4,9 @@ author_profile: true
 permalink: /about
 ---
 
-Hey, I'm Dakota!
+Hey there, I'm Dakota!
 
-I'm a software engineer at [Zendesk](https://www.zendesk.com) working on the Engineering Productivity - Deploy team.
+I am a software engineer and tech lead at [Zendesk](https://www.zendesk.com) working on the Engineering Productivity - Deploy Platform team.
 We build tools for configuring and deploying software to millions of customers around the world.
 
 When I'm not in front of a computer I enjoy running, biking, reading, baking sourdough bread and pizza, and drinking coffee.
