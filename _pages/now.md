@@ -3,11 +3,13 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2024-07-11
+last_modified_at: 2024-07-30
 last_modified_location: "my home in Wisconsin"
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
+
+I am attending the [Madison+ Ruby Conference](https://www.madisonruby.com/) this week in Madison, WI. Come say hi if you're visiting!
 
 ## Fitness
 
