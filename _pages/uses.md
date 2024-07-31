@@ -16,12 +16,12 @@ I am a software developer (profesionally, and for fun) so that is the focus of t
   - Currently on MacOS 14 Sonoma
 - My work-supplied laptop: Macbook Pro 16" (2021)
   - M1 Pro, 32GB RAM, 512GB SSD
-  - Currently on MacOS 13 Ventura
+  - Currently on MacOS 14 Sonoma
 - Gaming Desktop (Winter 2020 Build)
   - Ryzen 5 5600X | RTX 3060 Ti | 32GB DDR4 | MSI X570 Unify | Samsung 980 Pro 1TB
   - Windows 10
-- Steam Deck (Gaming and general nerd stuff)
-  - 512GB
+- Steam Deck OLED (Gaming and general nerd stuff)
+  - 1TB SSD
   - SteamOS (Linux)
 
 #### Retired Computer I haven't gotten rid of for some reason
@@ -52,9 +52,10 @@ I am a software developer (profesionally, and for fun) so that is the focus of t
 
 These are things I use pretty much every day:
 - Terminal.app (The standard MacOS terminal emulator)
+  - Currently test driving [Alacritty](https://alacritty.org/) though.
 - `tmux` for window management in my terminal
 - `bash` is my shell of choice
-- [Rectangle.app](https://rectangleapp.com/) for window management elsewhere (**Essentla** for MacOS in my opinion)
+- [Rectangle.app](https://rectangleapp.com/) for window management elsewhere (**Essential** for MacOS in my opinion)
 - vim
 - Chrome
 - VSCode (though I am hoping to replace this with [zed](https://zed.dev/)).
@@ -88,7 +89,6 @@ These are things I use pretty much every day:
 - Amazon Kindle Paperwhite Signature Ed.
   - In 2022 my third generation Kindle (with a keyboard) from 2010 finally died (well, I cracked the screen). I do miss the physical buttons, but love the better screen, waterproofing, and wireless charging in my new one. Kindles are seriously one of the best investments you can make, even if you still own/read physical books. I **love** physical books and I still regularly read from my Kindle - often I read digital copies of physical books that I own!
 - Nintendo Switch (launch-era model, neon red and blue)
-- Steam Deck (launch-era model)
 - Some cheap desktop speakers from Logitech (**upgrade needed**)
 - Headphones
   - My go-to these days is my wireless Sony WH1000XM3.
