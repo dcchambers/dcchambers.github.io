@@ -9,6 +9,12 @@ last_modified_location: "my home in Wisconsin"
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
 
+## This Week
+
+I am running the [Madison Mini Marathon](https://madisonminimarathon.com/) on August 10th in Madison, WI. It won't be a 100% effort race for me as I am using it as part of my full Marathon training, but I am still excited to run this awesome race!
+
+## Recently
+
 Last week (Aug 1-2 2024) I attended the [Madison+ Ruby Conference](https://www.madisonruby.com/).
 It was a great experience and I will be sharing a write-up of my time shortly.
 
