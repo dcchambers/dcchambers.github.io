@@ -2,7 +2,10 @@
 layout: page
 author_profile: true
 permalink: /colophon
+title: "Colophon"
 ---
+
+This Colophon[^1] is inspired by [Maggie Appleton](https://maggieappleton.com/)
 
 ## Technology
 
@@ -28,3 +31,5 @@ Larger blog posts start life in Obsidian before I copy them into this repository
 When I have questions about style, grammar, or spelling, I refer to the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) and the [Webster's Collegiate Dictionary](https://shop.merriam-webster.com/products/merriam-websters-collegiate-dictionary-eleventh-edition).
 This is definitely a relic from my years of writing in college, but I love them both.
 Yes, I have physical copies of both within reach of my seat at the desk in my study.
+
+[^1]: https://www.merriam-webster.com/dictionary/colophon
