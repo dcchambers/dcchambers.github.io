@@ -3,19 +3,17 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2024-08-05
-last_modified_location: "my home in Wisconsin"
+last_modified_at: 2024-08-14
+last_modified_location: "downtown Madison, WI"
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
 
-## This Week
-
-I am running the [Madison Mini Marathon](https://madisonminimarathon.com/) on August 10th in Madison, WI. It won't be a 100% effort race for me as I am using it as part of my full Marathon training, but I am still excited to run this awesome race!
-
 ## Recently
 
-Last week (Aug 1-2 2024) I attended the [Madison+ Ruby Conference](https://www.madisonruby.com/).
+2024 August 10: I ran the [Madison Mini Marathon](https://madisonminimarathon.com/) and finished with a time of 1:56:36.
+
+2024 August 1-2: I attended the [Madison+ Ruby 2024 Conference](https://www.madisonruby.com/).
 It was a great experience and I will be sharing a write-up of my time shortly.
 
 ## Fitness
