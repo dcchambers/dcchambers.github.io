@@ -6,7 +6,7 @@ tags: [Apps, Software, DakotaOS]
 It's interesting to look at how one's software usage changes over time.
 Some people use the same tools for years or even decades.
 Some people change productivity tools every six months.
-While I do have a [uses](../_pages/uses.md) page that lists the tools I use to accomplish work and have fun on the computer I figured it would be nice to take a snapshot of the software tools I am using at a particular point in time.
+While I do have a [/uses]({% link _pages/uses.md %}) page that lists the tools I use to accomplish work and have fun on the computer I figured it would be nice to take a snapshot of the software tools I am using at a particular point in time.
 
 Note that these are tools I use for my own personal projects and productivity, not ones that I use exclusively for my day job (eg Jira).
 
