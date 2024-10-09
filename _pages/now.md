@@ -16,7 +16,7 @@ My original goal when I set out training ~20 weeks ago was a sub-4-hour finish.
 We're still a week away, but the future weather forecast is prediciting a warmer-than-optimal race day.
 Given where I am training-wise, I don't think a sub-4-hour finish is likely, but I'm still going to try and shoot for it.
 Realistically a 4:10-4:20 finish is more likely.
-Ultimiately my primary goal is to finish without hurting myself!
+Ultimately my primary goal is to finish without hurting myself!
 
 I have put in the work and done the hours and hours of training (which is difficult with two little kids at home!).
 Overall the body is feeling pretty healthy.
