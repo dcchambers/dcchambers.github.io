@@ -3,7 +3,7 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2024-10-04
+last_modified_at: 2024-10-09
 last_modified_location: "my home in Wisconsin"
 ---
 
@@ -11,7 +11,7 @@ Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.la
 
 ## Upcoming
 
-In just over one week I will be running the [2024 Chicago Marathon](https://www.chicagomarathon.com/)!
+In less than one week I will be running the [2024 Chicago Marathon](https://www.chicagomarathon.com/)!
 My original goal when I set out training ~20 weeks ago was a sub-4-hour finish.
 We're still a week away, but the future weather forecast is prediciting a warmer-than-optimal race day.
 Given where I am training-wise, I don't think a sub-4-hour finish is likely, but I'm still going to try and shoot for it.
@@ -43,6 +43,7 @@ We'll see what happens!
 
 ## Playing
 
+- [Bloomtown: A Different Story](https://store.steampowered.com/app/2445990/Bloomtown_A_Different_Story/)
 - [Xenoblade Chronicles 2](ttps://www.nintendo.com/us/store/products/xenoblade-chronicles-2-switch/)
 - I am playing the new [1.6 Update](https://www.stardewvalley.net/stardew-valley-1-6-update-full-changelog/) for Stardew Valley.
 - Also continuing to slowly work my way through [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/).
