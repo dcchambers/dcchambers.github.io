@@ -44,6 +44,12 @@ Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.la
 - [Stardew Valley (1.6 Update!)](https://www.stardewvalley.net/)
 - [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/)
 
+Here's some upcoming games that I am looking foward to:
+
+- [Civilization VII](https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/)
+- [Dragon Age: The Veilguard](https://store.steampowered.com/app/1845910/Dragon_Age_The_Veilguard/)
+- [Mario & Luigi: Brothership](https://www.nintendo.com/us/store/products/mario-and-luigi-brothership-switch/)
+
 ---
 
 <p style="font-size: 0.75em">
