@@ -12,8 +12,8 @@ Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.la
 ## Recently
 
 - 2024 October 13: I ran the [2024 Chicago Marathon](https://www.chicagomarathon.com/) and finished with a chip time of 4:27:09!
-  - My time through the first half was 1:59:17. I started the race and hung with the 4 hour pacers for the first 16 or os miles.
-    My legs and lungs felt good, but I knew my heart rate was too high to maintain it.
+  - My time through the first half was 1:59:17. I started the race and hung with the 4 hour pacers for the first 16 miles.
+    My legs and lungs felt good, but I knew my heart rate was too high to maintain that level of effort for another two hours.
     I started walking the water stations in the second half to make sure I was getting enough hydration, and slowly dropped back from my pace group.
     Mile 22 I really hit a wall and slowed way down, falling way off pace.
     Definitely a humbling final five miles, but it was a wonderful experience and I am already thinking about the next one.
