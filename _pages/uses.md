@@ -29,39 +29,49 @@ I am a software developer (profesionally, and for fun) so that is the focus of t
 - 2015 13" Macbook Pro
 - Old Desktop (2011 Build)
   - Intel Core i5 2500K | GTX 1060 6GB | 16GB DDR3 | 512GB SSD
-  - Linux | Retired Gaming PC --> Home server
-- 2010 HP Envy 14" Laptop
+  - Linux | Retired Gaming PC
 
 ### Display
 
 - I currently only use a single external display - a 27" 4K Dell. It's minimal and gets the job done well. I would love to upgrade to a 5K Apple display, but I haven't for two reasons:
   1. They are really expensive.
   2. While it would work great with my mac laptops, they just don't play nicely with Windows/Linux machines.
+  3. I'm waiting for Apple (or someone else) to release a high-refresh rate 5K display.
 
 ### Keyboard
 
 - Currently daily-driving a [HHKB Professional Hybrid Type-S](https://hhkb.io/models/HHKB_Professional_Hybrid/)
 - I own...maybe half a dozen mechanical keyboards with various types of switches and keycaps. Most of them sit on a shelf looking pretty and collecting dust. Turns out you can only really use one keyboard at a time. 😇
 
-### Mouse
+### Mouse/Trackpad
 
-- When using MacOS I use the Apple [Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface).
-- For Windows/Linux and PC Gaming I use a Logitech G502 Proteus Core. I would like to replace this with a wireless mouse.
+- Apple [Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) - my preferred pointer input for MacOS.
+- Logitech [MX Master 3S](https://www.logitech.com/en-us/products/mice/mx-master-3s.html).
 
 ### Software
 
 These are things I use pretty much every day:
-- Terminal.app (The standard MacOS terminal emulator)
-  - Currently test driving [Alacritty](https://alacritty.org/) though.
-- `tmux` for window management in my terminal
-- `bash` is my shell of choice
+- [Alacritty](https://alacritty.org)
+- [tmux](https://github.com/tmux/tmux) for window management in my terminal
+  - But I am experimenting with [Zellij](https://zellij.dev/).
+    In general it works **great** but I do encounter occasional bugs.
+- [bash](https://www.gnu.org/software/bash/) is my shell of choice
+  - On MacOS just make sure you use Homebrew to install a newer version instead of the ancient verison that ships with MacOS.
 - [Rectangle.app](https://rectangleapp.com/) for window management elsewhere (**Essential** for MacOS in my opinion)
-- vim
-- Chrome
-- VSCode (though I am hoping to replace this with [zed](https://zed.dev/)).
-- Obsidian
-- Raycast
-- Reminders.app
+- [vim](https://www.vim.org/)
+- [Homebrew](https://brew.sh/)
+- [Raycast](https://www.raycast.com/)
+- [Chrome](https://www.google.com/chrome/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+  - I recently started daily driving Firefox to see what it's like outside of the Chrome ecosystem.
+    Moving all of my passwords from the Google Password Manager to 1Password made this possible/easy.
+    Really liking it so far! Firefox is fast and efficient.
+- [Zed](https://zed.dev/)
+  - Daily driving Zed now, but I keep [VSCode](https://code.visualstudio.com/) installed as a fallback.
+    So far I haven't really had to use it much though.
+- [Obsidian](https://obsidian.md/)
+- [1Password](https://1password.com/)
+- [TickTick](https://ticktick.com/)
 
 ## Everything Else
 
@@ -100,4 +110,4 @@ These are things I use pretty much every day:
 - Writing Style: [Chicago Manual of Style](https://www.chicagomanualofstyle.org/)
   - Yes, I have a physical copy (15th Edition)!
   - Oxford Comma: **always**
-- Dictionary: Merriam-Webster's Collegiate Dictionary (11th Edition)
+- Dictionary: [Merriam-Webster's Collegiate Dictionary (11th Edition)](https://shop.merriam-webster.com/products/merriam-websters-collegiate-dictionary-eleventh-edition)
