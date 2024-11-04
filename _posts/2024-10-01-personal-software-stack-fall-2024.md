@@ -1,6 +1,7 @@
 ---
 title: "My Personal Software Stack - Fall 2024 Edition"
 tags: [Apps, Software, DakotaOS]
+last_modified_at: 2024-11-03
 ---
 
 It's interesting to look at how one's software usage changes over time.
@@ -47,10 +48,11 @@ Note that these are tools I use for my own personal projects and productivity, n
 
 ## Hardware
 
-- Macbook Air 13" M2/24GB/1TB
+- Macbook Air 13" M2/24GB/512GB
 - Dell U2720Q (27" 4K monitor)
 - HHKB Professional Hybrid Type-S
 - Apple Magic Trackpad
+- Logitech MX Master 3S
 - Google Pixel 6 Pro
 - Sony WH1000XM3 Headphones
 
