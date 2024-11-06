@@ -3,7 +3,7 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2024-10-28
+last_modified_at: 2024-11-06
 last_modified_location: "my home in Wisconsin"
 ---
 
@@ -11,6 +11,7 @@ Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.la
 
 ## Recently
 
+- 2024 November 5: Finished reading [Iron Flame](https://www.goodreads.com/book/show/90202302-iron-flame).
 - 2024 October 13: I ran the [2024 Chicago Marathon](https://www.chicagomarathon.com/) and finished with a chip time of 4:27:09!
   - My time through the first half was 1:59:17. I started the race and hung with the 4 hour pacers for the first 16 miles.
     My legs and lungs felt good, but I knew my heart rate was too high to maintain that level of effort for another two hours.
@@ -31,7 +32,6 @@ Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.la
 
 ## Reading
 
-- [Iron Flame by Rebecca Yaros](https://www.goodreads.com/book/show/90202302-iron-flame)
 - [The Way of Kings by Brandon Sanderson](https://www.goodreads.com/book/show/7235533-the-way-of-kings)
 - [A Dance with Dragons by George R.R. Martin](https://www.goodreads.com/book/show/13422727-a-dance-with-dragons)
 - [How to Talk So Kids Will Listen by Faber & Mazlish](https://www.goodreads.com/book/show/769016.How_to_Talk_So_Kids_Will_Listen_Listen_So_Kids_Will_Talk)
