@@ -17,7 +17,7 @@ locale: "en-US"
 title: "chambers.io"
 email: dakotachambers@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Technical writing and miscellaneous thoughts on software development, Linux, automation, and everything DevOps.
+  Technical writing and miscellaneous thoughts on software development and devops.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chambers.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dakotachambers
@@ -50,19 +50,19 @@ whitelist:
 # Site Author
 author:
   name: "Dakota Chambers"
-  bio: "I'm a software engineer focused on devops and automating boring things!"
+  bio: "SWE/Tech Lead at Zendesk, working on tools for Kubernetes, app configuration, and deployment."
   avatar: "/assets/images/dakota_avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   location: "Madison, WI"
   twitter: dakotachambers
   github: dcchambers
   linkedin: dakota-chambers
   links:
-    - label: "omg.lol"
-      icon: "fas fa-fw fa-heart"
-      url: "https://dakota.omg.lol"
     - label: "RSS/Atom Feed"
       icon: "fas fa-fw fa-rss-square"
       url: "/feed.xml"
+    - label: "omg.lol"
+      icon: "fas fa-fw fa-heart"
+      url: "https://dakota.omg.lol"
     - label: "Bluesky"
       icon: "fas fa-fw fa-brands fa-bluesky"
       url: "https://bsky.app/profile/chambers.io"
