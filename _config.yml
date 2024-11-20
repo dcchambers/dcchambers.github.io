@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chambers.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dakotachambers
-github_username:  dcchambers
+github_username: dcchambers
 
 # Build settings
 markdown: CommonMarkGhPages
@@ -63,6 +63,9 @@ author:
     - label: "RSS/Atom Feed"
       icon: "fas fa-fw fa-rss-square"
       url: "/feed.xml"
+    - label: "Bluesky"
+      icon: "fas fa-fw fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/chambers.io"
 
 # Defaults
 defaults:
@@ -84,12 +87,12 @@ repository: dcchambers/dcchambers.github.io
 comments:
   provider: "giscus"
   giscus:
-    repo_id              : MDEwOlJlcG9zaXRvcnk1NjYyMTg3MQ==
-    category_name        : "Blog Comments"
-    category_id          : DIC_kwDOA1_7L84CVBFQ
-    discussion_term      : pathname
-    reactions_enabled    : 1
-    theme                : "light"
+    repo_id: MDEwOlJlcG9zaXRvcnk1NjYyMTg3MQ==
+    category_name: "Blog Comments"
+    category_id: DIC_kwDOA1_7L84CVBFQ
+    discussion_term: pathname
+    reactions_enabled: 1
+    theme: "light"
 
 include:
   - _pages
@@ -101,7 +104,6 @@ paginate_path: index.md
 ## Jekyll Feed config
 feed:
   posts_limit: 100
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
