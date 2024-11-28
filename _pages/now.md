@@ -13,6 +13,7 @@ The house is quiet and the air is thick with the smell of fresh bread.
 
 ## Recently
 
+- 2024 November: I purchased a new [M4-powered Mac Mini for use as a low power home server]({% link _posts/2024-11-09-mac-mini-home-server.md %}).
 - 2024 November 25: Finished reading [Children of Time](https://www.goodreads.com/book/show/25499718-children-of-time).
 - 2024 November 21: Finished reading [Rework](https://basecamp.com/books/rework).
 - 2024 November 5: Finished reading [Iron Flame](https://www.goodreads.com/book/show/90202302-iron-flame).
