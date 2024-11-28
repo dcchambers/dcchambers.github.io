@@ -3,14 +3,18 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2024-11-06
+last_modified_at: 2024-11-27
 last_modified_location: "my home in Wisconsin"
 ---
 
-Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
+Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from my kitchen table at {{ page.last_modified_location }}.
+It's the evening before Thanksgiving and I have two loaves of sourdough baking in the oven right now.
+The house is quiet and the air is thick with the smell of fresh bread.
 
 ## Recently
 
+- 2024 November 25: Finished reading [Children of Time](https://www.goodreads.com/book/show/25499718-children-of-time).
+- 2024 November 21: Finished reading [Rework](https://basecamp.com/books/rework).
 - 2024 November 5: Finished reading [Iron Flame](https://www.goodreads.com/book/show/90202302-iron-flame).
 - 2024 October 13: I ran the [2024 Chicago Marathon](https://www.chicagomarathon.com/) and finished with a chip time of 4:27:09!
   - My time through the first half was 1:59:17. I started the race and hung with the 4 hour pacers for the first 16 miles.
