@@ -8,6 +8,7 @@ last_modified_location: "my home in Wisconsin"
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from my kitchen table at {{ page.last_modified_location }}.
+
 It's the evening before Thanksgiving and I have two loaves of sourdough baking in the oven right now.
 The house is quiet and the air is thick with the smell of fresh bread.
 
