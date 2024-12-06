@@ -3,17 +3,32 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2024-11-27
+last_modified_at: 2024-12-06
 last_modified_location: "my home in Wisconsin"
 ---
 
-Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from my kitchen table at {{ page.last_modified_location }}.
+Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
 
-It's the evening before Thanksgiving and I have two loaves of sourdough baking in the oven right now.
-The house is quiet and the air is thick with the smell of fresh bread.
+The year is drawing to a close.
+The weather is getting colder.
+I'm starting to feel the itch to scratch some of those cozy winter hobbies.
+I've been baking more sourdough, reading more, writing more, and drinking even more hot coffee.
+
+I've also been feeling that productivity itch more and more as the new year looms ever closer.
+
+I've been an avid bullet-journaler in the past, but stopped in early 2020 (partially due to COVID, partially for other reasons).
+I do keep a physical notebook around at all times for jotting down quick notes, sketching diagrams, and doodling.
+But most of my productivity has moved into software, especially for work stuff.
+I finally got LeeAnn on board to try a collaborative TODO app, so we're using TickTick
+And I have moved almost all daily logging and general knowledge/notes to Obsidian.
+
+But I yearn for something physical again.
+I am going to try bullet journaling again in 2025 (in fact, I'm getting an early start in December).
+I don't expect to try and put everything there and it will mostly be a place to rapid log notes and ideas before they end up in an app or digital calendar.
 
 ## Recently
 
+- 2024 December: Started reading [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden).
 - 2024 November: I purchased a new [M4-powered Mac Mini for use as a low power home server]({% link _posts/2024-11-09-mac-mini-home-server.md %}).
 - 2024 November 25: Finished reading [Children of Time](https://www.goodreads.com/book/show/25499718-children-of-time).
 - 2024 November 21: Finished reading [Rework](https://basecamp.com/books/rework).
@@ -38,6 +53,7 @@ The house is quiet and the air is thick with the smell of fresh bread.
 
 ## Reading
 
+- [East of Eden by John Steinbeck](https://www.goodreads.com/book/show/4406.East_of_Eden)
 - [The Way of Kings by Brandon Sanderson](https://www.goodreads.com/book/show/7235533-the-way-of-kings)
 - [A Dance with Dragons by George R.R. Martin](https://www.goodreads.com/book/show/13422727-a-dance-with-dragons)
 - [How to Talk So Kids Will Listen by Faber & Mazlish](https://www.goodreads.com/book/show/769016.How_to_Talk_So_Kids_Will_Listen_Listen_So_Kids_Will_Talk)
