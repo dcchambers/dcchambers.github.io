@@ -62,7 +62,7 @@ I don't expect to try and put everything there and it will mostly be a place to 
 
 - [Final Fantasy XIV](https://www.finalfantasyxiv.com/)
 - [Bloomtown: A Different Story](https://store.steampowered.com/app/2445990/Bloomtown_A_Different_Story/)
-- [Xenoblade Chronicles 2](ttps://www.nintendo.com/us/store/products/xenoblade-chronicles-2-switch/)
+- [Xenoblade Chronicles 2](https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-switch/)
 - [Stardew Valley (1.6 Update!)](https://www.stardewvalley.net/)
 - [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/)
 
