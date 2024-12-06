@@ -19,8 +19,8 @@ I've also been feeling that productivity itch more and more as the new year loom
 I've been an avid bullet-journaler in the past, but stopped in early 2020 (partially due to COVID, partially for other reasons).
 I do keep a physical notebook around at all times for jotting down quick notes, sketching diagrams, and doodling.
 But most of my productivity has moved into software, especially for work stuff.
-I finally got LeeAnn on board to try a collaborative TODO app, so we're using TickTick
-And I have moved almost all daily logging and general knowledge/notes to Obsidian.
+I finally got LeeAnn on board to try a collaborative TODO app, so we're using TickTick for shared TODOS.
+And I moved almost all daily logging and general knowledge/notes to Obsidian over the past two years.
 
 But I yearn for something physical again.
 I am going to try bullet journaling again in 2025 (in fact, I'm getting an early start in December).
