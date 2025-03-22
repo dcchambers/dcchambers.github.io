@@ -1,8 +1,10 @@
 main:
   - title: "About"
     url: "/about"
-  - title: "Blog"
-    url: "/blog"
+  - title: "Archive"
+    url: "/archive"
+  - title: "Linkblog"
+    url: "/linkblog"
   - title: "Public Notes"
     url: "https://publish.obsidian.md/dakota"
   - title: "Year in Review"
