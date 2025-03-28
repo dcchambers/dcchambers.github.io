@@ -3,15 +3,13 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-03-14
+last_modified_at: 2025-03-27
 last_modified_location: "my home in Wisconsin"
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
 
-Happy π day! And happy birthday to my beautiful wife!
-
-Here's what I'm up to:
+I just released a new version of [Notekeeper](https://github.com/dcchambers/note-keeper), a small command-line tool for taking notes. This is the first release in several years.
 
 ## Running
 
@@ -30,7 +28,6 @@ I am currently training for a half marathon in Madison in May, and after that I 
 
 ## Playing
 
-- [Two Point Hospital](https://store.steampowered.com/app/535930/Two_Point_Hospital/)
 - [Stardew Valley (1.6 Update!)](https://www.stardewvalley.net/)
 - [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/)
 - [Xenoblade Chronicles 2](https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-switch/)
