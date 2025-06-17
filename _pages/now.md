@@ -56,7 +56,7 @@ Most recent at the top, but all of these are kind of in rotation at the moment..
 - [Xenoblade Chronicles 2](https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-switch/)
 - [Stardew Valley (1.6 Update!)](https://www.stardewvalley.net/)
 - [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/)
--[Bloomtown: A Different Story](https://store.steampowered.com/app/2445990/Bloomtown_A_Different_Story/)
+- [Bloomtown: A Different Story](https://store.steampowered.com/app/2445990/Bloomtown_A_Different_Story/)
 
 ### Always Playing
 
