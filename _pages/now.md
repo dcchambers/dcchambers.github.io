@@ -3,18 +3,13 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-06-17
-last_modified_location: "my home in Wisconsin"
+last_modified_at: 2025-07-07
+last_modified_location: "Madison Wisconsin"
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
 
-I am currently on sabbatical from my full-time job at Zendesk. In my month off I am working on projects around the house and will spend a bit of time traveling with the family. I am trying to "unplug" during this sabbatical which means as little computer usage as possible - trying to focus on physical hobbies and tasks right now.
-
-## Recently
-
-- I ran a half marathon race in May and finished with a time of 1:58:59.
-- I released a new version of [Notekeeper](https://github.com/dcchambers/note-keeper) in March.
+I recently completed a one month sabbatical from my full-time job at [Zendesk](https://zendesk.com). I spent most of my time off away from my computer, engaging in physical hobbies, spending time with my family, and traveling. Some day I would like to do a sabbatical where I spend time doing fun things on a computer (like the [Recurse Center](https://www.recurse.com/)) but this was exactly what I needed to take a step back given the state of the tech industry right now. I am feeling re-invigorated and anxious to get back to work.
 
 ## Upcoming
 
@@ -28,17 +23,38 @@ I am currently training for the 2025 Chicago Marathon, using the [Hal Higdon int
 
 ## Reading
 
+I always find myself reading too many books at once.
+
 ### Currently
 
-- [East of Eden by John Steinbeck](https://www.goodreads.com/book/show/4406.East_of_Eden)
-- [The Way of Kings by Brandon Sanderson](https://www.goodreads.com/book/show/7235533-the-way-of-kings)
+| Fiction | Non-Fiction |
+| --- | --- |
+| [East of Eden by John Steinbeck](https://www.goodreads.com/book/show/4406.East_of_Eden) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
+| [The Dungeon Anarchist's Cookbook](https://mattdinniman.com/book-series/dungeon-crawler-carl/) | |
+
 
 ### On-deck
 
-- [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation)
+| Fiction | Non-Fiction |
+| --- | --- |
+| Onyx Storm | |
+| Children of Ruin | |
+
+### Series I am Currently Reading or Plan to Read
+
+- A Song of Ice and Fire (4/5 done)
+- Dungeon Crawler Carl (2/7 done)
+- Empyrean (2/3 done)
+- The Stormlight Archive (1/5 done)
+- Children of Time (1/3 done)
+- Dune (1/6 done)
+- The Wheel of Time (0/15 done)
+- Mistborn Saga (0/7 done)
 
 ### Recently Finished
 
+- [The Way of Kings by Brandon Sanderson](https://www.goodreads.com/book/show/7235533-the-way-of-kings)
+- [Carl's Doomsday Scenario](https://mattdinniman.com/book-series/dungeon-crawler-carl/)
 - [Dungeon Crawler Carl](https://mattdinniman.com/book/dungeon-crawler-carl/)
 
 ## Games
