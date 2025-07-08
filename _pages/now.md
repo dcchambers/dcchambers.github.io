@@ -3,8 +3,8 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-07-07
-last_modified_location: "Madison Wisconsin"
+last_modified_at: 2025-07-08
+last_modified_location: "my home in Wisconsin."
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
@@ -37,8 +37,10 @@ I always find myself reading too many books at once.
 
 | Fiction | Non-Fiction |
 | --- | --- |
-| Onyx Storm | |
-| Children of Ruin | |
+| Onyx Storm |  |
+| A Dance With Dragons | |
+| Catch-22 | |
+| The Count of Monte Cristo | |
 
 ### Series I am Currently Reading or Plan to Read
 
