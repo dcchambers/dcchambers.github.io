@@ -3,7 +3,7 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-07-08
+last_modified_at: 2025-07-22
 last_modified_location: "my home in Wisconsin."
 ---
 
@@ -29,32 +29,33 @@ I always find myself reading too many books at once.
 
 | Fiction | Non-Fiction |
 | --- | --- |
-| [East of Eden by John Steinbeck](https://www.goodreads.com/book/show/4406.East_of_Eden) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
-| [The Dungeon Anarchist's Cookbook](https://mattdinniman.com/book-series/dungeon-crawler-carl/) | |
-
+| [The Dungeon Anarchist's Cookbook](https://mattdinniman.com/book-series/dungeon-crawler-carl/) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
 
 ### On-deck
 
 | Fiction | Non-Fiction |
 | --- | --- |
-| Onyx Storm |  |
 | A Dance With Dragons | |
 | Catch-22 | |
 | The Count of Monte Cristo | |
+
+See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-chambers?ref=nav_mybooks&shelf=to-read).
 
 ### Series I am Currently Reading or Plan to Read
 
 - A Song of Ice and Fire (4/5 done)
 - Dungeon Crawler Carl (2/7 done)
-- Empyrean (2/3 done)
 - The Stormlight Archive (1/5 done)
 - Children of Time (1/3 done)
 - Dune (1/6 done)
 - The Wheel of Time (0/15 done)
 - Mistborn Saga (0/7 done)
 
-### Recently Finished
+### Books Read in 2025
 
+- [Good Morning, Midnight](https://www.lilybrooksdalton.com/good-morning-midnight.html)
+- [Onyx Storm](https://www.goodreads.com/book/show/209439446-onyx-storm)
+- [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden)
 - [The Way of Kings by Brandon Sanderson](https://www.goodreads.com/book/show/7235533-the-way-of-kings)
 - [Carl's Doomsday Scenario](https://mattdinniman.com/book-series/dungeon-crawler-carl/)
 - [Dungeon Crawler Carl](https://mattdinniman.com/book/dungeon-crawler-carl/)
@@ -67,6 +68,7 @@ I got a Switch 2!
 
 Most recent at the top, but all of these are kind of in rotation at the moment...
 
+- [Donkey Kong Bananza](https://www.nintendo.com/us/gaming-systems/switch-2/featured-games/donkey-kong-bananza/)
 - [Bravely Default Flying Fairy HD Remaster](https://www.nintendo.com/us/store/products/bravely-default-flying-fairy-hd-remaster-switch-2/)
 - [Mario Kart World](https://www.nintendo.com/us/gaming-systems/switch-2/featured-games/mario-kart-world/world/)
 - [Fantasy Life i: The Girl Who Steals Time](https://store.steampowered.com/app/2993780/FANTASY_LIFE_i_The_Girl_Who_Steals_Time/)
