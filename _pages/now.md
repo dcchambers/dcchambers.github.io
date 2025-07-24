@@ -3,7 +3,7 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-07-22
+last_modified_at: 2025-07-24
 last_modified_location: "my home in Wisconsin."
 ---
 
@@ -30,6 +30,7 @@ I always find myself reading too many books at once.
 | Fiction | Non-Fiction |
 | --- | --- |
 | [The Dungeon Anarchist's Cookbook](https://mattdinniman.com/book-series/dungeon-crawler-carl/) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
+| [The Frugal Wizard’s Handbook for Surviving Medieval England](https://goodreads.com/book/show/60531410-the-frugal-wizard-s-handbook-for-surviving-medieval-england) | |
 
 ### On-deck
 
