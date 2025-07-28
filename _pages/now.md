@@ -3,7 +3,7 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-07-24
+last_modified_at: 2025-07-28
 last_modified_location: "my home in Wisconsin."
 ---
 
@@ -30,7 +30,7 @@ I always find myself reading too many books at once.
 | Fiction | Non-Fiction |
 | --- | --- |
 | [The Dungeon Anarchist's Cookbook](https://mattdinniman.com/book-series/dungeon-crawler-carl/) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
-| [The Frugal Wizard’s Handbook for Surviving Medieval England](https://goodreads.com/book/show/60531410-the-frugal-wizard-s-handbook-for-surviving-medieval-england) | |
+| [Piranesi](https://www.goodreads.com/book/show/50202953-piranesi) | |
 
 ### On-deck
 
@@ -39,6 +39,7 @@ I always find myself reading too many books at once.
 | A Dance With Dragons | |
 | Catch-22 | |
 | The Count of Monte Cristo | |
+| The Four Winds | |
 
 See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-chambers?ref=nav_mybooks&shelf=to-read).
 
@@ -54,6 +55,7 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 
 ### Books Read in 2025
 
+- [The Frugal Wizard’s Handbook for Surviving Medieval England](https://goodreads.com/book/show/60531410-the-frugal-wizard-s-handbook-for-surviving-medieval-england)
 - [Good Morning, Midnight](https://www.lilybrooksdalton.com/good-morning-midnight.html)
 - [Onyx Storm](https://www.goodreads.com/book/show/209439446-onyx-storm)
 - [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden)
