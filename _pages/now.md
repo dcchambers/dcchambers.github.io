@@ -35,8 +35,7 @@ I always find myself reading too many books at once.
 
 | Fiction | Non-Fiction |
 | --- | --- |
-| | Mark Twain by Ron Chernow |
-| A Dance With Dragons | |
+| A Dance With Dragons | Mark Twain by Ron Chernow |
 | Catch-22 | |
 | The Count of Monte Cristo | |
 | The Four Winds | |
