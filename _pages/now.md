@@ -3,8 +3,8 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-07-28
-last_modified_location: "my home in Wisconsin."
+last_modified_at: 2025-07-30
+last_modified_location: "Madison, Wisconsin."
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
@@ -30,12 +30,12 @@ I always find myself reading too many books at once.
 | Fiction | Non-Fiction |
 | --- | --- |
 | [The Dungeon Anarchist's Cookbook](https://mattdinniman.com/book-series/dungeon-crawler-carl/) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
-| [Piranesi](https://www.goodreads.com/book/show/50202953-piranesi) | |
 
 ### On-deck
 
 | Fiction | Non-Fiction |
 | --- | --- |
+| | Mark Twain by Ron Chernow |
 | A Dance With Dragons | |
 | Catch-22 | |
 | The Count of Monte Cristo | |
@@ -55,6 +55,7 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 
 ### Books Read in 2025
 
+- [Piranesi](https://www.goodreads.com/book/show/50202953-piranesi)
 - [The Frugal Wizard’s Handbook for Surviving Medieval England](https://goodreads.com/book/show/60531410-the-frugal-wizard-s-handbook-for-surviving-medieval-england)
 - [Good Morning, Midnight](https://www.lilybrooksdalton.com/good-morning-midnight.html)
 - [Onyx Storm](https://www.goodreads.com/book/show/209439446-onyx-storm)
