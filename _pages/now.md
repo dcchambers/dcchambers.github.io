@@ -47,7 +47,7 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 ### Series I am Currently Reading or Plan to Read
 
 - A Song of Ice and Fire (4/5 done)
-- Dungeon Crawler Carl (2/7 done)
+- Dungeon Crawler Carl (3/7 done)
 - The Stormlight Archive (1/5 done)
 - Children of Time (1/3 done)
 - Dune (1/6 done)
