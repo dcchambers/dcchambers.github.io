@@ -29,16 +29,18 @@ I always find myself reading too many books at once.
 
 | Fiction | Non-Fiction |
 | --- | --- |
-| [The Dungeon Anarchist's Cookbook](https://mattdinniman.com/book-series/dungeon-crawler-carl/) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
+| [Yumi and the Nightmare Painter](https://www.goodreads.com/book/show/60531416-yumi-and-the-nightmare-painter) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
+| [Wool](https://www.goodreads.com/book/show/13453029-wool-omnibus) | |
 
 ### On-deck
 
 | Fiction | Non-Fiction |
 | --- | --- |
 | A Dance With Dragons | Mark Twain by Ron Chernow |
-| Catch-22 | |
-| The Count of Monte Cristo | |
+| Catch-22 | Everything is Tuberculosis |
+| The Count of Monte Cristo | Abundance |
 | The Four Winds | |
+| The House in the Cerulean Sea | |
 
 See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-chambers?ref=nav_mybooks&shelf=to-read).
 
@@ -54,12 +56,13 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 
 ### Books Read in 2025
 
+- [The Dungeon Anarchist's Cookbook](https://mattdinniman.com/book-series/dungeon-crawler-carl/)
 - [Piranesi](https://www.goodreads.com/book/show/50202953-piranesi)
 - [The Frugal Wizard’s Handbook for Surviving Medieval England](https://goodreads.com/book/show/60531410-the-frugal-wizard-s-handbook-for-surviving-medieval-england)
 - [Good Morning, Midnight](https://www.lilybrooksdalton.com/good-morning-midnight.html)
 - [Onyx Storm](https://www.goodreads.com/book/show/209439446-onyx-storm)
 - [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden)
-- [The Way of Kings by Brandon Sanderson](https://www.goodreads.com/book/show/7235533-the-way-of-kings)
+- [The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings)
 - [Carl's Doomsday Scenario](https://mattdinniman.com/book-series/dungeon-crawler-carl/)
 - [Dungeon Crawler Carl](https://mattdinniman.com/book/dungeon-crawler-carl/)
 
