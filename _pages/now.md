@@ -3,7 +3,7 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-08-06
+last_modified_at: 2025-08-18
 last_modified_location: "Madison, Wisconsin."
 ---
 
@@ -29,8 +29,7 @@ I always find myself reading too many books at once.
 
 | Fiction | Non-Fiction |
 | --- | --- |
-| [Wool](https://www.goodreads.com/book/show/13453029-wool-omnibus) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
-| [A Dance with Dragons](https://www.goodreads.com/book/show/13422727-a-dance-with-dragons) | |
+| [A Dance with Dragons](https://www.goodreads.com/book/show/13422727-a-dance-with-dragons) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
 
 ### On-deck
 
@@ -56,6 +55,7 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 
 ### Books Read in 2025
 
+- [Wool](https://www.goodreads.com/book/show/13453029-wool-omnibus)
 - [Yumi and the Nightmare Painter](https://www.goodreads.com/book/show/60531416-yumi-and-the-nightmare-painter)
 - [The Dungeon Anarchist's Cookbook](https://mattdinniman.com/book-series/dungeon-crawler-carl/)
 - [Piranesi](https://www.goodreads.com/book/show/50202953-piranesi)
