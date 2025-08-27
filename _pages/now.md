@@ -3,8 +3,8 @@ layout: page
 author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-08-18
-last_modified_location: "Madison, Wisconsin."
+last_modified_at: 2025-08-26
+last_modified_location: "my home in Wisconsin."
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
@@ -29,23 +29,23 @@ I always find myself reading too many books at once.
 
 | Fiction | Non-Fiction |
 | --- | --- |
-| [A Dance with Dragons](https://www.goodreads.com/book/show/13422727-a-dance-with-dragons) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
+| [Blood Meridian](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
+| [The Gate of the Feral Gods (DCC Book 4)](https://www.goodreads.com/book/show/57905101-the-gate-of-the-feral-gods) | |
+| [Circe](https://www.goodreads.com/book/show/35959740-circe) | |
 
 ### On-deck
 
 | Fiction | Non-Fiction |
 | --- | --- |
-| Circe | Mark Twain by Ron Chernow |
-| Catch-22 | Everything is Tuberculosis |
-| The Count of Monte Cristo | Abundance |
-| The Four Winds | |
+| Catch-22 | Mark Twain by Ron Chernow |
+| The Count of Monte Cristo | Everything is Tuberculosis |
+| The Four Winds | Abundance |
 | The House in the Cerulean Sea | |
 
 See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-chambers?ref=nav_mybooks&shelf=to-read).
 
-### Series I am Currently Reading or Plan to Read
+### Series I am currently reading
 
-- A Song of Ice and Fire (4/5 done)
 - Dungeon Crawler Carl (3/7 done)
 - The Stormlight Archive (1/5 done)
 - Children of Time (1/3 done)
@@ -55,6 +55,7 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 
 ### Books Read in 2025
 
+- [A Dance with Dragons](https://www.goodreads.com/book/show/13422727-a-dance-with-dragons)
 - [Wool](https://www.goodreads.com/book/show/13453029-wool-omnibus)
 - [Yumi and the Nightmare Painter](https://www.goodreads.com/book/show/60531416-yumi-and-the-nightmare-painter)
 - [The Dungeon Anarchist's Cookbook](https://mattdinniman.com/book-series/dungeon-crawler-carl/)
