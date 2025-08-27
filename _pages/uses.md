@@ -51,7 +51,7 @@ I am a software developer (profesionally, and for fun) so that is the focus of t
 ### Software
 
 These are things I use pretty much every day:
-- [Alacritty](https://alacritty.org)
+- [Ghostty](https://ghostty.org/)
 - [tmux](https://github.com/tmux/tmux) for window management in my terminal
   - But I am experimenting with [Zellij](https://zellij.dev/).
     In general it works **great** but I do encounter occasional bugs.
@@ -72,6 +72,10 @@ These are things I use pretty much every day:
 - [Obsidian](https://obsidian.md/)
 - [1Password](https://1password.com/)
 - [TickTick](https://ticktick.com/)
+
+### Programming
+
+I'm a programmy polyglot, but I tend to favor Ruby, Go, and good 'ol Bash.
 
 ## Everything Else
 
@@ -94,11 +98,13 @@ These are things I use pretty much every day:
 
 ### Other Electronics
 
-- Google Pixel 6 Pro
+- Google Pixel 9 Pro
 - Garmin Forerunner 945
 - Amazon Kindle Paperwhite Signature Ed.
   - In 2022 my third generation Kindle (with a keyboard) from 2010 finally died (well, I cracked the screen). I do miss the physical buttons, but love the better screen, waterproofing, and wireless charging in my new one. Kindles are seriously one of the best investments you can make, even if you still own/read physical books. I **love** physical books and I still regularly read from my Kindle - often I read digital copies of physical books that I own!
 - Nintendo Switch (launch-era model, neon red and blue)
+- Nintendo Switch 2
+- Steam Deck (1TB OLED)
 - Some cheap desktop speakers from Logitech (**upgrade needed**)
 - Headphones
   - My go-to these days is my wireless Sony WH1000XM3.
