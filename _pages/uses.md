@@ -75,7 +75,7 @@ These are things I use pretty much every day:
 
 ### Programming
 
-I'm a programmy polyglot, but I tend to favor Ruby, Go, and good 'ol Bash.
+I'm a programming language polyglot, but I tend to favor Ruby, Go, and good 'ol Bash.
 
 ## Everything Else
 
@@ -104,10 +104,11 @@ I'm a programmy polyglot, but I tend to favor Ruby, Go, and good 'ol Bash.
   - In 2022 my third generation Kindle (with a keyboard) from 2010 finally died (well, I cracked the screen). I do miss the physical buttons, but love the better screen, waterproofing, and wireless charging in my new one. Kindles are seriously one of the best investments you can make, even if you still own/read physical books. I **love** physical books and I still regularly read from my Kindle - often I read digital copies of physical books that I own!
 - Nintendo Switch (launch-era model, neon red and blue)
 - Nintendo Switch 2
-- Steam Deck (1TB OLED)
 - Some cheap desktop speakers from Logitech (**upgrade needed**)
 - Headphones
   - My go-to these days is my wireless Sony WH1000XM3.
+  - Pixel Buds A
+    - Google's take on airpods are pretty great!
   - Also keep a pair of Sony MDR-V6s floating around as a back-up/sometimes for listening to certain things.
 - reMarkable Tablet (first gen)
 
