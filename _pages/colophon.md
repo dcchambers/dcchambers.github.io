@@ -1,6 +1,5 @@
 ---
 layout: page
-author_profile: true
 permalink: /colophon
 title: "Colophon"
 ---

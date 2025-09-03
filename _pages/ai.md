@@ -1,6 +1,5 @@
 ---
 layout: page
-author_profile: true
 title: "AI Usage"
 permalink: /ai
 last_modified_at: 2025-03-17

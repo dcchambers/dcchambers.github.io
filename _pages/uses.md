@@ -1,6 +1,5 @@
 ---
 layout: page
-author_profile: true
 title: "Stuff I Use"
 permalink: /uses
 ---

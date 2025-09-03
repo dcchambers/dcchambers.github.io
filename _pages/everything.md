@@ -2,7 +2,6 @@
 title: "All Posts"
 permalink: /everything
 layout: page
-author_profile: true
 ---
 
 <ul>

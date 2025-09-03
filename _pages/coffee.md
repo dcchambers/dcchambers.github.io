@@ -1,6 +1,5 @@
 ---
 layout: page
-author_profile: true
 title: "Coffee"
 permalink: /coffee
 ---
@@ -175,7 +174,7 @@ In 2022 I switched primarily from using a french press to using a pour-over for 
 
 ### 2021 Recap
 
-- Despite numerous challenges associated with the COVID-19 pandemic (labor shortages, shipping delays, etc) and crop/growing challenges due to climate change, I drank a lot of fantastic coffee in 2021. I was particularly impressed with coffees from Mexico and Ethiopia this year. 
+- Despite numerous challenges associated with the COVID-19 pandemic (labor shortages, shipping delays, etc) and crop/growing challenges due to climate change, I drank a lot of fantastic coffee in 2021. I was particularly impressed with coffees from Mexico and Ethiopia this year.
 
 ![](/assets/images/coffee/2021_year_in_coffee.jpg)
 

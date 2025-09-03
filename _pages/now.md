@@ -1,6 +1,5 @@
 ---
 layout: page
-author_profile: true
 title: "What I'm Doing Right Now"
 permalink: /now
 last_modified_at: 2025-08-26
