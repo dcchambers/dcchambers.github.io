@@ -21,7 +21,7 @@ A nice benefit is that this keeps the content free and easy to move around to ot
 I had maintained a wordpress blog in the past but I definitely prefer this method.
 
 The current theme is the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme by Michael Rose with the default color scheme.
-It's been a great theme that has served me well for more than six years, but I am currently working on [my own theme,called Oliver](https://github.com/dcchambers/oliver) to replace it.
+It's been a great theme that has served me well for more than six years, but I am currently working on [my own theme, oliver](https://github.com/dcchambers/oliver) to replace it.
 
 ## Writing
 

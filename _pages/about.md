@@ -15,8 +15,7 @@ I live in Madison, WI with my wife, two young kids, and dog.
 ---
 
 - My [omg.lol](https://dakota.omg.lol/) page has a list of places you can find me online.
-- Check out my [`/now` page](now.md) to see what I'm doing _right now_.
-- Check out my [`/uses` page](uses.md) to see things I use every day.
-- I drink a lot of coffee and try to keep track of it [here](coffee.md).
-- My personal [guidelines for AI usage](ai.md).
-- See the [colophon](colophon.md) for details about how this site is built.
+- Check out my [`/now` page]({% link _pages/now.md %}) to see what I'm doing _right now_.
+- Check out my [`/uses` page]({% link _pages/uses.md %}) to see things I use every day.
+- See the [colophon]({% link _pages/colophon.md %}) for details about how this site is built.
+- My personal [guidelines for AI usage]({% link _pages/ai.md %}).

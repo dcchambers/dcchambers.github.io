@@ -64,7 +64,7 @@ author:
       icon: "fas fa-fw fa-heart"
       url: "https://dakota.omg.lol"
     - label: "Bluesky"
-      icon: "fas fa-fw fa-brands fa-bluesky"
+      icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/chambers.io"
 
 # Defaults
@@ -98,8 +98,8 @@ include:
   - _pages
 
 #minimal-mistakes specific
-paginate: 99 # amount of posts to show on home page.
-paginate_path: index.md
+#paginate: 99 # amount of posts to show on home page.
+#paginate_path: index.md
 
 ## Jekyll Feed config
 feed:
