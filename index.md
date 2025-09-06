@@ -21,10 +21,7 @@ I live in Wisconsin with my wife, two young kids, and dog.
 
 <ul>
   {% for post in site.categories.blog limit:10 %}
-  <li>
-    <span style="font-family: monospace; font-size:0.8em">{{ post.date | date: "%Y %m %d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
-    {% if post.categories contains 'linkblog' %}<i class="fa-solid fa-link"></i>{% endif %}
-  </li>
+  <li><span style="font-family: monospace; font-size:0.8em">{{ post.date | date: "%Y %m %d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 

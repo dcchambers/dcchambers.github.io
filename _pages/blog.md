@@ -6,6 +6,6 @@ layout: page
 
 <ul>
   {% for post in site.categories.blog %}
-  <li>{{ post.date | date: "%-d %B %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
+  <li><span style="font-family: monospace; font-size:0.8em">{{ post.date | date: "%Y %m %d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
