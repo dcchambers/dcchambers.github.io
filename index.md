@@ -17,17 +17,32 @@ I live in Wisconsin with my wife, two young kids, and dog.
 - Check out my [`/now` page]({% link _pages/now.md %}) to see what I'm doing _right now_.
 - Check out my [`/uses` page]({% link _pages/uses.md %}) to see things I use every day.
 
----
-
 ## Recent Posts
 
 <ul>
-  {% for post in site.posts limit:10 %}
+  {% for post in site.categories.blog limit:10 %}
   <li>
-    {{ post.date | date: "%-d %B %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {{ post.date | date: "%-d %B %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a>
+    {% if post.categories contains 'linkblog' %}<i class="fa-solid fa-link"></i>{% endif %}
+  </li>
   {% endfor %}
 </ul>
 
+See all [Blog Posts]({% link _pages/blog.md %}).
+
+## Recent Links
+
+<ul>
+  {% for post in site.categories.linkblog limit:10 %}
+  <li>
+    {{ post.date | date: "%-d %B %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a>
+    {% if post.categories contains 'linkblog' %}<a href="{{ post.link }}"><i class="fa-solid fa-link"></i></a>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+
+See all [Links]({% link _pages/linkblog.md %}).
+
 ---
 
-See [Everything]({% link _pages/everything.md %}) or [Just Blog Poosts]({% link _pages/blog.md %}).
+See [Everything]({% link _pages/everything.md %}).
