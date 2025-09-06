@@ -22,7 +22,7 @@ I live in Wisconsin with my wife, two young kids, and dog.
 <ul>
   {% for post in site.categories.blog limit:10 %}
   <li>
-    {{ post.date | date: "%-d %B %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a>
+    <span style="font-family: monospace; font-size:0.8em">{{ post.date | date: "%Y %m %d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
     {% if post.categories contains 'linkblog' %}<i class="fa-solid fa-link"></i>{% endif %}
   </li>
   {% endfor %}
@@ -35,7 +35,7 @@ See all [Blog Posts]({% link _pages/blog.md %}).
 <ul>
   {% for post in site.categories.linkblog limit:10 %}
   <li>
-    {{ post.date | date: "%-d %B %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a>
+    <span style="font-family: monospace; font-size:0.8em">{{ post.date | date: "%Y %m %d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
     {% if post.categories contains 'linkblog' %}<a href="{{ post.link }}"><i class="fa-solid fa-link"></i></a>{% endif %}
   </li>
   {% endfor %}
