@@ -2,17 +2,18 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-08-26
+last_modified_at: 2025-10-22
 last_modified_location: "my home in Wisconsin."
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
 
-I recently completed a one month sabbatical from my full-time job at [Zendesk](https://zendesk.com). I spent most of my time off away from my computer, engaging in physical hobbies, spending time with my family, and traveling. Some day I would like to do a sabbatical where I spend time doing fun things on a computer (like the [Recurse Center](https://www.recurse.com/)) but this was exactly what I needed to take a step back given the state of the tech industry right now. I am feeling re-invigorated and anxious to get back to work.
 
-## Upcoming
+## Recently
 
-I am currently training for the 2025 Chicago Marathon, using the [Hal Higdon intermediate 1 training plan](https://www.halhigdon.com/training-programs/marathon-training/intermediate-1-marathon/).
+On October 12 I completed the 2025 Chicago Marathon with a time of 4 hours and 11 minutes - a 16 minute PR! I followed the [Hal Higdon Intermediate 1 training plan](https://www.halhigdon.com/training-programs/marathon-training/intermediate-1-marathon/) and have logged more than 800 running miles so far this year.
+
+I also took at sabbatical from my full-time job at  [Zendesk](https://zendesk.com) earlier this Summer. I spent most of my time off away from my computer, engaging in physical hobbies, spending time with my family, and traveling. Some day I would like to do a sabbatical where I spend time doing fun things on a computer (like the [Recurse Center](https://www.recurse.com/)) but this was exactly what I needed to take a step back given the state of the tech industry.
 
 ## Projects
 
@@ -75,19 +76,18 @@ I got a Switch 2!
 
 Most recent at the top, but all of these are kind of in rotation at the moment...
 
+- [Final Fantasy XIV](https://finalfantasyxiv.com/)
+- [Timberborn](https://store.steampowered.com/app/1062090/Timberborn/)
+- [Fantasy Life i: The Girl Who Steals Time](https://store.steampowered.com/app/2993780/FANTASY_LIFE_i_The_Girl_Who_Steals_Time/)
 - [Donkey Kong Bananza](https://www.nintendo.com/us/gaming-systems/switch-2/featured-games/donkey-kong-bananza/)
 - [Bravely Default Flying Fairy HD Remaster](https://www.nintendo.com/us/store/products/bravely-default-flying-fairy-hd-remaster-switch-2/)
-- [Mario Kart World](https://www.nintendo.com/us/gaming-systems/switch-2/featured-games/mario-kart-world/world/)
-- [Fantasy Life i: The Girl Who Steals Time](https://store.steampowered.com/app/2993780/FANTASY_LIFE_i_The_Girl_Who_Steals_Time/)
-- [Stellar Blade](https://store.steampowered.com/app/3489700/Stellar_Blade/)
 - [Xenoblade Chronicles 2](https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-switch/)
-- [Stardew Valley (1.6 Update!)](https://www.stardewvalley.net/)
 - [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/)
-- [Bloomtown: A Different Story](https://store.steampowered.com/app/2445990/Bloomtown_A_Different_Story/)
 
 ### Always Playing
 
 - [Balatro](https://www.playbalatro.com/)
+- [Stardew Valley](https://www.stardewvalley.net/)
 
 ---
 
