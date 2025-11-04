@@ -51,7 +51,7 @@ whitelist:
 author:
   name: "Dakota Chambers"
   bio: "SWE/Tech Lead at Zendesk, working on tools for Kubernetes, app configuration, and deployment."
-  avatar: "/assets/images/dakota_avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/dakota_avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   location: "Madison, WI"
   twitter: dakotachambers
   github: dcchambers
