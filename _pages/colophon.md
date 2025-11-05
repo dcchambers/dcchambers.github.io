@@ -8,11 +8,11 @@ This Colophon[^1] is inspired by [Maggie Appleton](https://maggieappleton.com/)
 
 ## Technology
 
-This website is build using the very popular and powerful [Jekyll](https://jekyllrb.com/) static site generator.
+This website is built using the very popular and powerful [Jekyll](https://jekyllrb.com/) static site generator.
 The source code is available on [GitHub](https://github.com/dcchambers/dcchambers.github.io).
 
 It's hosted on [GitHub Pages](https://pages.github.com/) which has ample free hosting for most blogs unless you're getting a ton of traffic.
-GitHub Pages also has first-class support for Jekyll so launching a site is dead simple.
+GitHub Pages also has first-class support for Jekyll.
 
 It's 100% static with no dynamically generated content, which keeps it simple and prevents the need for a backend database.
 There is no CMS - only plain text files written in [Markdown](https://daringfireball.net/projects/markdown/) and stored in a git repo.
