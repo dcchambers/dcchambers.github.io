@@ -4,7 +4,7 @@ permalink: /colophon
 title: "Colophon"
 ---
 
-This Colophon[^1] is inspired by [Maggie Appleton](https://maggieappleton.com/)
+This Colophon[^1] is inspired by [Maggie Appleton](https://maggieappleton.com/).
 
 ## Technology
 
