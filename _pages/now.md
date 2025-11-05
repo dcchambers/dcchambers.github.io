@@ -2,12 +2,11 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-10-22
+last_modified_at: 2025-11-05
 last_modified_location: "my home in Wisconsin."
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
-
 
 ## Recently
 
@@ -29,7 +28,8 @@ I always find myself reading too many books at once.
 
 | Fiction | Non-Fiction |
 | --- | --- |
-| [Blood Meridian](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
+| [Misery](https://www.goodreads.com/book/show/10614.Misery) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
+| [Blood Meridian](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) | |
 | [The Gate of the Feral Gods (DCC Book 4)](https://www.goodreads.com/book/show/57905101-the-gate-of-the-feral-gods) | |
 | [Circe](https://www.goodreads.com/book/show/35959740-circe) | |
 
@@ -40,7 +40,7 @@ I always find myself reading too many books at once.
 | Catch-22 | Mark Twain by Ron Chernow |
 | The Count of Monte Cristo | Everything is Tuberculosis |
 | The Four Winds | Abundance |
-| The House in the Cerulean Sea | |
+| The House in the Cerulean Sea |
 
 See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-chambers?ref=nav_mybooks&shelf=to-read).
 
