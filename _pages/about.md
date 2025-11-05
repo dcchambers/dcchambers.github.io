@@ -3,13 +3,7 @@ layout: page
 permalink: /about
 ---
 
-Hey there, I'm Dakota!
-
-I am a software engineer and tech lead at [Zendesk](https://www.zendesk.com) working on the Engineering Productivity - Deploy Platform team.
-We build tools for configuring and deploying software to millions of customers around the world.
-
-When I'm not in front of a computer I enjoy running, biking, reading, baking sourdough bread and pizza, and drinking coffee.
-I live in Madison, WI with my wife, two young kids, and dog.
+{{ site.author.bio }}
 
 ---
 
