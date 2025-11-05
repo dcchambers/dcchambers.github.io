@@ -1,6 +1,5 @@
 ---
 layout: page
-author_profile: true
 ---
 
 {{ site.author.bio }}
