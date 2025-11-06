@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-11-05
+last_modified_at: 2025-11-06
 last_modified_location: "my home in Wisconsin."
 ---
 
@@ -28,8 +28,7 @@ I always find myself reading too many books at once.
 
 | Fiction | Non-Fiction |
 | --- | --- |
-| [Misery](https://www.goodreads.com/book/show/10614.Misery) | [The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
-| [Blood Meridian](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) | |
+| [Blood Meridian](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) |[The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
 | [The Gate of the Feral Gods (DCC Book 4)](https://www.goodreads.com/book/show/57905101-the-gate-of-the-feral-gods) | |
 | [Circe](https://www.goodreads.com/book/show/35959740-circe) | |
 
@@ -53,8 +52,9 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 - The Wheel of Time (0/15 done)
 - Mistborn Saga (0/7 done)
 
-### Books Read in 2025
+### Books I Read in 2025
 
+- [Misery](https://www.goodreads.com/book/show/10614.Misery)
 - [A Dance with Dragons](https://www.goodreads.com/book/show/13422727-a-dance-with-dragons)
 - [Wool](https://www.goodreads.com/book/show/13453029-wool-omnibus)
 - [Yumi and the Nightmare Painter](https://www.goodreads.com/book/show/60531416-yumi-and-the-nightmare-painter)
