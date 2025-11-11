@@ -44,8 +44,8 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 
 #### Fiction
 
-- [Catch-22]
-- [The Count of Monte Cristo]
+- [Catch-22](https://en.wikipedia.org/wiki/Catch-22)
+- [The Count of Monte Cristo](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)
 
 #### Non-Fiction
 
