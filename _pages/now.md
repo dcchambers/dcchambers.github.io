@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-11-06
+last_modified_at: 2025-11-11
 last_modified_location: "my home in Wisconsin."
 ---
 
@@ -12,7 +12,7 @@ Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.la
 
 On October 12 I completed the 2025 Chicago Marathon with a time of 4 hours and 11 minutes - a 16 minute PR! I followed the [Hal Higdon Intermediate 1 training plan](https://www.halhigdon.com/training-programs/marathon-training/intermediate-1-marathon/) and have logged more than 800 running miles so far this year.
 
-I also took at sabbatical from my full-time job at  [Zendesk](https://zendesk.com) earlier this Summer. I spent most of my time off away from my computer, engaging in physical hobbies, spending time with my family, and traveling. Some day I would like to do a sabbatical where I spend time doing fun things on a computer (like the [Recurse Center](https://www.recurse.com/)) but this was exactly what I needed to take a step back given the state of the tech industry.
+I took at sabbatical from my full-time job at  [Zendesk](https://zendesk.com) earlier this Summer. I spent most of my time off away from my computer, engaging in physical hobbies, spending time with my family, and traveling. Some day I would like to do a sabbatical where I spend time doing fun things on a computer (like the [Recurse Center](https://www.recurse.com/)) but this was exactly what I needed to take a step back given the state of the tech industry.
 
 ## Projects
 
@@ -22,28 +22,38 @@ I also took at sabbatical from my full-time job at  [Zendesk](https://zendesk.co
 
 ## Reading
 
-I always find myself reading too many books at once.
+I often find myself reading too many books at once.
 
 ### Currently
 
-| Fiction | Non-Fiction |
-| --- | --- |
-| [Blood Meridian](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) |[The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation) |
-| [The Gate of the Feral Gods (DCC Book 4)](https://www.goodreads.com/book/show/57905101-the-gate-of-the-feral-gods) | |
-| [Circe](https://www.goodreads.com/book/show/35959740-circe) | |
+#### Fiction
+
+- [Circe](https://madelinemiller.com/circe/)
+- [The Gates of the Feral Gods](https://www.penguinrandomhouse.com/books/788551/the-gate-of-the-feral-gods-by-matt-dinniman/)
+- [Blood Meridian](https://en.wikipedia.org/wiki/Blood_Meridian)
+
+#### Non-Fiction
+
+- [The Anxious Generation](https://www.anxiousgeneration.com/)
+- [On Tyranny](https://timothysnyder.org/on-tyranny)
+- [Ikigai - The Japanese Secret to a Long and Happy Life](https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/)
 
 ### On-deck
 
-| Fiction | Non-Fiction |
-| --- | --- |
-| Catch-22 | Mark Twain by Ron Chernow |
-| The Count of Monte Cristo | Everything is Tuberculosis |
-| The Four Winds | Abundance |
-| The House in the Cerulean Sea |
-
 See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-chambers?ref=nav_mybooks&shelf=to-read).
 
-### Series I am currently reading
+#### Fiction
+
+- [Catch-22]
+- [The Count of Monte Cristo]
+
+#### Non-Fiction
+
+- [Mark Twain](https://www.penguinrandomhouse.com/books/599856/mark-twain-by-ron-chernow/)
+- [Everything is Tuberculosis](https://everythingistb.com/)
+- [Abundance](https://www.simonandschuster.com/books/Abundance/Ezra-Klein/9781668023488)
+
+### Multi-Book Series I Am Currently Reading
 
 - Dungeon Crawler Carl (3/7 done)
 - The Stormlight Archive (1/5 done)
@@ -54,7 +64,7 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 
 ### Books I Read in 2025
 
-- [Misery](https://www.goodreads.com/book/show/10614.Misery)
+- [Misery](https://stephenking.com/works/novel/misery.html)
 - [A Dance with Dragons](https://www.goodreads.com/book/show/13422727-a-dance-with-dragons)
 - [Wool](https://www.goodreads.com/book/show/13453029-wool-omnibus)
 - [Yumi and the Nightmare Painter](https://www.goodreads.com/book/show/60531416-yumi-and-the-nightmare-painter)
@@ -65,8 +75,8 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 - [Onyx Storm](https://www.goodreads.com/book/show/209439446-onyx-storm)
 - [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden)
 - [The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings)
-- [Carl's Doomsday Scenario](https://mattdinniman.com/book-series/dungeon-crawler-carl/)
-- [Dungeon Crawler Carl](https://mattdinniman.com/book/dungeon-crawler-carl/)
+- [Carl's Doomsday Scenario](https://www.penguinrandomhouse.com/books/772013/carls-doomsday-scenario-by-matt-dinniman/)
+- [Dungeon Crawler Carl](https://www.penguinrandomhouse.com/books/772002/dungeon-crawler-carl-by-matt-dinniman/)
 
 ## Games
 
