@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-11-11
+last_modified_at: 2025-11-17
 last_modified_location: "my home in Wisconsin."
 ---
 
@@ -28,7 +28,6 @@ I often find myself reading too many books at once.
 
 #### Fiction
 
-- [Circe](https://madelinemiller.com/circe/)
 - [The Gates of the Feral Gods](https://www.penguinrandomhouse.com/books/788551/the-gate-of-the-feral-gods-by-matt-dinniman/)
 - [Blood Meridian](https://en.wikipedia.org/wiki/Blood_Meridian)
 
@@ -64,6 +63,7 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 
 ### Books I Read in 2025
 
+- [Circe](https://madelinemiller.com/circe/)
 - [Misery](https://stephenking.com/works/novel/misery.html)
 - [A Dance with Dragons](https://www.goodreads.com/book/show/13422727-a-dance-with-dragons)
 - [Wool](https://www.goodreads.com/book/show/13453029-wool-omnibus)
