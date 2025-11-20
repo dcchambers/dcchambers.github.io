@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-11-17
+last_modified_at: 2025-11-19
 last_modified_location: "my home in Wisconsin."
 ---
 
@@ -16,7 +16,7 @@ I took at sabbatical from my full-time job at  [Zendesk](https://zendesk.com) ea
 
 ## Projects
 
-- [Olima](https://olimahq.com) - coming soon.
+- Building [Olima](https://olimahq.com) and [Olipods](https://olipods.com).
 - [oliver - a jekyll theme](https://github.com/dcchambers/oliver) - a new design for my personal website.
   I really like Jekyll, but I have very little experience with frontend web development (mainly CSS), so it's been a good learning project.
 
@@ -44,6 +44,7 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 
 #### Fiction
 
+- [The Will of the Many](https://bookshop.org/p/books/the-will-of-the-many-james-islington/af73e6372152f868?ean=9781982141172&next=t)
 - [The Count of Monte Cristo](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)
 
 #### Non-Fiction
