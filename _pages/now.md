@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-11-19
+last_modified_at: 2025-11-21
 last_modified_location: "my home in Wisconsin."
 ---
 
@@ -29,6 +29,7 @@ I often find myself reading too many books at once.
 #### Fiction
 
 - [The Gates of the Feral Gods](https://www.penguinrandomhouse.com/books/788551/the-gate-of-the-feral-gods-by-matt-dinniman/)
+- [The Will of the Many](https://bookshop.org/p/books/the-will-of-the-many-james-islington/af73e6372152f868?ean=9781982141172&next=t)
 - [Catch-22](https://en.wikipedia.org/wiki/Catch-22)
 - [Blood Meridian](https://en.wikipedia.org/wiki/Blood_Meridian)
 
@@ -44,7 +45,6 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 
 #### Fiction
 
-- [The Will of the Many](https://bookshop.org/p/books/the-will-of-the-many-james-islington/af73e6372152f868?ean=9781982141172&next=t)
 - [The Count of Monte Cristo](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)
 
 #### Non-Fiction
