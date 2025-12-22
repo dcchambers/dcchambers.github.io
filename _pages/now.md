@@ -2,13 +2,15 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-11-21
-last_modified_location: "my home in Wisconsin."
+last_modified_at: 2025-12-22
+last_modified_location: "my cozy, snow-wrapped home in Wisconsin."
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
 
 ## Recently
+
+In early December I went on a Caribbean cruise vacation with the family, with stops in St. Thomas (USVI), St. Maarten, San Juan Puerto Rico, and the Bahamas. It was nice to soak up some sun before our long, cold, and dry winter up here in Wisconsin.
 
 On October 12 I completed the 2025 Chicago Marathon with a time of 4 hours and 11 minutes - a 16 minute PR! I followed the [Hal Higdon Intermediate 1 training plan](https://www.halhigdon.com/training-programs/marathon-training/intermediate-1-marathon/) and have logged more than 800 running miles so far this year.
 
@@ -41,17 +43,7 @@ I often find myself reading too many books at once.
 
 ### On-deck
 
-See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-chambers?ref=nav_mybooks&shelf=to-read).
-
-#### Fiction
-
-- [The Count of Monte Cristo](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)
-
-#### Non-Fiction
-
-- [Mark Twain](https://www.penguinrandomhouse.com/books/599856/mark-twain-by-ron-chernow/)
-- [Everything is Tuberculosis](https://everythingistb.com/)
-- [Abundance](https://www.simonandschuster.com/books/Abundance/Ezra-Klein/9781668023488)
+See my [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-chambers?ref=nav_mybooks&shelf=to-read) or my [2026 reading list](https://www.goodreads.com/review/list/44353038?shelf=2026-reading-list).
 
 ### Multi-Book Series I Am Currently Reading
 
@@ -64,6 +56,7 @@ See more at [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-da
 
 ### Books I Read in 2025
 
+- [Killers of the Flower Moon](https://www.davidgrann.com/book/killers-of-the-flower-moon/)
 - [Circe](https://madelinemiller.com/circe/)
 - [Misery](https://stephenking.com/works/novel/misery.html)
 - [A Dance with Dragons](https://www.goodreads.com/book/show/13422727-a-dance-with-dragons)
