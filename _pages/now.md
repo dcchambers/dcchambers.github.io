@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2025-12-22
+last_modified_at: 2026-01-05
 last_modified_location: "my cozy, snow-wrapped home in Wisconsin."
 ---
 
@@ -10,11 +10,9 @@ Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.la
 
 ## Recently
 
-In early December I went on a Caribbean cruise vacation with the family, with stops in St. Thomas (USVI), St. Maarten, San Juan Puerto Rico, and the Bahamas. It was nice to soak up some sun before our long, cold, and dry winter up here in Wisconsin.
+Happy new year!
 
-On October 12 I completed the 2025 Chicago Marathon with a time of 4 hours and 11 minutes - a 16 minute PR! I followed the [Hal Higdon Intermediate 1 training plan](https://www.halhigdon.com/training-programs/marathon-training/intermediate-1-marathon/) and have logged more than 800 running miles so far this year.
-
-I took at sabbatical from my full-time job at  [Zendesk](https://zendesk.com) earlier this Summer. I spent most of my time off away from my computer, engaging in physical hobbies, spending time with my family, and traveling. Some day I would like to do a sabbatical where I spend time doing fun things on a computer (like the [Recurse Center](https://www.recurse.com/)) but this was exactly what I needed to take a step back given the state of the tech industry.
+2025 recap coming soon...
 
 ## Projects
 
@@ -26,12 +24,14 @@ I took at sabbatical from my full-time job at  [Zendesk](https://zendesk.com) ea
 
 I often find myself reading too many books at once.
 
+I am calling 2026 the "Year of the Chunky Book" since many of the books I want to read this year are...rather enormous.
+
 ### Currently
 
 #### Fiction
 
-- [The Gates of the Feral Gods](https://www.penguinrandomhouse.com/books/788551/the-gate-of-the-feral-gods-by-matt-dinniman/)
-- [The Will of the Many](https://bookshop.org/p/books/the-will-of-the-many-james-islington/af73e6372152f868?ean=9781982141172&next=t)
+- [The Count of Monte Cristo (Robin Buss Translation)](https://www.penguinrandomhouse.com/books/286345/the-count-of-monte-cristo-by-alexandre-dumas-pere-translated-with-an-introduction-and-notes-by-robin-buss-cover-ilustration-by-coralie-bickford-smith/)
+- [The Butcher's Masquerade](https://www.penguinrandomhouse.com/books/788552/the-butchers-masquerade-by-matt-dinniman/)
 - [Catch-22](https://en.wikipedia.org/wiki/Catch-22)
 - [Blood Meridian](https://en.wikipedia.org/wiki/Blood_Meridian)
 
@@ -45,17 +45,10 @@ I often find myself reading too many books at once.
 
 See my [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-chambers?ref=nav_mybooks&shelf=to-read) or my [2026 reading list](https://www.goodreads.com/review/list/44353038?shelf=2026-reading-list).
 
-### Multi-Book Series I Am Currently Reading
-
-- Dungeon Crawler Carl (3/7 done)
-- The Stormlight Archive (1/5 done)
-- Children of Time (1/3 done)
-- Dune (1/6 done)
-- The Wheel of Time (0/15 done)
-- Mistborn Saga (0/7 done)
-
 ### Books I Read in 2025
 
+- [The Gates of the Feral Gods](https://www.penguinrandomhouse.com/books/788551/the-gate-of-the-feral-gods-by-matt-dinniman/)
+- [The Will of the Many](https://bookshop.org/p/books/the-will-of-the-many-james-islington/af73e6372152f868?ean=9781982141172&next=t)
 - [Killers of the Flower Moon](https://www.davidgrann.com/book/killers-of-the-flower-moon/)
 - [Circe](https://madelinemiller.com/circe/)
 - [Misery](https://stephenking.com/works/novel/misery.html)
@@ -72,26 +65,23 @@ See my [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-
 - [Carl's Doomsday Scenario](https://www.penguinrandomhouse.com/books/772013/carls-doomsday-scenario-by-matt-dinniman/)
 - [Dungeon Crawler Carl](https://www.penguinrandomhouse.com/books/772002/dungeon-crawler-carl-by-matt-dinniman/)
 
-## Games
+## Playing
 
-I got a Switch 2!
-
-### Now Playing
-
-Most recent at the top, but all of these are kind of in rotation at the moment...
-
+- [Stardew Valley](https://www.stardewvalley.net/)
+- [Balatro](https://www.playbalatro.com/)
 - [Final Fantasy XIV](https://finalfantasyxiv.com/)
-- [Timberborn](https://store.steampowered.com/app/1062090/Timberborn/)
-- [Fantasy Life i: The Girl Who Steals Time](https://store.steampowered.com/app/2993780/FANTASY_LIFE_i_The_Girl_Who_Steals_Time/)
-- [Donkey Kong Bananza](https://www.nintendo.com/us/gaming-systems/switch-2/featured-games/donkey-kong-bananza/)
 - [Bravely Default Flying Fairy HD Remaster](https://www.nintendo.com/us/store/products/bravely-default-flying-fairy-hd-remaster-switch-2/)
 - [Xenoblade Chronicles 2](https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-switch/)
 - [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/)
 
-### Always Playing
+## Watching
 
-- [Balatro](https://www.playbalatro.com/)
-- [Stardew Valley](https://www.stardewvalley.net/)
+Nothing regular at the moment.
+
+Recently watched:
+
+- [Wake Up Dead Man](https://www.imdb.com/title/tt14364480/)
+- [Stranger Things 5](https://www.imdb.com/title/tt4574334/)
 
 ---
 
