@@ -2,8 +2,8 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-01-05
-last_modified_location: "my cozy, snow-wrapped home in Wisconsin."
+last_modified_at: 2026-01-12
+last_modified_location: "my home in Wisconsin."
 ---
 
 Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
