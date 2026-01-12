@@ -42,7 +42,9 @@ I am calling 2026 the "Year of the Chunky Book" since many of the books I want t
 
 ### On-deck
 
-See my [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-chambers?ref=nav_mybooks&shelf=to-read) or my [2026 reading list](https://www.goodreads.com/review/list/44353038?shelf=2026-reading-list).
+See my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dcchambers) or [Goodreads](https://www.goodreads.com/user/show/44353038-dakota-chambers).
+
+Note: I set up a StoryGraph account at the beginning of the year - tenatively planning on switching to that from Goodreads, but I am updating both for now.
 
 ### Books I read this year
 
