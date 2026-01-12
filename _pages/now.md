@@ -30,10 +30,9 @@ I am calling 2026 the "Year of the Chunky Book" since many of the books I want t
 
 #### Fiction
 
-- [The Count of Monte Cristo (Robin Buss Translation)](https://www.penguinrandomhouse.com/books/286345/the-count-of-monte-cristo-by-alexandre-dumas-pere-translated-with-an-introduction-and-notes-by-robin-buss-cover-ilustration-by-coralie-bickford-smith/)
-- [The Butcher's Masquerade](https://www.penguinrandomhouse.com/books/788552/the-butchers-masquerade-by-matt-dinniman/)
-- [Catch-22](https://en.wikipedia.org/wiki/Catch-22)
 - [Blood Meridian](https://en.wikipedia.org/wiki/Blood_Meridian)
+- [Catch-22](https://en.wikipedia.org/wiki/Catch-22)
+- [The Count of Monte Cristo (Robin Buss Translation)](https://www.penguinrandomhouse.com/books/286345/the-count-of-monte-cristo-by-alexandre-dumas-pere-translated-with-an-introduction-and-notes-by-robin-buss-cover-ilustration-by-coralie-bickford-smith/)
 
 #### Non-Fiction
 
@@ -44,6 +43,10 @@ I am calling 2026 the "Year of the Chunky Book" since many of the books I want t
 ### On-deck
 
 See my [my Goodreads TBR](https://www.goodreads.com/review/list/44353038-dakota-chambers?ref=nav_mybooks&shelf=to-read) or my [2026 reading list](https://www.goodreads.com/review/list/44353038?shelf=2026-reading-list).
+
+### Books I read this year
+
+- [The Butcher's Masquerade](https://www.penguinrandomhouse.com/books/788552/the-butchers-masquerade-by-matt-dinniman/)
 
 ### Books I Read in 2025
 
