@@ -6,3 +6,7 @@ tags:
 ---
 
 {{ page.link }}
+
+A good example of bad software design.
+
+Please fix this Apple.
