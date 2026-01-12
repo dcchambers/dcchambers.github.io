@@ -103,6 +103,11 @@ comments:
 
 include:
   - _pages
+  - _lists
+
+collections:
+  lists:
+    output: true
 
 #minimal-mistakes specific
 #paginate: 99 # amount of posts to show on home page.
