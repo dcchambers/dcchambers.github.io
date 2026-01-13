@@ -7,5 +7,5 @@ main:
     url: "/linkblog"
   - title: "Now"
     url: "/now"
-  - title: "Year in Review"
-    url: "/year-in-review"
+  - title: "Lists"
+    url: "/lists"

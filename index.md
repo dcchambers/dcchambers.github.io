@@ -9,6 +9,7 @@ layout: page
 - My [omg.lol](https://dakota.omg.lol/) page has a list of places you can find me online.
 - Check out my [`/now` page]({% link _pages/now.md %}) to see what I'm doing _right now_.
 - Check out my [`/uses` page]({% link _pages/uses.md %}) to see things I use every day.
+- Check out my annual [Year in Review]({% link _pages/year-in-review.md %}).
 - Check out my [list of lists]({% link _pages/lists.md %}).
 
 ## Recent Posts
