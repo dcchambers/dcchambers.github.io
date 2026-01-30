@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-01-12
+last_modified_at: 2026-01-30
 last_modified_location: "my home in Wisconsin."
 ---
 
@@ -26,19 +26,9 @@ I often find myself reading too many books at once.
 
 I am calling 2026 the "Year of the Chunky Book" since many of the books I want to read this year are...rather enormous.
 
-### Currently
+### Currently Reading
 
-#### Fiction
-
-- [Blood Meridian](https://en.wikipedia.org/wiki/Blood_Meridian)
-- [Catch-22](https://en.wikipedia.org/wiki/Catch-22)
-- [The Count of Monte Cristo (Robin Buss Translation)](https://www.penguinrandomhouse.com/books/286345/the-count-of-monte-cristo-by-alexandre-dumas-pere-translated-with-an-introduction-and-notes-by-robin-buss-cover-ilustration-by-coralie-bickford-smith/)
-
-#### Non-Fiction
-
-- [The Anxious Generation](https://www.anxiousgeneration.com/)
-- [On Tyranny](https://timothysnyder.org/on-tyranny)
-- [Ikigai - The Japanese Secret to a Long and Happy Life](https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/)
+- [The Count of Monte Cristo (Robin Buss Translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f?ean=9780140449266&next=t)
 
 ### On-deck
 
@@ -48,7 +38,13 @@ Note: I set up a StoryGraph account at the beginning of the year - tenatively pl
 
 ### Books I read this year
 
-- [The Butcher's Masquerade](https://www.penguinrandomhouse.com/books/788552/the-butchers-masquerade-by-matt-dinniman/)
+#### January
+
+- [The Butcher's Masquerade](https://bookshop.org/p/books/the-butcher-s-masquerade-matt-dinniman/357cb10d2c4ad06d?ean=9780593955994&next=t)
+- [Blood Meridian](https://bookshop.org/p/books/blood-meridian-or-the-evening-redness-in-the-west-cormac-mccarthy/1ba153cae254b572?ean=9780679728757&next=t)
+- [Legends & Lattes](https://bookshop.org/p/books/legends-lattes-a-novel-of-high-fantasy-and-low-stakes-travis-baldree/62d7adba45f0b780)
+- [The Giver](https://bookshop.org/p/books/the-giver-a-newbery-award-winner-lois-lowry/839f94797df1e0b6?ean=9780544336261&next=t)
+- [The Anxious Generation](https://www.anxiousgeneration.com/)
 
 ### Books I Read in 2025
 
