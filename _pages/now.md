@@ -28,13 +28,13 @@ I am calling 2026 the "Year of the Chunky Book" since many of the books I want t
 
 ### Currently Reading
 
-- [The Count of Monte Cristo (Robin Buss Translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f?ean=9780140449266&next=t)
+- [The Count of Monte Cristo (Robin Buss translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f?ean=9780140449266&next=t)
 
 ### On-deck
 
 See my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dcchambers) or [Goodreads](https://www.goodreads.com/user/show/44353038-dakota-chambers).
 
-Note: I set up a StoryGraph account at the beginning of the year - tenatively planning on switching to that from Goodreads, but I am updating both for now.
+Note: I set up a StoryGraph account at the beginning of the year - tentatively planning on switching to that from Goodreads, but I am updating both for now.
 
 ### Books I read this year
 
