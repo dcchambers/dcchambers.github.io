@@ -1,7 +1,8 @@
 ---
 title: "Favorite Coffee Roasters"
 layout: page
-last_modified_at: 2026-01-12
+date: 2026-01-12
+last_modified_at: 2026-01-30
 ---
 
 - [Wonderstate Coffee](https://wonderstate.com/)
@@ -12,3 +13,4 @@ last_modified_at: 2026-01-12
 - [Brandywine Coffee Roasters](https://www.brandywinecoffeeroasters.com/)
 - [Little Wolf Coffee](https://littlewolf.coffee/)
 - [Sump Coffee](https://www.sumpcoffee.com/)
+- [Perc Coffee](https://perccoffee.com/)
