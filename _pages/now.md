@@ -10,9 +10,7 @@ Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.la
 
 ## Recently
 
-Happy new year!
-
-2025 recap coming soon...
+I got promoted to Staff Software Engineer at Zendesk!
 
 ## Projects
 
@@ -29,6 +27,7 @@ I am calling 2026 the "Year of the Chunky Book" since many of the books I want t
 ### Currently Reading
 
 - [The Count of Monte Cristo (Robin Buss translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f?ean=9780140449266&next=t)
+- [This Inevitable Ruin](https://bookshop.org/p/books/this-inevitable-ruin-matt-dinniman/4eb739d7e3be4dda?ean=9798217190041&next=t)
 
 ### On-deck
 
@@ -46,43 +45,21 @@ Note: I set up a StoryGraph account at the beginning of the year - tentatively p
 - [The Giver](https://bookshop.org/p/books/the-giver-a-newbery-award-winner-lois-lowry/839f94797df1e0b6?ean=9780544336261&next=t)
 - [The Anxious Generation](https://www.anxiousgeneration.com/)
 
-### Books I Read in 2025
+#### February
 
-- [The Gates of the Feral Gods](https://www.penguinrandomhouse.com/books/788551/the-gate-of-the-feral-gods-by-matt-dinniman/)
-- [The Will of the Many](https://bookshop.org/p/books/the-will-of-the-many-james-islington/af73e6372152f868?ean=9781982141172&next=t)
-- [Killers of the Flower Moon](https://www.davidgrann.com/book/killers-of-the-flower-moon/)
-- [Circe](https://madelinemiller.com/circe/)
-- [Misery](https://stephenking.com/works/novel/misery.html)
-- [A Dance with Dragons](https://www.goodreads.com/book/show/13422727-a-dance-with-dragons)
-- [Wool](https://www.goodreads.com/book/show/13453029-wool-omnibus)
-- [Yumi and the Nightmare Painter](https://www.goodreads.com/book/show/60531416-yumi-and-the-nightmare-painter)
-- [The Dungeon Anarchist's Cookbook](https://mattdinniman.com/book-series/dungeon-crawler-carl/)
-- [Piranesi](https://www.goodreads.com/book/show/50202953-piranesi)
-- [The Frugal Wizard’s Handbook for Surviving Medieval England](https://goodreads.com/book/show/60531410-the-frugal-wizard-s-handbook-for-surviving-medieval-england)
-- [Good Morning, Midnight](https://www.lilybrooksdalton.com/good-morning-midnight.html)
-- [Onyx Storm](https://www.goodreads.com/book/show/209439446-onyx-storm)
-- [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden)
-- [The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings)
-- [Carl's Doomsday Scenario](https://www.penguinrandomhouse.com/books/772013/carls-doomsday-scenario-by-matt-dinniman/)
-- [Dungeon Crawler Carl](https://www.penguinrandomhouse.com/books/772002/dungeon-crawler-carl-by-matt-dinniman/)
+- [The Eye of the Bedlam Bride](https://bookshop.org/p/books/the-eye-of-the-bedlam-bride-matt-dinniman/488d2108a7ac239f?ean=9780593956014&next=t)
 
 ## Playing
 
 - [Stardew Valley](https://www.stardewvalley.net/)
 - [Balatro](https://www.playbalatro.com/)
-- [Final Fantasy XIV](https://finalfantasyxiv.com/)
 - [Bravely Default Flying Fairy HD Remaster](https://www.nintendo.com/us/store/products/bravely-default-flying-fairy-hd-remaster-switch-2/)
 - [Xenoblade Chronicles 2](https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-switch/)
 - [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/)
 
 ## Watching
 
-Nothing regular at the moment.
-
-Recently watched:
-
-- [Wake Up Dead Man](https://www.imdb.com/title/tt14364480/)
-- [Stranger Things 5](https://www.imdb.com/title/tt4574334/)
+- College basketball
 
 ---
 
