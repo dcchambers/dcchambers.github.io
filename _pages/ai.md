@@ -2,11 +2,11 @@
 layout: page
 title: "AI Usage"
 permalink: /ai
-last_modified_at: 2025-03-17
+last_modified_at: 2026-03-04
 ---
 
 It's important to set personal limits on how we approach and use AI tools as they becomes more prevalent throughout our society.
-I have created this [permanent page](ai.md), inspired by [Dever Sivers](https://sive.rs/ai) and [Damola Morenikeji](https://www.bydamo.la/p/ai-manifesto).
+I have created this [permanent page](ai.md), inspired by [Derek Sivers](https://sive.rs/ai) and [Damola Morenikeji](https://www.bydamo.la/p/ai-manifesto).
 I will keep it updated with how I personally use AI to *add value to my life* in a sustainable way.
 
 ## Writing
@@ -28,7 +28,9 @@ Ones that are transactional in nature - ones that don't require me to flex those
 
 ## Research
 
-I do use AI (primarily ChatGPT, but also Gemini) for general Q&A and research, and I think this is one thing it excels at.
+I often use AI (primarily Gemini) for general Q&A and research.
+This is an area modern LLMs excel at.
+Combine that with web search and multi-modal capabilities, these tools are, quite frankly, incredible.
 
 My Pixel 9 Pro that I purchased in December 2024 included a free one year subscription to Google's Gemini Advanced AI, and it's been a really great conversational research "partner".
 The conversational style voice synthesis is really, scary good.
@@ -47,19 +49,43 @@ I wouldn't use it to answer a question that I need to 100% verify is correct, bu
 
 ## Software Development
 
-I do use ChatGPT/Gemini semi-frequently with coding and other technical questions.
-This could be something as simple as "what does this library do?" to "write a cron schedule that runs every Friday at 2AM".
+Around the turn of the new year in 2026 I started experimenting with coding agents - first [Claude Code](https://claude.com/product/claude-code) and later [OpenCode](https://opencode.ai/) and I have to say - they are incredibly powerful.
 
-At work I use GitHub Copilot to help write code. It's pretty good at boilerplate code generation and for helping act as an "advanced autocomplete" tool that will fill in details I alreayd have in my head.
-I use the [Zed](https://zed.dev/) editor mainly and have recently begun experimenting with their AI-powereod inline code completion tool.
-It lets you choose your own LLM backend amongst many they support, so I can use my GitHub Copilot license for work stuff but I use a Google Gemini API key for personal stuff.
+At work (Zendesk) I use Claude Code almost daily for writing code.
+I do not blindly accept whatever code Claude wants to give me (vibe coding) but I do use it in a couple ways:
 
-## Other Generative AI
+1. A "first-pass" at writing a feature.
+2. A starting point for something I'm thinking about.
+3. Writing tests.
+4. Writing lots of boilerplate.
+5. Writing documentation.
+6. Simple questions (syntax, regexes, etc)
 
-I don't currently use any kind of image, video, or audio generative AI.
-I don't have a need to, and I personally prefer art made by actual people.
+I almost never accept the first pass at what it has written.
+I will usually tweak it, expand, or (most often) remove complexity.
+But it's undeniable how much more a coding agent can make you **if you already know what you're doing and clearly know what you're looking for**.
 
-## Things I am Interested In
+For personal coding projects, I use OpenCode in the same capacity.
+I use OpenCode because I can hop around to different models (and take advantages of discounts).
+I also get to support an excellent open source product.
 
-Traditional text-to-speech tools are pretty bad.
-I really would like to be able to send an article to one of these advanced voice AI tools and have it read it to me like a podcast/audiobook.
+I use Gemini for lots of quick question answering and even generating small bits of code.
+
+I use Claude Code + ChatGPT (at work) and OpenCode + Gemini (personal).
+
+I also have in-line AI code completion turned on in my preferred editor ([Zed](https://zed.dev)) and it's become invaluable.
+
+## Agents
+
+Everyone these days is talking about [Openclaw](https://github.com/openclaw/openclaw).
+  
+It's a very cool and surprisingly simple tool.
+From a hacker's perspective, I love it.
+The potential is amazing.
+But there are (currently) far too many risks (security, alignment, etc) for me to blindly give an agent like this access to things I care about.
+I think everyone should spend time playing with OpenClaw (or other open agent implementatios) in a sandboxed environment to see what they can do.
+
+### CLIs
+
+CLIs are making a major comeback in 2026 because it turns out they're the perfect interface for generic agents to interact with your application/service data.
+If you have a powerful API (and a good CLI that exposes it) an agent can do pretty much anything.
