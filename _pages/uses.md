@@ -76,6 +76,10 @@ These are things I use pretty much every day:
 
 I'm a programming language polyglot, but I tend to favor Ruby, Go, and good 'ol Bash.
 
+### AI
+
+- See [how I use AI]({% link _pages/ai.md %})
+
 ## Everything Else
 
 ### Transportation
@@ -84,7 +88,7 @@ I'm a programming language polyglot, but I tend to favor Ruby, Go, and good 'ol 
   - Chevy Cruze
   - Jeep Grand Cherokee
 - 🚲 [Surly Straggler](https://surlybikes.com/bikes/straggler), color: "Salmon Candy Red"
-- 👟 Shoes (probably white) from Kizik, New Balance, or Nike
+- 👟 Shoes (probably white) from New Balance, Nike, or Kizik
   - Kizik's "hands free" thing seems silly, but is an absolute lifesaver with young kids or babies.
 
 ### Coffee Gear
@@ -94,6 +98,9 @@ I'm a programming language polyglot, but I tend to favor Ruby, Go, and good 'ol 
 - Bonavita 1L Variable Temp Electric Kettle
 - Origami Dripper
 - Kalita Wave Dripper
+- Fellow Aiden (Drip/Automatic)
+- Rancilio Silvia Espresso Machine
+- 
 
 ### Other Electronics
 
@@ -116,4 +123,4 @@ I'm a programming language polyglot, but I tend to favor Ruby, Go, and good 'ol 
 - Writing Style: [Chicago Manual of Style](https://www.chicagomanualofstyle.org/)
   - Yes, I have a physical copy (15th Edition)!
   - Oxford Comma: **always**
-- Dictionary: [Merriam-Webster's Collegiate Dictionary (11th Edition)](https://shop.merriam-webster.com/products/merriam-websters-collegiate-dictionary-eleventh-edition)
+- Dictionary: [Merriam-Webster's Collegiate Dictionary (12th Edition)](https://shop.merriam-webster.com/products/merriam-websters-collegiate-dictionary-twelfth-edition)
