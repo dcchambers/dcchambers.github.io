@@ -10,71 +10,45 @@ I am a software developer (profesionally, and for fun) so that is the focus of t
 
 ### Hardware
 
-- My personal laptop: Macbook Air (2022)
+#### Personal Workstation
+
+- **Apple** Macbook Air (2022)
   - M2, 24GB RAM, 512GB SSD
-  - Currently on MacOS 14 Sonoma
-- My work-supplied laptop: Macbook Pro 16" (2021)
-  - M1 Pro, 32GB RAM, 512GB SSD
-  - Currently on MacOS 14 Sonoma
-- Gaming Desktop (Winter 2020 Build)
-  - Ryzen 5 5600X | RTX 3060 Ti | 32GB DDR4 | MSI X570 Unify | Samsung 980 Pro 1TB
-  - Windows 10
-- Steam Deck OLED (Gaming and general nerd stuff)
-  - 1TB SSD
-  - SteamOS (Linux)
+  - MacOS Sequoia
+- **Dell** U2720Q
+  - 27" 4K
+- **PFU Ltd.** HHKB (Happy Hacking Keyboard) Pro Hybrid Type-S
+- **Apple** [Magic Trackpad]
 
-#### Retired Computer I haven't gotten rid of for some reason
+#### Other Computer Hardware
 
-- 2015 13" Macbook Pro
-- Old Desktop (2011 Build)
-  - Intel Core i5 2500K | GTX 1060 6GB | 16GB DDR3 | 512GB SSD
-  - Linux | Retired Gaming PC
-
-### Display
-
-- I currently only use a single external display - a 27" 4K Dell. It's minimal and gets the job done well. I would love to upgrade to a 5K Apple display, but I haven't for two reasons:
-  1. They are really expensive.
-  2. While it would work great with my mac laptops, they just don't play nicely with Windows/Linux machines.
-  3. I'm waiting for Apple (or someone else) to release a high-refresh rate 5K display.
-
-### Keyboard
-
-- Currently daily-driving a [HHKB Professional Hybrid Type-S](https://hhkb.io/models/HHKB_Professional_Hybrid/)
-- I own...maybe half a dozen mechanical keyboards with various types of switches and keycaps. Most of them sit on a shelf looking pretty and collecting dust. Turns out you can only really use one keyboard at a time. 😇
-
-### Mouse/Trackpad
-
-- Apple [Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface) - my preferred pointer input for MacOS.
-- Logitech [MX Master 3S](https://www.logitech.com/en-us/products/mice/mx-master-3s.html).
+- Desktop (Winter 2020 Build)
+  - **Fractal** Define case, **AMD** Ryzen 5 5600X, **Nvidia** RTX 3060 Ti, 32GB DDR4
+  - [Omarchy](https://omarchy.org/) Linux
+- **Logitech** [MX Master 3S](https://www.logitech.com/en-us/shop/p/mx-master-3s)
+- **Apple** Mac Mini (2024)
+  - M4, 16GB RAM
+- **Valve** Steam Deck OLED (2023)
 
 ### Software
 
-These are things I use pretty much every day:
 - [Ghostty](https://ghostty.org/)
-- [tmux](https://github.com/tmux/tmux) for window management in my terminal
-  - But I am experimenting with [Zellij](https://zellij.dev/).
-    In general it works **great** but I do encounter occasional bugs.
-- [bash](https://www.gnu.org/software/bash/) is my shell of choice
-  - On MacOS just make sure you use Homebrew to install a newer version instead of the ancient verison that ships with MacOS.
-- [Rectangle.app](https://rectangleapp.com/) for window management elsewhere (**Essential** for MacOS in my opinion)
-- [vim](https://www.vim.org/)
+- [bash](https://www.gnu.org/software/bash/)
+  - On MacOS just make sure you use Homebrew to install a newer version instead of the ancient version that ships with MacOS.
+- [Rectangle.app](https://rectangleapp.com/) - MacOS window management
+- [neovim](https://neovim.io/)
 - [Homebrew](https://brew.sh/)
 - [Raycast](https://www.raycast.com/)
-- [Chrome](https://www.google.com/chrome/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-  - I recently started daily driving Firefox to see what it's like outside of the Chrome ecosystem.
-    Moving all of my passwords from the Google Password Manager to 1Password made this possible/easy.
-    Really liking it so far! Firefox is fast and efficient.
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - primary browser
+- [Chrome](https://www.google.com/chrome/) - backup to Firefox
 - [Zed](https://zed.dev/)
-  - Daily driving Zed now, but I keep [VSCode](https://code.visualstudio.com/) installed as a fallback.
-    So far I haven't really had to use it much though.
 - [Obsidian](https://obsidian.md/)
 - [1Password](https://1password.com/)
-- [TickTick](https://ticktick.com/)
+- [TickTick](https://ticktick.com/) - tasks/TODOs
 
 ### Programming
 
-I'm a programming language polyglot, but I tend to favor Ruby, Go, and good 'ol Bash.
+I'm a programming language polyglot, but I tend to favor [Ruby](https://www.ruby-lang.org/en/), [Go](https://go.dev/), and good 'ol [Bash](https://www.gnu.org/software/bash/).
 
 ### AI
 
@@ -93,34 +67,28 @@ I'm a programming language polyglot, but I tend to favor Ruby, Go, and good 'ol 
 
 ### Coffee Gear
 
-- Baratze Encore Grinder (with burr upgrade)
-- Hario V60 Scale
-- Bonavita 1L Variable Temp Electric Kettle
-- Origami Dripper
-- Kalita Wave Dripper
-- Fellow Aiden (Drip/Automatic)
-- Rancilio Silvia Espresso Machine
-- 
+- **Rancilio** Silvia v1 Espresso Machine
+- **Rancilio** Rocky Grinder
+- **Baratza** Encore Grinder (with burr upgrade)
+- **Hario** V60 Scale
+- **Bonavita** 1L Variable Temp Electric Kettle
+- **Origami** Dripper
+- **Kalita** Wave Dripper
+- **Fellow** Aiden (Drip/Automatic)
 
 ### Other Electronics
 
-- Google Pixel 9 Pro
-- Garmin Forerunner 945
-- Amazon Kindle Paperwhite Signature Ed.
-  - In 2022 my third generation Kindle (with a keyboard) from 2010 finally died (well, I cracked the screen). I do miss the physical buttons, but love the better screen, waterproofing, and wireless charging in my new one. Kindles are seriously one of the best investments you can make, even if you still own/read physical books. I **love** physical books and I still regularly read from my Kindle - often I read digital copies of physical books that I own!
-- Nintendo Switch (launch-era model, neon red and blue)
-- Nintendo Switch 2
-- Some cheap desktop speakers from Logitech (**upgrade needed**)
-- Headphones
-  - My go-to these days is my wireless Sony WH1000XM3.
-  - Pixel Buds A
-    - Google's take on airpods are pretty great!
-  - Also keep a pair of Sony MDR-V6s floating around as a back-up/sometimes for listening to certain things.
-- reMarkable Tablet (first gen)
+- **Google** Pixel 9 Pro 📱
+- **Garmin** Forerunner 945 ⌚
+- **Amazon** Kindle Paperwhite Signature Ed. 📕
+- **Nintendo** Switch 🎮
+- **Nintendo** Switch 2 🎮
+- **Sony** WH1000XM3. 🎧
+- **Google** Pixel Buds A 🎧
+- **Sony** MDR-V6 (backup headphones) 🎧
+- **reMarkable** Tablet (first gen) - mostly unused now. 📕
 
 ### Writing
 
-- Writing Style: [Chicago Manual of Style](https://www.chicagomanualofstyle.org/)
-  - Yes, I have a physical copy (15th Edition)!
-  - Oxford Comma: **always**
-- Dictionary: [Merriam-Webster's Collegiate Dictionary (12th Edition)](https://shop.merriam-webster.com/products/merriam-websters-collegiate-dictionary-twelfth-edition)
+- [Chicago Manual of Style](https://www.chicagomanualofstyle.org/)
+- [Merriam-Webster's Collegiate Dictionary (12th Edition)](https://shop.merriam-webster.com/products/merriam-websters-collegiate-dictionary-twelfth-edition)
