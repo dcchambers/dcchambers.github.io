@@ -18,7 +18,7 @@ I am a software developer (profesionally, and for fun) so that is the focus of t
 - **Dell** U2720Q
   - 27" 4K
 - **PFU Ltd.** HHKB (Happy Hacking Keyboard) Pro Hybrid Type-S
-- **Apple** [Magic Trackpad]
+- **Apple** Magic Trackpad
 
 #### Other Computer Hardware
 
