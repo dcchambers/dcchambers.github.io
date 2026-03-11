@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-01-30
+last_modified_at: 2026-03-11
 last_modified_location: "my home in Wisconsin."
 ---
 
@@ -12,11 +12,12 @@ Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.la
 
 I got promoted to Staff Software Engineer at Zendesk!
 
+I'm spending lots of time exploring how AI is impacting software development and deployments.
+
 ## Projects
 
 - Building [Olima](https://olimahq.com) and [Olipods](https://olipods.com).
 - [oliver - a jekyll theme](https://github.com/dcchambers/oliver) - a new design for my personal website.
-  I really like Jekyll, but I have very little experience with frontend web development (mainly CSS), so it's been a good learning project.
 
 ## Reading
 
@@ -52,14 +53,10 @@ Note: I set up a StoryGraph account at the beginning of the year - tentatively p
 ## Playing
 
 - [Stardew Valley](https://www.stardewvalley.net/)
-- [Balatro](https://www.playbalatro.com/)
-- [Bravely Default Flying Fairy HD Remaster](https://www.nintendo.com/us/store/products/bravely-default-flying-fairy-hd-remaster-switch-2/)
-- [Xenoblade Chronicles 2](https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-switch/)
-- [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/)
 
 ## Watching
 
-- College basketball
+- College basketball (March Madness is almost here!)
 
 ---
 
