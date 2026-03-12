@@ -12,13 +12,14 @@ I am a software developer (profesionally, and for fun) so that is the focus of t
 
 #### Personal Workstation
 
-- **Apple** Macbook Air (2022)
+- **Apple** [Macbook Air (2022)](https://support.apple.com/en-us/111867)
   - M2, 24GB RAM, 512GB SSD
   - MacOS Sequoia
-- **Dell** U2720Q
+- **Dell** [U2720Q](https://www.dell.com/en-us/shop/dell-ultrasharp-27-4k-premiercolor-monitor-up2720q/apd/210-avbp/monitors-monitor-accessories)
   - 27" 4K
-- **PFU Ltd.** HHKB (Happy Hacking Keyboard) Pro Hybrid Type-S
-- **Apple** Magic Trackpad
+- **PFU Ltd.** [HHKB (Happy Hacking Keyboard) Pro Hybrid Type-S](https://hhkeyboard.us/hhkb/pro-hybrid-type-s/white-stamped)
+- **Apple** [Magic Trackpad](https://www.apple.com/shop/product/mxk93am/a/magic-trackpad-usb%E2%80%91c-white-multi-touch-surface)
+- **AnkerWork** [PowerConf C200](https://us.ankerwork.com/collections/all/products/a3369)
 
 #### Other Computer Hardware
 
@@ -26,9 +27,9 @@ I am a software developer (profesionally, and for fun) so that is the focus of t
   - **Fractal** Define case, **AMD** Ryzen 5 5600X, **Nvidia** RTX 3060 Ti, 32GB DDR4
   - [Omarchy](https://omarchy.org/) Linux
 - **Logitech** [MX Master 3S](https://www.logitech.com/en-us/shop/p/mx-master-3s)
-- **Apple** Mac Mini (2024)
+- **Apple** [Mac Mini (2024)](https://www.apple.com/mac-mini/)
   - M4, 16GB RAM
-- **Valve** Steam Deck OLED (2023)
+- **Valve** [Steam Deck OLED (2023)](https://www.steamdeck.com/en/oled)
 
 ### Software
 
