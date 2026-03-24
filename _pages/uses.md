@@ -16,7 +16,6 @@ I am a software developer (profesionally, and for fun) so that is the focus of t
   - M2, 24GB RAM, 512GB SSD
   - MacOS Sequoia
 - **ASUS** [ProArt PA32QCV (32" 6K Thunderbolt 4 Display)](https://www.asus.com/us/displays-desktops/monitors/proart/proart-display-6k-pa32qcv/)
-  - 27" 4K
 - **PFU Ltd.** [HHKB (Happy Hacking Keyboard) Pro Hybrid Type-S](https://hhkeyboard.us/hhkb/pro-hybrid-type-s/white-stamped)
 - **Apple** [Magic Trackpad](https://www.apple.com/shop/product/mxk93am/a/magic-trackpad-usb%E2%80%91c-white-multi-touch-surface)
 - **AnkerWork** [PowerConf C200](https://us.ankerwork.com/collections/all/products/a3369)
