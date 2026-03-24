@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-24
 last_modified_location: "my home in Wisconsin."
 ---
 
@@ -28,7 +28,6 @@ I am calling 2026 the "Year of the Chunky Book" since many of the books I want t
 ### Currently Reading
 
 - [The Count of Monte Cristo (Robin Buss translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f?ean=9780140449266&next=t)
-- [This Inevitable Ruin](https://bookshop.org/p/books/this-inevitable-ruin-matt-dinniman/4eb739d7e3be4dda?ean=9798217190041&next=t)
 
 ### On-deck
 
@@ -50,13 +49,17 @@ Note: I set up a StoryGraph account at the beginning of the year - tentatively p
 
 - [The Eye of the Bedlam Bride](https://bookshop.org/p/books/the-eye-of-the-bedlam-bride-matt-dinniman/488d2108a7ac239f?ean=9780593956014&next=t)
 
+#### March
+
+- [This Inevitable Ruin](https://bookshop.org/p/books/this-inevitable-ruin-matt-dinniman/4eb739d7e3be4dda?ean=9798217190041&next=t)
+
 ## Playing
 
 - [Stardew Valley](https://www.stardewvalley.net/)
 
 ## Watching
 
-- College basketball (March Madness is almost here!)
+- College basketball (RIP my Badgers)
 
 ---
 

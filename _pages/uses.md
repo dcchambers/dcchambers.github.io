@@ -15,7 +15,7 @@ I am a software developer (profesionally, and for fun) so that is the focus of t
 - **Apple** [Macbook Air (2022)](https://support.apple.com/en-us/111867)
   - M2, 24GB RAM, 512GB SSD
   - MacOS Sequoia
-- **Dell** [U2720Q](https://www.dell.com/en-us/shop/dell-ultrasharp-27-4k-premiercolor-monitor-up2720q/apd/210-avbp/monitors-monitor-accessories)
+- **ASUS** [ProArt PA32QCV (32" 6K Thunderbolt 4 Display)](https://www.asus.com/us/displays-desktops/monitors/proart/proart-display-6k-pa32qcv/)
   - 27" 4K
 - **PFU Ltd.** [HHKB (Happy Hacking Keyboard) Pro Hybrid Type-S](https://hhkeyboard.us/hhkb/pro-hybrid-type-s/white-stamped)
 - **Apple** [Magic Trackpad](https://www.apple.com/shop/product/mxk93am/a/magic-trackpad-usb%E2%80%91c-white-multi-touch-surface)
