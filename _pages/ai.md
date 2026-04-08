@@ -2,7 +2,7 @@
 layout: page
 title: "AI Usage"
 permalink: /ai
-last_modified_at: 2026-03-04
+last_modified_at: 2026-04-07
 ---
 
 It's important to set personal limits on how we approach and use AI tools as they becomes more prevalent throughout our society.
@@ -28,12 +28,11 @@ Ones that are transactional in nature - ones that don't require me to flex those
 
 ## Research
 
-I often use AI (primarily Gemini) for general Q&A and research.
+I often use AI (primarily Gemini or Kagi Quick Answer) for general Q&A and research.
 This is an area modern LLMs excel at.
 Combine that with web search and multi-modal capabilities, these tools are, quite frankly, incredible.
 
-My Pixel 9 Pro that I purchased in December 2024 included a free one year subscription to Google's Gemini Advanced AI, and it's been a really great conversational research "partner".
-The conversational style voice synthesis is really, scary good.
+The conversational style voice synthesis in Gemini is really, scary good.
 
 You *do* need to be cautious when using AI tools for research.
 After all LLMs **cannot actually reason** and simply use mathematical probability to generate one token at a time.
@@ -51,8 +50,8 @@ I wouldn't use it to answer a question that I need to 100% verify is correct, bu
 
 Around the turn of the new year in 2026 I started experimenting with coding agents - first [Claude Code](https://claude.com/product/claude-code) and later [OpenCode](https://opencode.ai/) and I have to say - they are incredibly powerful.
 
-At work (Zendesk) I use Claude Code almost daily for writing code.
-I do not blindly accept whatever code Claude wants to give me (vibe coding) but I do use it in a couple ways:
+At work (Zendesk) I use Claude Code daily for writing code.
+I do not blindly accept whatever code Claude wants to give me (vibe coding), but I do use it in a couple ways:
 
 1. A "first-pass" at writing a feature.
 2. A starting point for something I'm thinking about.
@@ -73,7 +72,7 @@ I use Gemini for lots of quick question answering and even generating small bits
 
 I use Claude Code + ChatGPT (at work) and OpenCode + Gemini (personal).
 
-I also have in-line AI code completion turned on in my preferred editor ([Zed](https://zed.dev)) and it's become invaluable.
+I also have in-line AI code completion turned on in my text editor ([Zed](https://zed.dev)), although I do find that less useful these days due to the power of Claude Code and OpenCode.
 
 ## Agents
 
@@ -89,3 +88,9 @@ I think everyone should spend time playing with OpenClaw (or other open agent im
 
 CLIs are making a major comeback in 2026 because it turns out they're the perfect interface for generic agents to interact with your application/service data.
 If you have a powerful API (and a good CLI that exposes it) an agent can do pretty much anything.
+
+## Everything Else
+
+- I like typing. I have [a great keyboard](https://hhkeyboard.us/) and I'm pretty fast, but I have started experimenting with dictation software.
+  - I am using the MacOS [Handy](https://handy.computer/) app which uses local models for voice-to-text transcriptions.
+  - I am also using the [standard MacOS dictation software](https://support.apple.com/en-ca/guide/mac-help/mh40584/mac).
