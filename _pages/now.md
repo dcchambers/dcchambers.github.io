@@ -3,16 +3,19 @@ layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
 last_modified_at: 2026-05-28
-last_modified_location: "the Zendesk office on the Capitol Square in Madison, Wisconsin."
+last_modified_location: "Wisconsin."
 ---
 
-Last updated {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
+Last updated on {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
 
 ## Recently
 
-I got promoted to Staff Software Engineer at Zendesk!
-
 I'm spending lots of time exploring how AI is impacting software development and deployments.
+I am enjoying building things with AI coding agents.
+
+At the same time, I am spending more time "unplugged" and offline.
+When I am home, my phone lives in my kitchen, out of reach.
+I am reading more, running more, and being a more present father.
 
 ## Projects
 
@@ -22,8 +25,6 @@ I'm spending lots of time exploring how AI is impacting software development and
 ## Reading
 
 I often find myself reading too many books at once.
-
-I am calling 2026 the "Year of the Chunky Book" since many of the books I want to read this year are...rather enormous.
 
 ### Currently Reading
 
@@ -60,10 +61,6 @@ Note: I set up a StoryGraph account at the beginning of the year - tentatively p
 
 - [Fantasy Life i](https://www.fantasylife.jp/fli/en/)
 - [Stardew Valley](https://www.stardewvalley.net/)
-
-## Watching
-
-- College basketball (RIP my Badgers)
 
 ---
 
