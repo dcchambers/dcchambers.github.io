@@ -25,7 +25,7 @@ I am reading more, running more, and being a more present father.
   - [Switch 2 Editions of the Xenoblade Chronicles Trilogy](https://www.youtube.com/watch?v=vTaD8maruNs) *(Finally! 🎉)*
   - [Final Fantasy Resonance](https://www.square-enix.com/finalfantasyresonance/en_US/) 💎
   - [Zelda Ocarina of Time Remake](https://www.youtube.com/watch?v=r8eMoxo4ipE)
-  - ..and so much more.
+  - ...and so much more.
 
 ## Projects
 
