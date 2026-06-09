@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-06-03
+last_modified_at: 2026-06-09
 last_modified_location: "Wisconsin."
 ---
 
@@ -16,6 +16,16 @@ I am enjoying building things with AI coding agents.
 At the same time, I am spending more time "unplugged" and offline.
 When I am home, my phone lives in my kitchen, out of reach.
 I am reading more, running more, and being a more present father.
+
+## Things I'm Excited About
+
+- [macOS 27 - Golden Gate](https://en.wikipedia.org/wiki/MacOS_Golden_Gate) looks to revert or fix several of the poor design decisions from [MacOS Tahoe](https://en.wikipedia.org/wiki/MacOS_Tahoe).
+- The [June 2026 Nintendo Direct](https://www.nintendo.com/us/nintendo-direct/6-9-2026/?slug=6-9-2026) was a certified banger.
+  - [Xenoblade Genesis](https://www.nintendo.com/us/gaming-systems/switch-2/featured-games/xenoblade-genesis/) 🤩
+  - [Switch 2 Editions of the Xenoblade Chronicles Trilogy](https://www.youtube.com/watch?v=vTaD8maruNs) *(Finally! 🎉)*
+  - [Final Fantasy Resonance](https://www.square-enix.com/finalfantasyresonance/en_US/) 💎
+  - [Zelda Ocarina of Time Remake](https://www.youtube.com/watch?v=r8eMoxo4ipE)
+  - ..and so much more.
 
 ## Projects
 
