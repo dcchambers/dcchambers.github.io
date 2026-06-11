@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-06-09
+last_modified_at: 2026-06-11
 last_modified_location: "Wisconsin."
 ---
 
@@ -39,7 +39,6 @@ I often find myself reading too many books at once.
 ### Currently Reading
 
 - [The Count of Monte Cristo (Robin Buss translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f?ean=9780140449266&next=t)
-- [Of Blood and Fire](https://bookshop.org/p/books/of-blood-and-fire-ryan-cahill/b8d9bf3ab25652ef?ean=9781836980001&next=t)
 
 ### On-deck
 
@@ -69,6 +68,7 @@ Note: I set up a StoryGraph account at the beginning of the year - tentatively p
 
 - [Between Two Fires](https://bookshop.org/p/books/between-two-fires-christopher-buehlman/0f55d0b868b5b4f9?ean=9781250439208&next=t)
 - [A Parade of Horribles](https://bookshop.org/p/books/a-parade-of-horribles-matt-dinniman/4b1e7138a93de68e?ean=9798217190065&next=t)
+- [Of Blood and Fire](https://bookshop.org/p/books/of-blood-and-fire-ryan-cahill/b8d9bf3ab25652ef?ean=9781836980001&next=t)
 
 ## Playing
 
