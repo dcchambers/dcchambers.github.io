@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-06-11
+last_modified_at: 2026-76-21
 last_modified_location: "Wisconsin."
 ---
 
@@ -16,6 +16,8 @@ I am enjoying building things with AI coding agents.
 At the same time, I am spending more time "unplugged" and offline.
 When I am home, my phone lives in my kitchen, out of reach.
 I am reading more, running more, and being a more present father.
+
+I recently went on a trip to the Oregon Coast with my family and am training for the Madison Marathon this November.
 
 ## Things I'm Excited About
 
@@ -36,15 +38,12 @@ I am reading more, running more, and being a more present father.
 
 I often find myself reading too many books at once.
 
+Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dcchambers) or [Goodreads](https://www.goodreads.com/user/show/44353038-dakota-chambers).
+
 ### Currently Reading
 
-- [The Count of Monte Cristo (Robin Buss translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f?ean=9780140449266&next=t)
-
-### On-deck
-
-See my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dcchambers) or [Goodreads](https://www.goodreads.com/user/show/44353038-dakota-chambers).
-
-Note: I set up a StoryGraph account at the beginning of the year - tentatively planning on switching to that from Goodreads, but I am updating both for now.
+- [The Count of Monte Cristo (Robin Buss translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f)
+- [King Sorrow](https://bookshop.org/p/books/king-sorrow-joe-hill/d8827ca425d05b4a)
 
 ### Books I read this year
 
@@ -69,11 +68,12 @@ Note: I set up a StoryGraph account at the beginning of the year - tentatively p
 - [Between Two Fires](https://bookshop.org/p/books/between-two-fires-christopher-buehlman/0f55d0b868b5b4f9?ean=9781250439208&next=t)
 - [A Parade of Horribles](https://bookshop.org/p/books/a-parade-of-horribles-matt-dinniman/4b1e7138a93de68e?ean=9798217190065&next=t)
 - [Of Blood and Fire](https://bookshop.org/p/books/of-blood-and-fire-ryan-cahill/b8d9bf3ab25652ef?ean=9781836980001&next=t)
+- [Operation Bounce House](https://bookshop.org/p/books/operation-bounce-house-matt-dinniman/24cd1df57fabeed8)
 
-## Playing
+#### July
 
-- [Fantasy Life i](https://www.fantasylife.jp/fli/en/)
-- [Stardew Valley](https://www.stardewvalley.net/)
+- [The Strength of the Few](https://bookshop.org/p/books/the-strength-of-the-few-james-islington/eb8eb875a0e54b8d)
+- [The Wager](https://bookshop.org/p/books/the-wager-a-tale-of-shipwreck-mutiny-and-murder-david-grann/b1f2a00fc56cba78)
 
 ---
 
