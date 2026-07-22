@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-76-21
+last_modified_at: 2026-07-21
 last_modified_location: "Wisconsin."
 ---
 
