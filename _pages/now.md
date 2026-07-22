@@ -49,25 +49,25 @@ Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dc
 
 #### January
 
-- [The Butcher's Masquerade](https://bookshop.org/p/books/the-butcher-s-masquerade-matt-dinniman/357cb10d2c4ad06d?ean=9780593955994&next=t)
-- [Blood Meridian](https://bookshop.org/p/books/blood-meridian-or-the-evening-redness-in-the-west-cormac-mccarthy/1ba153cae254b572?ean=9780679728757&next=t)
+- [The Butcher's Masquerade](https://bookshop.org/p/books/the-butcher-s-masquerade-matt-dinniman/357cb10d2c4ad06d)
+- [Blood Meridian](https://bookshop.org/p/books/blood-meridian-or-the-evening-redness-in-the-west-cormac-mccarthy/1ba153cae254b572)
 - [Legends & Lattes](https://bookshop.org/p/books/legends-lattes-a-novel-of-high-fantasy-and-low-stakes-travis-baldree/62d7adba45f0b780)
-- [The Giver](https://bookshop.org/p/books/the-giver-a-newbery-award-winner-lois-lowry/839f94797df1e0b6?ean=9780544336261&next=t)
+- [The Giver](https://bookshop.org/p/books/the-giver-a-newbery-award-winner-lois-lowry/839f94797df1e0b6)
 - [The Anxious Generation](https://www.anxiousgeneration.com/)
 
 #### February
 
-- [The Eye of the Bedlam Bride](https://bookshop.org/p/books/the-eye-of-the-bedlam-bride-matt-dinniman/488d2108a7ac239f?ean=9780593956014&next=t)
+- [The Eye of the Bedlam Bride](https://bookshop.org/p/books/the-eye-of-the-bedlam-bride-matt-dinniman/488d2108a7ac239f)
 
 #### March
 
-- [This Inevitable Ruin](https://bookshop.org/p/books/this-inevitable-ruin-matt-dinniman/4eb739d7e3be4dda?ean=9798217190041&next=t)
+- [This Inevitable Ruin](https://bookshop.org/p/books/this-inevitable-ruin-matt-dinniman/4eb739d7e3be4dda)
 
 #### June
 
-- [Between Two Fires](https://bookshop.org/p/books/between-two-fires-christopher-buehlman/0f55d0b868b5b4f9?ean=9781250439208&next=t)
-- [A Parade of Horribles](https://bookshop.org/p/books/a-parade-of-horribles-matt-dinniman/4b1e7138a93de68e?ean=9798217190065&next=t)
-- [Of Blood and Fire](https://bookshop.org/p/books/of-blood-and-fire-ryan-cahill/b8d9bf3ab25652ef?ean=9781836980001&next=t)
+- [Between Two Fires](https://bookshop.org/p/books/between-two-fires-christopher-buehlman/0f55d0b868b5b4f9)
+- [A Parade of Horribles](https://bookshop.org/p/books/a-parade-of-horribles-matt-dinniman/4b1e7138a93de68e)
+- [Of Blood and Fire](https://bookshop.org/p/books/of-blood-and-fire-ryan-cahill/b8d9bf3ab25652ef)
 - [Operation Bounce House](https://bookshop.org/p/books/operation-bounce-house-matt-dinniman/24cd1df57fabeed8)
 
 #### July
