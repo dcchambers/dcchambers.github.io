@@ -2,11 +2,13 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-07-21
+last_modified_at: 2026-07-24
 last_modified_location: "Wisconsin."
 ---
 
 Last updated on {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
+
+It's a perfect, sunny summer day in Madison.
 
 ## Recently
 
@@ -43,7 +45,8 @@ Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dc
 ### Currently Reading
 
 - [The Count of Monte Cristo (Robin Buss translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f)
-- [King Sorrow](https://bookshop.org/p/books/king-sorrow-joe-hill/d8827ca425d05b4a)
+- [King Sorrow](https://bookshop.org/p/books/king-sorrow-joe-hill/d8827ca425d05b4a) (Audiobook while running)
+- [Mistborn: The Final Empire](https://bookshop.org/p/books/mistborn-the-final-empire-brandon-sanderson/b0740ffce395e5df?ean=9780765311788&bkshp-astro=t) (Buddy read with LeeAnn)
 
 ### Books I read this year
 
