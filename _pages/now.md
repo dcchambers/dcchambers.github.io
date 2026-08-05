@@ -2,34 +2,32 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-07-24
+last_modified_at: 2026-08-05
 last_modified_location: "Wisconsin."
 ---
 
 Last updated on {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
 
-It's a perfect, sunny summer day in Madison.
+It's a rainy day in Madison.
+But we needed the rain.
+July was dry and everything is Brown.
 
 ## Recently
 
-I'm exploring how AI is impacting software development and deployments.
-I am enjoying building things with AI coding agents.
+I'm building software with AI.
 
 At the same time, I am spending more time "unplugged" and offline.
-When I am home, my phone lives in my kitchen, out of reach.
+When I am home, my phone lives in my kitchen, out of reach. (credit: Cal Newport)
 I am reading more, running more, and being a more present father.
 
 I recently went on a trip to the Oregon Coast with my family and am training for the Madison Marathon this November.
 
+I also recently got a Steam Machine and have been enjoying some couch gaming of my favorite PC games!
+
 ## Things I'm Excited About
 
-- [macOS 27 - Golden Gate](https://en.wikipedia.org/wiki/MacOS_Golden_Gate) looks to revert or fix several of the poor design decisions from [MacOS Tahoe](https://en.wikipedia.org/wiki/MacOS_Tahoe).
-- The [June 2026 Nintendo Direct](https://www.nintendo.com/us/nintendo-direct/6-9-2026/?slug=6-9-2026) was a certified banger.
-  - [Xenoblade Genesis](https://www.nintendo.com/us/gaming-systems/switch-2/featured-games/xenoblade-genesis/) 🤩
-  - [Switch 2 Editions of the Xenoblade Chronicles Trilogy](https://www.youtube.com/watch?v=vTaD8maruNs) *(Finally! 🎉)*
-  - [Final Fantasy Resonance](https://www.square-enix.com/finalfantasyresonance/en_US/) 💎
-  - [Zelda Ocarina of Time Remake](https://www.youtube.com/watch?v=r8eMoxo4ipE)
-  - ...and so much more.
+- [Steam Machine](https://store.steampowered.com/hardware/steammachine)
+- [Fire Emblem: Fortunes' Weave](https://www.nintendo.com/us/nintendo-direct/8-4-2026/)
 
 ## Projects
 
