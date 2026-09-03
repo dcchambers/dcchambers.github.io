@@ -2,15 +2,11 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-08-05
+last_modified_at: 2026-09-02
 last_modified_location: "Wisconsin."
 ---
 
 Last updated on {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
-
-It's a rainy day in Madison.
-But we needed the rain.
-July was dry and everything is Brown.
 
 ## Recently
 
@@ -20,14 +16,13 @@ At the same time, I am spending more time "unplugged" and offline.
 When I am home, my phone lives in my kitchen, out of reach. (credit: Cal Newport)
 I am reading more, running more, and being a more present father.
 
-I recently went on a trip to the Oregon Coast with my family and am training for the Madison Marathon this November.
-
-I also recently got a Steam Machine and have been enjoying some couch gaming of my favorite PC games!
+I am training for the Madison Marathon this November.
 
 ## Things I'm Excited About
 
-- [Steam Machine](https://store.steampowered.com/hardware/steammachine)
-- [Fire Emblem: Fortunes' Weave](https://www.nintendo.com/us/nintendo-direct/8-4-2026/)
+I recently got a Steam Machine and have been enjoying some couch gaming of my favorite PC games!
+
+One last Summer trip up to Minocqua with the family.
 
 ## Projects
 
