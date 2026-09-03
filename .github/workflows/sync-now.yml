@@ -1,0 +1,29 @@
+name: Sync now page to omg.lol
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "_pages/now.md"
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.4.5"
+          bundler-cache: true
+
+      - name: Sync now page
+        env:
+          OMG_KEY: ${{ secrets.OMG_KEY }}
+        run: bundle exec rake now:sync
