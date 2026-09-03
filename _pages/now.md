@@ -38,7 +38,6 @@ Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dc
 ### Currently Reading
 
 - [The Count of Monte Cristo (Robin Buss translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f)
-- [King Sorrow](https://bookshop.org/p/books/king-sorrow-joe-hill/d8827ca425d05b4a) (Audiobook while running)
 - [Mistborn: The Final Empire](https://bookshop.org/p/books/mistborn-the-final-empire-brandon-sanderson/b0740ffce395e5df?ean=9780765311788&bkshp-astro=t) (Buddy read with LeeAnn)
 
 ### Books I read this year
@@ -70,6 +69,10 @@ Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dc
 
 - [The Strength of the Few](https://bookshop.org/p/books/the-strength-of-the-few-james-islington/eb8eb875a0e54b8d)
 - [The Wager](https://bookshop.org/p/books/the-wager-a-tale-of-shipwreck-mutiny-and-murder-david-grann/b1f2a00fc56cba78)
+
+#### September
+
+- [King Sorrow](https://bookshop.org/p/books/king-sorrow-joe-hill/d8827ca425d05b4a) (Audiobook while running)
 
 ---
 
