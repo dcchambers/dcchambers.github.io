@@ -50,7 +50,7 @@ namespace :now do
     system("zed #{now_page}")
   end
 
-  desc "Commits changes to the now page after showing a diff and asking for confirmation"
+  desc "Commits changes to the now page and optionally pushes them"
   task :commit do
     now_page = "_pages/now.md"
 
@@ -69,7 +69,29 @@ namespace :now do
     end
 
     commit_message = "Update now page - #{`date`.chomp}"
-    system("git add #{now_page} && git commit -m '#{commit_message}'")
+    committed = system("git", "add", now_page) && system("git", "commit", "-m", commit_message)
+    abort "Commit failed." unless committed
+
+    upstream = `git rev-parse --abbrev-ref --symbolic-full-name '@{upstream}' 2>/dev/null`.chomp
+    abort "Cannot push: the current branch has no upstream branch." if upstream.empty?
+
+    files_to_push = IO.popen(
+      ["git", "log", "--format=", "--name-only", "#{upstream}..HEAD"],
+      err: File::NULL,
+      &:read
+    ).lines.map(&:chomp).reject(&:empty?).uniq
+    abort "Cannot determine which files will be pushed." unless $?.success?
+
+    puts "\nFiles that will be pushed:"
+    files_to_push.each { |file| puts "  #{file}" }
+    print "\nPush these changes? [y/N] "
+    input = $stdin.gets&.chomp
+
+    if input&.downcase == "y"
+      abort "Push failed." unless system("git", "push")
+    else
+      puts "Committed without pushing."
+    end
   end
 
   desc "Syncs the now page to dakota.omg.lol"
