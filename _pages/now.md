@@ -33,7 +33,7 @@ One last Summer trip up to Minocqua with the family.
 
 I often find myself reading too many books at once.
 
-Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dcchambers) or [Goodreads](https://www.goodreads.com/user/show/44353038-dakota-chambers).
+Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dcchambers) or [Goodreads](https://www.goodreads.com/user/show/44353038-dakota-chambers) for a slightly less incomplete history.
 
 ### Currently Reading
 
