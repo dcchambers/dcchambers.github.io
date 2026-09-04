@@ -3,7 +3,7 @@ layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
 last_modified_at: 2026-09-03
-last_modified_location: "Wisconsin."
+last_modified_location: "Wisconsin"
 ---
 
 Last updated on {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page.last_modified_location }}.
