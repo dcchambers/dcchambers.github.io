@@ -20,7 +20,8 @@ I am training for the Madison Marathon this November.
 
 ## Things I'm Excited About
 
-- I recently got a Steam Machine and have been enjoying some couch gaming of my favorite PC games!
+- [Omarchy Quattro](https://omarchy.org/)
+- [Steam Machine](https://store.steampowered.com/sale/steammachine)
 - One last Summer trip up to Minocqua with the family.
 
 ## Projects
