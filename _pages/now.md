@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-09-03
+last_modified_at: 2026-09-10
 last_modified_location: "Wisconsin"
 ---
 
@@ -22,7 +22,7 @@ I am training for the Madison Marathon this November.
 
 - [Omarchy Quattro](https://omarchy.org/)
 - [Steam Machine](https://store.steampowered.com/sale/steammachine)
-- One last Summer trip up to Minocqua with the family.
+- [The Legend of Zelda: Ocarina of Time (remake)](https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/)
 
 ## Projects
 
@@ -38,7 +38,6 @@ Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dc
 ### Currently Reading
 
 - [The Count of Monte Cristo (Robin Buss translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f)
-- [Mistborn: The Final Empire](https://bookshop.org/p/books/mistborn-the-final-empire-brandon-sanderson/b0740ffce395e5df?ean=9780765311788&bkshp-astro=t) (Buddy read with LeeAnn)
 
 ### Books I read this year
 
@@ -73,6 +72,7 @@ Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dc
 #### September
 
 - [King Sorrow](https://bookshop.org/p/books/king-sorrow-joe-hill/d8827ca425d05b4a) (Audiobook while running)
+- [Mistborn: The Final Empire](https://bookshop.org/p/books/mistborn-the-final-empire-brandon-sanderson/b0740ffce395e5df?ean=9780765311788&bkshp-astro=t) (Buddy read with LeeAnn)
 
 ---
 
