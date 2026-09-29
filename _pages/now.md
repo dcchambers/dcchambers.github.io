@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-09-10
+last_modified_at: 2026-09-29
 last_modified_location: "Wisconsin"
 ---
 
@@ -73,6 +73,7 @@ Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dc
 
 - [King Sorrow](https://bookshop.org/p/books/king-sorrow-joe-hill/d8827ca425d05b4a) (Audiobook while running)
 - [Mistborn: The Final Empire](https://bookshop.org/p/books/mistborn-the-final-empire-brandon-sanderson/b0740ffce395e5df?ean=9780765311788&bkshp-astro=t) (Buddy read with LeeAnn)
+- [Recursion](https://bookshop.org/p/books/recursi-n-spanish-edition-recursion-blake-crouch/aa8ba97e40efd613)
 
 ---
 
