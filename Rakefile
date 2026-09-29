@@ -4,6 +4,7 @@ require 'fileutils'
 require 'date'
 require 'json'
 require 'net/http'
+require 'open3'
 require 'yaml'
 
 namespace :blog do
@@ -196,5 +197,91 @@ namespace :link do
     end
 
     puts "New blog post created: #{file_path}"
+  end
+end
+
+namespace :frontmatter do
+  desc "Updates last_modified_at in staged files that have YAML front matter"
+  task :update_last_modified_at do
+    repository_root, error, status = Open3.capture3("git", "rev-parse", "--show-toplevel")
+    abort "Error: Could not find the Git repository root. #{error}" unless status.success?
+
+    Dir.chdir(repository_root.chomp)
+
+    git = lambda do |*args, stdin_data: nil|
+      options = { binmode: true }
+      options[:stdin_data] = stdin_data unless stdin_data.nil?
+      output, error, status = Open3.capture3("git", *args, **options)
+      abort "Error: git #{args.join(' ')} failed. #{error}" unless status.success?
+      output
+    end
+
+    update_frontmatter = lambda do |content, date|
+      lines = content.lines
+      next unless lines.first&.match?(/\A(?:\xEF\xBB\xBF)?---[ \t]*(?:\r?\n|\z)/n)
+
+      closing_line = (1...lines.length).find do |index|
+        lines[index].match?(/\A---[ \t]*(?:\r?\n|\z)/n)
+      end
+      next unless closing_line
+
+      changed = false
+      (1...closing_line).each do |index|
+        match = lines[index].match(/\A([ \t]*last_modified_at[ \t]*:[ \t]*)(.*?)([ \t]+#.*)?(\r?\n|\z)\z/n)
+        next unless match
+
+        replacement = "#{match[1]}#{date}#{match[3]}#{match[4]}"
+        next if replacement == lines[index]
+
+        lines[index] = replacement
+        changed = true
+      end
+
+      lines.join if changed
+    end
+
+    changed_paths = git.call("diff", "--cached", "--name-only", "--diff-filter=ACMRT", "-z").split("\0")
+    if changed_paths.empty?
+      puts "No staged files to check."
+      next
+    end
+
+    entries = git.call("ls-files", "--stage", "-z").split("\0").each_with_object({}) do |entry, result|
+      metadata, path = entry.split("\t", 2)
+      next unless path
+
+      mode, object_id, stage = metadata.split(" ", 3)
+      result[path] = { mode: mode, object_id: object_id } if stage == "0"
+    end
+
+    date = Date.today.iso8601
+    updated_paths = []
+
+    changed_paths.each do |path|
+      entry = entries[path]
+      next unless entry && %w[100644 100755].include?(entry[:mode])
+
+      staged_content = git.call("cat-file", "blob", entry[:object_id])
+      updated_staged_content = update_frontmatter.call(staged_content, date)
+      next unless updated_staged_content
+
+      updated_object_id = git.call("hash-object", "-w", "--stdin", stdin_data: updated_staged_content).strip
+      index_entry = "#{entry[:mode]} #{updated_object_id} 0\t#{path}\0"
+      git.call("update-index", "-z", "--index-info", stdin_data: index_entry)
+
+      unless File.symlink?(path) || !File.file?(path)
+        worktree_content = File.binread(path)
+        updated_worktree_content = update_frontmatter.call(worktree_content, date)
+        File.binwrite(path, updated_worktree_content) if updated_worktree_content
+      end
+
+      updated_paths << path
+    end
+
+    if updated_paths.empty?
+      puts "No staged front matter with a stale last_modified_at date found."
+    else
+      updated_paths.each { |path| puts "Updated last_modified_at in #{path} to #{date}" }
+    end
   end
 end
