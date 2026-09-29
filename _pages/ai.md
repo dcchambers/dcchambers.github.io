@@ -2,12 +2,22 @@
 layout: page
 title: "AI Usage"
 permalink: /ai
-last_modified_at: 2026-04-07
+last_modified_at: 2026-09-29
 ---
 
 It's important to set personal limits on how we approach and use AI tools as they becomes more prevalent throughout our society.
 I have created this [permanent page](ai.md), inspired by [Derek Sivers](https://sive.rs/ai) and [Damola Morenikeji](https://www.bydamo.la/p/ai-manifesto).
 I will keep it updated with how I personally use AI to *add value to my life* in a sustainable way.
+
+## Subscriptons
+
+I currently subcribe to OpenCode Go, ChatGPT Plus, and Gemini.
+
+- OpenCode Go is a low cost subscription that gives me access to workhorse open models for coding like DeepSeek.
+- ChatGPT Plus gets me access to GPT Sol when I need a more powerful model for planning or complex tasks, and it offers essentially unlimited usage of Luna, OpenAI's low cost model. Luna on max effort is a really good "workhorse" model, similar to DeepSeek Flash.
+- I primarily subscribe to Gemini for other Google features, but I do use the app for quite a bit of Q&A and research. Gemini has excellent multi-modal capabilities and text-to-speech synthesis that make a joy to use.
+
+I also keep a small balance in my personal OpenRouter account which allows me to experiment with different models and test new features.a
 
 ## Writing
 
@@ -23,16 +33,11 @@ I can see how it's tempting to use AI to help you write, but I think it's overal
 Formulating thoughts to the point you can write them down and communicate them clearly is an incredibly valuable process and clearly elevates the quality of your work.
 Writing well makes you really think about what you want to say and forces you to string together sometimes disjointed thoughts into something concrete.
 
-The one exception to this rule is autocomplete text messages or emails.
-Ones that are transactional in nature - ones that don't require me to flex those creative writing muscles.
-
 ## Research
 
-I often use AI (primarily Gemini or Kagi Quick Answer) for general Q&A and research.
+I use AI (ChatGPT, Gemini, or Kagi Quick Answer) for general Q&A and research.
 This is an area modern LLMs excel at.
 Combine that with web search and multi-modal capabilities, these tools are, quite frankly, incredible.
-
-The conversational style voice synthesis in Gemini is really, scary good.
 
 You *do* need to be cautious when using AI tools for research.
 After all LLMs **cannot actually reason** and simply use mathematical probability to generate one token at a time.
@@ -48,41 +53,11 @@ I wouldn't use it to answer a question that I need to 100% verify is correct, bu
 
 ## Software Development
 
-Around the turn of the new year in 2026 I started experimenting with coding agents - first [Claude Code](https://claude.com/product/claude-code) and later [OpenCode](https://opencode.ai/) and I have to say - they are incredibly powerful.
+### Agents
 
-At work (Zendesk) I use Claude Code daily for writing code.
-I do not blindly accept whatever code Claude wants to give me (vibe coding), but I do use it in a couple ways:
+I'm all-in on agents for software development and related work.
 
-1. A "first-pass" at writing a feature.
-2. A starting point for something I'm thinking about.
-3. Writing tests.
-4. Writing lots of boilerplate.
-5. Writing documentation.
-6. Simple questions (syntax, regexes, etc)
-
-I almost never accept the first pass at what it has written.
-I will usually tweak it, expand, or (most often) remove complexity.
-But it's undeniable how much more a coding agent can make you **if you already know what you're doing and clearly know what you're looking for**.
-
-For personal coding projects, I use OpenCode in the same capacity.
-I use OpenCode because I can hop around to different models (and take advantages of discounts).
-I also get to support an excellent open source product.
-
-I use Gemini for lots of quick question answering and even generating small bits of code.
-
-I use Claude Code + ChatGPT (at work) and OpenCode + Gemini (personal).
-
-I also have in-line AI code completion turned on in my text editor ([Zed](https://zed.dev)), although I do find that less useful these days due to the power of Claude Code and OpenCode.
-
-## Agents
-
-Everyone these days is talking about [Openclaw](https://github.com/openclaw/openclaw).
-  
-It's a very cool and surprisingly simple tool.
-From a hacker's perspective, I love it.
-The potential is amazing.
-But there are (currently) far too many risks (security, alignment, etc) for me to blindly give an agent like this access to things I care about.
-I think everyone should spend time playing with OpenClaw (or other open agent implementatios) in a sandboxed environment to see what they can do.
+The agentic coding take-off that started in December of 2025 is very real. Claude Code, Codex, OpenCode, Pi, etc are just incredible tools. I began using these at the start of 2026 and now the day-to-day work of a software engineer is mostly interacting with LLMs via these coding harnesses. I am no exception.
 
 ### CLIs
 
@@ -92,5 +67,4 @@ If you have a powerful API (and a good CLI that exposes it) an agent can do pret
 ## Everything Else
 
 - I like typing. I have [a great keyboard](https://hhkeyboard.us/) and I'm pretty fast, but I have started experimenting with dictation software.
-  - I am using the MacOS [Handy](https://handy.computer/) app which uses local models for voice-to-text transcriptions.
-  - I am also using the [standard MacOS dictation software](https://support.apple.com/en-ca/guide/mac-help/mh40584/mac).
+  - I am the [Handy](https://handy.computer/) app on MacOS and Linux which uses local models for voice-to-text transcriptions.
