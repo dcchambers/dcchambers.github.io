@@ -13,4 +13,5 @@ permalink: /about
 - Check out my annual [Year in Review]({% link _pages/year-in-review.md %}).
 - See the [colophon]({% link _pages/colophon.md %}) for details about how this site is built.
 - My personal [guidelines for AI usage]({% link _pages/ai.md %}).
+- My [dotfiles](https://github.com/dcchambers/dotfiles), if you're into that kind of thing.
 - [Stuff you should read]({% link _pages/stuff-you-should-read.md %}) - Essays you should read.
