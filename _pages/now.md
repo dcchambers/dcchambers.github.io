@@ -10,13 +10,8 @@ Last updated on {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page
 
 ## Currently
 
-Building the software factory.
-
-At the same time, I am spending more time "unplugged" and offline.
-When I am home, my phone lives in my kitchen, out of reach. (credit: Cal Newport)
-I am reading more, running more, and being a more present father.
-
-I am training for the Madison Marathon this November.
+- Having a lot of fun right now building a productive agentic coding environment with [Pi](https://pi.dev), using models from [OpenCode](https://opencode.ai/go) and [OpenAI](https://openai.com/).
+- I am training for the [Madison Marathon](https://madisonmarathon.org/) in November.
 
 ## Things I'm Excited About
 
@@ -33,11 +28,13 @@ I am training for the Madison Marathon this November.
 
 I often find myself reading too many books at once.
 
-Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dcchambers) or [Goodreads](https://www.goodreads.com/user/show/44353038-dakota-chambers) for a slightly less incomplete history.
+Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dcchambers) or [Goodreads](https://www.goodreads.com/user/show/44353038-dakota-chambers).
 
 ### Currently Reading
 
 - [The Count of Monte Cristo (Robin Buss translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f)
+- [The Fisherman](https://bookshop.org/p/books/the-fisherman-john-langan/5068679d02a6820d)
+- [Blood Over Bright Haven](https://bookshop.org/p/books/blood-over-bright-haven-a-novel-m-l-wang/bf1a42d91c007c39)
 
 ### Books I read this year
 
@@ -47,7 +44,8 @@ Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dc
 - [Blood Meridian](https://bookshop.org/p/books/blood-meridian-or-the-evening-redness-in-the-west-cormac-mccarthy/1ba153cae254b572)
 - [Legends & Lattes](https://bookshop.org/p/books/legends-lattes-a-novel-of-high-fantasy-and-low-stakes-travis-baldree/62d7adba45f0b780)
 - [The Giver](https://bookshop.org/p/books/the-giver-a-newbery-award-winner-lois-lowry/839f94797df1e0b6)
-- [The Anxious Generation](https://www.anxiousgeneration.com/)
+- [The Anxious Generation](https://bookshop.org/p/books/the-anxious-generation-how-the-great-rewiring-of-childhood-is-causing-an-epidemic-of-mental-illness-jonathan-haidt/e7dfa59b478f9574)
+  - https://www.anxiousgeneration.com/
 
 #### February
 
@@ -72,7 +70,7 @@ Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dc
 #### September
 
 - [King Sorrow](https://bookshop.org/p/books/king-sorrow-joe-hill/d8827ca425d05b4a) (Audiobook while running)
-- [Mistborn: The Final Empire](https://bookshop.org/p/books/mistborn-the-final-empire-brandon-sanderson/b0740ffce395e5df?ean=9780765311788&bkshp-astro=t) (Buddy read with LeeAnn)
+- [Mistborn: The Final Empire](https://bookshop.org/p/books/mistborn-the-final-empire-brandon-sanderson/b0740ffce395e5df) (Buddy read with LeeAnn)
 - [Recursion](https://bookshop.org/p/books/recursi-n-spanish-edition-recursion-blake-crouch/aa8ba97e40efd613)
 
 ---
