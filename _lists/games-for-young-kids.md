@@ -2,7 +2,7 @@
 title: "Games For Young Kids"
 layout: page
 date: 2026-10-14
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-21
 ---
 
 Games can be an incredible tool for learning and development in young children.
@@ -14,4 +14,4 @@ None of these are explicitely "educational" or "learning" games.
 They're just great games that happen to have a ton of educational value.
 
 - Roller Coaster Tycoon
- - Teaches: Math, Physics, Finance
+ - What it teaches: Math, Physics, Finance, Economics
