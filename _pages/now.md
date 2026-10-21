@@ -2,7 +2,7 @@
 layout: page
 title: "What I'm Doing Right Now"
 permalink: /now
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-21
 last_modified_location: "Wisconsin"
 ---
 
@@ -35,7 +35,7 @@ Check out my [my profile on StoryGraph](https://app.thestorygraph.com/profile/dc
 - [The Count of Monte Cristo (Robin Buss translation)](https://bookshop.org/p/books/the-count-of-monte-cristo-alexandre-dumas/a48983a5b7db9e1f)
 - [Blood Over Bright Haven](https://bookshop.org/p/books/blood-over-bright-haven-a-novel-m-l-wang/bf1a42d91c007c39)
 - [The Fisherman](https://bookshop.org/p/books/the-fisherman-john-langan/5068679d02a6820d)
-- 
+
 ### Books I read this year
 
 #### January
