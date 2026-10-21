@@ -10,7 +10,7 @@ Last updated on {{ page.last_modified_at | date: "%A, %B %d, %Y" }} from {{ page
 
 ## Currently
 
-- Having a lot of fun right now building a productive agentic coding environment with [Pi](https://pi.dev), using models from [OpenCode](https://opencode.ai/go) and [OpenAI](https://openai.com/).
+- Experimenting building remote coding environments with both [Pi](https://pi.dev) and [OpenCode](https://opencode.ai), using models from [OpenCode](https://opencode.ai/go) and [OpenAI](https://openai.com/).
 - I am training for the [Madison Marathon](https://madisonmarathon.org/) in November.
 
 ## Things I'm Excited About
